@@ -1,0 +1,8598 @@
+[
+ {
+  "Index": 1,
+  "Word": "lã",
+  "Hint": "__",
+  "Length": 2,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 2,
+  "Word": "nó",
+  "Hint": "__",
+  "Length": 2,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 3,
+  "Word": "pá",
+  "Hint": "__",
+  "Length": 2,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 4,
+  "Word": "rã",
+  "Hint": "__",
+  "Length": 2,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 5,
+  "Word": "ás",
+  "Hint": "__",
+  "Length": 2,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 6,
+  "Word": "bom",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 7,
+  "Word": "chá",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 8,
+  "Word": "cão",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 9,
+  "Word": "dor",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 10,
+  "Word": "eco",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 11,
+  "Word": "emu",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 12,
+  "Word": "fim",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 13,
+  "Word": "giz",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 14,
+  "Word": "gol",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 15,
+  "Word": "ler",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 16,
+  "Word": "lua",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 17,
+  "Word": "mar",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 18,
+  "Word": "mau",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 19,
+  "Word": "mel",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 20,
+  "Word": "mãe",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 21,
+  "Word": "mão",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 22,
+  "Word": "noz",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 23,
+  "Word": "ovo",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 24,
+  "Word": "pai",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 25,
+  "Word": "pub",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 26,
+  "Word": "pão",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 27,
+  "Word": "rei",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 28,
+  "Word": "rio",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 29,
+  "Word": "rua",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 30,
+  "Word": "sal",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 31,
+  "Word": "sol",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 32,
+  "Word": "som",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 33,
+  "Word": "tio",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 34,
+  "Word": "voo",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 35,
+  "Word": "zoo",
+  "Hint": "___",
+  "Length": 3,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 36,
+  "Word": "Deus",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 37,
+  "Word": "alce",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 38,
+  "Word": "alho",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 39,
+  "Word": "alvo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 40,
+  "Word": "alça",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 41,
+  "Word": "amor",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 42,
+  "Word": "anel",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 43,
+  "Word": "anão",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 44,
+  "Word": "arco",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 45,
+  "Word": "ator",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 46,
+  "Word": "atum",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 47,
+  "Word": "azul",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 48,
+  "Word": "bala",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 49,
+  "Word": "base",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 50,
+  "Word": "bebé",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 51,
+  "Word": "beco",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 52,
+  "Word": "bife",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 53,
+  "Word": "boca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 54,
+  "Word": "bola",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 55,
+  "Word": "bolo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 56,
+  "Word": "café",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 57,
+  "Word": "cama",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 58,
+  "Word": "cano",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 59,
+  "Word": "capa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 60,
+  "Word": "cara",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 61,
+  "Word": "casa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 62,
+  "Word": "cato",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 63,
+  "Word": "cave",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 64,
+  "Word": "cera",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 65,
+  "Word": "cocó",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 66,
+  "Word": "cola",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 67,
+  "Word": "cone",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 68,
+  "Word": "copo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 69,
+  "Word": "cuco",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 70,
+  "Word": "dedo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 71,
+  "Word": "doca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 72,
+  "Word": "euro",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 73,
+  "Word": "faca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 74,
+  "Word": "fada",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 75,
+  "Word": "favo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 76,
+  "Word": "fita",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 77,
+  "Word": "flor",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 78,
+  "Word": "foca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 79,
+  "Word": "fofo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 80,
+  "Word": "fome",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 81,
+  "Word": "fora",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 82,
+  "Word": "frio",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 83,
+  "Word": "fuga",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 84,
+  "Word": "fumo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 85,
+  "Word": "gato",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 86,
+  "Word": "gelo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 87,
+  "Word": "gema",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 88,
+  "Word": "gola",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 89,
+  "Word": "hera",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 90,
+  "Word": "iate",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 91,
+  "Word": "ilha",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 92,
+  "Word": "isco",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 93,
+  "Word": "iéti",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 94,
+  "Word": "jazz",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 95,
+  "Word": "júri",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 96,
+  "Word": "laca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 97,
+  "Word": "lago",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 98,
+  "Word": "lama",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 99,
+  "Word": "laço",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 100,
+  "Word": "leão",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 101,
+  "Word": "lima",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 102,
+  "Word": "lixo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 103,
+  "Word": "lobo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 104,
+  "Word": "lodo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 105,
+  "Word": "lupa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 106,
+  "Word": "luva",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 107,
+  "Word": "maca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 108,
+  "Word": "mala",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 109,
+  "Word": "maçã",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 110,
+  "Word": "mesa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 111,
+  "Word": "mimo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 112,
+  "Word": "moto",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 113,
+  "Word": "nabo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 114,
+  "Word": "nada",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 115,
+  "Word": "naja",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 116,
+  "Word": "nerd",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 117,
+  "Word": "olho",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 118,
+  "Word": "onda",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 119,
+  "Word": "ouro",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 120,
+  "Word": "oval",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 121,
+  "Word": "pano",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 122,
+  "Word": "papa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 123,
+  "Word": "pato",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 124,
+  "Word": "país",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 125,
+  "Word": "pele",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 126,
+  "Word": "peru",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 127,
+  "Word": "pneu",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 128,
+  "Word": "poça",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 129,
+  "Word": "pulo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 130,
+  "Word": "puma",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 131,
+  "Word": "punk",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 132,
+  "Word": "pêlo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 133,
+  "Word": "raia",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 134,
+  "Word": "ramo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 135,
+  "Word": "rato",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 136,
+  "Word": "real",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 137,
+  "Word": "rede",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 138,
+  "Word": "remo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 139,
+  "Word": "rena",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 140,
+  "Word": "robô",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 141,
+  "Word": "roda",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 142,
+  "Word": "rosa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 143,
+  "Word": "rubi",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 144,
+  "Word": "ruga",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 145,
+  "Word": "saco",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 146,
+  "Word": "sair",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 147,
+  "Word": "sapo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 148,
+  "Word": "seca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 149,
+  "Word": "sede",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 150,
+  "Word": "sela",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 151,
+  "Word": "selo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 152,
+  "Word": "seta",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 153,
+  "Word": "silo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 154,
+  "Word": "sino",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 155,
+  "Word": "soma",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 156,
+  "Word": "sopa",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 157,
+  "Word": "sujo",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 158,
+  "Word": "suor",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 159,
+  "Word": "taco",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 160,
+  "Word": "tatu",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 161,
+  "Word": "taça",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 162,
+  "Word": "teia",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 163,
+  "Word": "teto",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 164,
+  "Word": "táxi",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 165,
+  "Word": "unha",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 166,
+  "Word": "urso",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 167,
+  "Word": "uvas",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 168,
+  "Word": "vaca",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 169,
+  "Word": "vale",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 170,
+  "Word": "veia",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 171,
+  "Word": "vela",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 172,
+  "Word": "íman",
+  "Hint": "____",
+  "Length": 4,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 173,
+  "Word": "alien",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 174,
+  "Word": "andar",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 175,
+  "Word": "arado",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 176,
+  "Word": "arame",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 177,
+  "Word": "arpão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 178,
+  "Word": "avelã",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 179,
+  "Word": "avião",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 180,
+  "Word": "bacon",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 181,
+  "Word": "balão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 182,
+  "Word": "banco",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 183,
+  "Word": "banho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 184,
+  "Word": "banjo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 185,
+  "Word": "barba",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 186,
+  "Word": "barco",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 187,
+  "Word": "barra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 188,
+  "Word": "beber",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 189,
+  "Word": "beijo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 190,
+  "Word": "bingo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 191,
+  "Word": "bolha",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 192,
+  "Word": "bolor",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 193,
+  "Word": "bolso",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 194,
+  "Word": "bomba",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 195,
+  "Word": "botas",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 196,
+  "Word": "botão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 197,
+  "Word": "brasa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 198,
+  "Word": "burro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 199,
+  "Word": "caixa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 200,
+  "Word": "calor",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 201,
+  "Word": "campo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 202,
+  "Word": "canto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 203,
+  "Word": "carne",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 204,
+  "Word": "casca",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 205,
+  "Word": "casco",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 206,
+  "Word": "cauda",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 207,
+  "Word": "cerca",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 208,
+  "Word": "cesto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 209,
+  "Word": "chave",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 210,
+  "Word": "cheio",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 211,
+  "Word": "chuva",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 212,
+  "Word": "cinto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 213,
+  "Word": "cinza",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 214,
+  "Word": "circo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 215,
+  "Word": "coala",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 216,
+  "Word": "cobra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 217,
+  "Word": "cobre",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 218,
+  "Word": "cofre",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 219,
+  "Word": "comer",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 220,
+  "Word": "coral",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 221,
+  "Word": "costa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 222,
+  "Word": "couro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 223,
+  "Word": "creme",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 224,
+  "Word": "curto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 225,
+  "Word": "cópia",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 226,
+  "Word": "côdea",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 227,
+  "Word": "dança",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 228,
+  "Word": "dente",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 229,
+  "Word": "doces",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 230,
+  "Word": "duplo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 231,
+  "Word": "esqui",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 232,
+  "Word": "exame",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 233,
+  "Word": "faixa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 234,
+  "Word": "farol",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 235,
+  "Word": "fecho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 236,
+  "Word": "feliz",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 237,
+  "Word": "ferro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 238,
+  "Word": "festa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 239,
+  "Word": "filha",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 240,
+  "Word": "filme",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 241,
+  "Word": "fisga",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 242,
+  "Word": "folha",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 243,
+  "Word": "forno",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 244,
+  "Word": "fundo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 245,
+  "Word": "galho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 246,
+  "Word": "ganso",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 247,
+  "Word": "garfo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 248,
+  "Word": "garra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 249,
+  "Word": "germe",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 250,
+  "Word": "glacé",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 251,
+  "Word": "globo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 252,
+  "Word": "gnomo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 253,
+  "Word": "golfe",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 254,
+  "Word": "grama",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 255,
+  "Word": "grilo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 256,
+  "Word": "harpa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 257,
+  "Word": "herói",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 258,
+  "Word": "hotel",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 259,
+  "Word": "kazoo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 260,
+  "Word": "lança",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 261,
+  "Word": "laser",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 262,
+  "Word": "leite",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 263,
+  "Word": "lento",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 264,
+  "Word": "lenço",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 265,
+  "Word": "letra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 266,
+  "Word": "limpo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 267,
+  "Word": "limão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 268,
+  "Word": "linha",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 269,
+  "Word": "livro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 270,
+  "Word": "loção",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 271,
+  "Word": "luigi",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 272,
+  "Word": "lápis",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 273,
+  "Word": "líder",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 274,
+  "Word": "lúcio",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 275,
+  "Word": "macho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 276,
+  "Word": "magia",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 277,
+  "Word": "manhã",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 278,
+  "Word": "marca",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 279,
+  "Word": "mario",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 280,
+  "Word": "massa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 281,
+  "Word": "meias",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 282,
+  "Word": "melão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 283,
+  "Word": "metro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 284,
+  "Word": "mexer",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 285,
+  "Word": "milho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 286,
+  "Word": "moeda",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 287,
+  "Word": "molde",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 288,
+  "Word": "molho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 289,
+  "Word": "motor",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 290,
+  "Word": "mundo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 291,
+  "Word": "museu",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 292,
+  "Word": "musgo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 293,
+  "Word": "nariz",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 294,
+  "Word": "ninho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 295,
+  "Word": "noite",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 296,
+  "Word": "noiva",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 297,
+  "Word": "noivo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 298,
+  "Word": "norte",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 299,
+  "Word": "nuvem",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 300,
+  "Word": "obeso",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 301,
+  "Word": "ombro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 302,
+  "Word": "ostra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 303,
+  "Word": "panda",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 304,
+  "Word": "papel",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 305,
+  "Word": "passa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 306,
+  "Word": "pasta",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 307,
+  "Word": "pausa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 308,
+  "Word": "pedal",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 309,
+  "Word": "pedra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 310,
+  "Word": "peixe",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 311,
+  "Word": "piano",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 312,
+  "Word": "pizza",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 313,
+  "Word": "pobre",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 314,
+  "Word": "polvo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 315,
+  "Word": "ponte",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 316,
+  "Word": "ponto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 317,
+  "Word": "porco",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 318,
+  "Word": "porta",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 319,
+  "Word": "porto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 320,
+  "Word": "porão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 321,
+  "Word": "praia",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 322,
+  "Word": "prata",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 323,
+  "Word": "preto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 324,
+  "Word": "primo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 325,
+  "Word": "pudim",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 326,
+  "Word": "pulso",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 327,
+  "Word": "pátio",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 328,
+  "Word": "queda",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 329,
+  "Word": "quivi",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 330,
+  "Word": "radar",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 331,
+  "Word": "rapaz",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 332,
+  "Word": "rosca",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 333,
+  "Word": "roubo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 334,
+  "Word": "rugir",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 335,
+  "Word": "rádio",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 336,
+  "Word": "régio",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 337,
+  "Word": "régua",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 338,
+  "Word": "sauna",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 339,
+  "Word": "saúde",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 340,
+  "Word": "selva",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 341,
+  "Word": "skate",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 342,
+  "Word": "sonho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 343,
+  "Word": "sonic",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 344,
+  "Word": "sorte",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 345,
+  "Word": "sushi",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 346,
+  "Word": "sótão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 347,
+  "Word": "tampa",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 348,
+  "Word": "tampo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 349,
+  "Word": "tarte",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 350,
+  "Word": "taser",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 351,
+  "Word": "tempo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 352,
+  "Word": "tenda",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 353,
+  "Word": "tigre",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 354,
+  "Word": "tinta",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 355,
+  "Word": "tocha",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 356,
+  "Word": "tonto",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 357,
+  "Word": "toque",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 358,
+  "Word": "tordo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 359,
+  "Word": "torre",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 360,
+  "Word": "traça",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 361,
+  "Word": "trenó",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 362,
+  "Word": "trevo",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 363,
+  "Word": "trono",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 364,
+  "Word": "tábua",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 365,
+  "Word": "ténis",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 366,
+  "Word": "túnel",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 367,
+  "Word": "veado",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 368,
+  "Word": "velho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 369,
+  "Word": "venda",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 370,
+  "Word": "vento",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 371,
+  "Word": "verão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 372,
+  "Word": "vidro",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 373,
+  "Word": "vinho",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 374,
+  "Word": "visão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 375,
+  "Word": "vodka",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 376,
+  "Word": "volta",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 377,
+  "Word": "vírus",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 378,
+  "Word": "zebra",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 379,
+  "Word": "ácido",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 380,
+  "Word": "águia",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 381,
+  "Word": "órgão",
+  "Hint": "_____",
+  "Length": 5,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 382,
+  "Word": "Canadá",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 383,
+  "Word": "França",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 384,
+  "Word": "abaixo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 385,
+  "Word": "abelha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 386,
+  "Word": "aberto",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 387,
+  "Word": "abismo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 388,
+  "Word": "abraço",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 389,
+  "Word": "abutre",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 390,
+  "Word": "adulto",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 391,
+  "Word": "agitar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 392,
+  "Word": "agulha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 393,
+  "Word": "airbag",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 394,
+  "Word": "alarme",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 395,
+  "Word": "alcool",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 396,
+  "Word": "aldeia",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 397,
+  "Word": "alface",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 398,
+  "Word": "alpaca",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 399,
+  "Word": "ameixa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 400,
+  "Word": "amuado",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 401,
+  "Word": "ananas",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 402,
+  "Word": "ancião",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 403,
+  "Word": "antena",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 404,
+  "Word": "aranha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 405,
+  "Word": "atleta",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 406,
+  "Word": "açúcar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 407,
+  "Word": "baleia",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 408,
+  "Word": "banana",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 409,
+  "Word": "barril",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 410,
+  "Word": "batata",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 411,
+  "Word": "batman",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 412,
+  "Word": "bebida",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 413,
+  "Word": "bigode",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 414,
+  "Word": "bobina",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 415,
+  "Word": "bolota",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 416,
+  "Word": "branco",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 417,
+  "Word": "brilho",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 418,
+  "Word": "bronze",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 419,
+  "Word": "bueiro",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 420,
+  "Word": "bétula",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 421,
+  "Word": "cabana",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 422,
+  "Word": "cabine",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 423,
+  "Word": "cadeia",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 424,
+  "Word": "caixão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 425,
+  "Word": "calças",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 426,
+  "Word": "camisa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 427,
+  "Word": "camião",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 428,
+  "Word": "caneca",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 429,
+  "Word": "canhão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 430,
+  "Word": "cantar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 431,
+  "Word": "careca",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 432,
+  "Word": "carris",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 433,
+  "Word": "cartão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 434,
+  "Word": "carvão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 435,
+  "Word": "casaco",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 436,
+  "Word": "casota",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 437,
+  "Word": "castor",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 438,
+  "Word": "cavalo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 439,
+  "Word": "caviar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 440,
+  "Word": "cebola",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 441,
+  "Word": "cereja",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 442,
+  "Word": "champô",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 443,
+  "Word": "chapéu",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 444,
+  "Word": "chifre",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 445,
+  "Word": "choque",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 446,
+  "Word": "cinema",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 447,
+  "Word": "coelho",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 448,
+  "Word": "colher",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 449,
+  "Word": "colina",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 450,
+  "Word": "coluna",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 451,
+  "Word": "comida",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 452,
+  "Word": "concha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 453,
+  "Word": "cordão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 454,
+  "Word": "correr",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 455,
+  "Word": "coruja",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 456,
+  "Word": "cowboy",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 457,
+  "Word": "criada",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 458,
+  "Word": "crista",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 459,
+  "Word": "crânio",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 460,
+  "Word": "cuecas",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 461,
+  "Word": "cágado",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 462,
+  "Word": "câmera",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 463,
+  "Word": "célula",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 464,
+  "Word": "cúpula",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 465,
+  "Word": "dardos",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 466,
+  "Word": "dentro",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 467,
+  "Word": "dormir",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 468,
+  "Word": "doutor",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 469,
+  "Word": "dragão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 470,
+  "Word": "enguia",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 471,
+  "Word": "enxame",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 472,
+  "Word": "escola",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 473,
+  "Word": "escova",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 474,
+  "Word": "esgoto",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 475,
+  "Word": "espada",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 476,
+  "Word": "espaço",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 477,
+  "Word": "espião",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 478,
+  "Word": "esposa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 479,
+  "Word": "fatura",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 480,
+  "Word": "faísca",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 481,
+  "Word": "feijão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 482,
+  "Word": "ferida",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 483,
+  "Word": "filtro",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 484,
+  "Word": "flatua",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 485,
+  "Word": "flauta",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 486,
+  "Word": "fluido",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 487,
+  "Word": "fralda",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 488,
+  "Word": "frango",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 489,
+  "Word": "férias",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 490,
+  "Word": "fóssil",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 491,
+  "Word": "gancho",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 492,
+  "Word": "gangue",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 493,
+  "Word": "garçom",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 494,
+  "Word": "gasosa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 495,
+  "Word": "gaveta",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 496,
+  "Word": "gelado",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 497,
+  "Word": "gentil",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 498,
+  "Word": "girafa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 499,
+  "Word": "gorila",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 500,
+  "Word": "gritar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 501,
+  "Word": "género",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 502,
+  "Word": "hippie",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 503,
+  "Word": "hobbit",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 504,
+  "Word": "hóquei",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 505,
+  "Word": "igreja",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 506,
+  "Word": "jacaré",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 507,
+  "Word": "jaguar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 508,
+  "Word": "janela",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 509,
+  "Word": "jantar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 510,
+  "Word": "jardim",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 511,
+  "Word": "javali",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 512,
+  "Word": "joelho",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 513,
+  "Word": "jornal",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 514,
+  "Word": "ladrão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 515,
+  "Word": "lentes",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 516,
+  "Word": "lençol",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 517,
+  "Word": "lontra",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 518,
+  "Word": "lustro",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 519,
+  "Word": "lábios",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 520,
+  "Word": "língua",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 521,
+  "Word": "macaco",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 522,
+  "Word": "maleta",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 523,
+  "Word": "mamute",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 524,
+  "Word": "marido",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 525,
+  "Word": "mastro",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 526,
+  "Word": "metade",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 527,
+  "Word": "minuto",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 528,
+  "Word": "modelo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 529,
+  "Word": "moinho",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 530,
+  "Word": "morena",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 531,
+  "Word": "nugget",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 532,
+  "Word": "níquel",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 533,
+  "Word": "oceano",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 534,
+  "Word": "orelha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 535,
+  "Word": "ouriço",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 536,
+  "Word": "outono",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 537,
+  "Word": "ovelha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 538,
+  "Word": "padrão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 539,
+  "Word": "painel",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 540,
+  "Word": "paleta",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 541,
+  "Word": "palmas",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 542,
+  "Word": "papaia",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 543,
+  "Word": "parede",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 544,
+  "Word": "parque",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 545,
+  "Word": "pensar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 546,
+  "Word": "pepino",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 547,
+  "Word": "perigo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 548,
+  "Word": "pernas",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 549,
+  "Word": "peruca",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 550,
+  "Word": "pessoa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 551,
+  "Word": "pickle",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 552,
+  "Word": "piloto",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 553,
+  "Word": "pincel",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 554,
+  "Word": "pirata",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 555,
+  "Word": "portal",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 556,
+  "Word": "portão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 557,
+  "Word": "postal",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 558,
+  "Word": "prisão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 559,
+  "Word": "pulmão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 560,
+  "Word": "punhal",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 561,
+  "Word": "puzzle",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 562,
+  "Word": "página",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 563,
+  "Word": "páscoa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 564,
+  "Word": "quarto",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 565,
+  "Word": "queijo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 566,
+  "Word": "queixo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 567,
+  "Word": "quente",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 568,
+  "Word": "queque",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 569,
+  "Word": "quokka",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 570,
+  "Word": "rainha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 571,
+  "Word": "rapido",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 572,
+  "Word": "raposa",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 573,
+  "Word": "rapper",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 574,
+  "Word": "rótulo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 575,
+  "Word": "safari",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 576,
+  "Word": "salada",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 577,
+  "Word": "saliva",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 578,
+  "Word": "salmão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 579,
+  "Word": "sangue",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 580,
+  "Word": "sapato",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 581,
+  "Word": "seguro",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 582,
+  "Word": "sereia",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 583,
+  "Word": "skater",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 584,
+  "Word": "sombra",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 585,
+  "Word": "sonhar",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 586,
+  "Word": "sorrir",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 587,
+  "Word": "sovaco",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 588,
+  "Word": "sudoku",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 589,
+  "Word": "tambor",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 590,
+  "Word": "tampão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 591,
+  "Word": "tanque",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 592,
+  "Word": "tecido",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 593,
+  "Word": "tijolo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 594,
+  "Word": "toalha",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 595,
+  "Word": "tomada",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 596,
+  "Word": "tomate",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 597,
+  "Word": "triste",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 598,
+  "Word": "troféu",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 599,
+  "Word": "tronco",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 600,
+  "Word": "trovão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 601,
+  "Word": "tucano",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 602,
+  "Word": "varejo",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 603,
+  "Word": "veneno",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 604,
+  "Word": "volume",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 605,
+  "Word": "vulcão",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 606,
+  "Word": "waffle",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 607,
+  "Word": "xadrez",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 608,
+  "Word": "zombie",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 609,
+  "Word": "África",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 610,
+  "Word": "árvore",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 611,
+  "Word": "óculos",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 612,
+  "Word": "órbita",
+  "Hint": "______",
+  "Length": 6,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 613,
+  "Word": "América",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 614,
+  "Word": "Flórida",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 615,
+  "Word": "abacate",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 616,
+  "Word": "abóbora",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 617,
+  "Word": "afundar",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 618,
+  "Word": "alcaçuz",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 619,
+  "Word": "alergia",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 620,
+  "Word": "algodão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 621,
+  "Word": "alperce",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 622,
+  "Word": "alçapão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 623,
+  "Word": "amêndoa",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 624,
+  "Word": "ancinho",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 625,
+  "Word": "anúncio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 626,
+  "Word": "arbusto",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 627,
+  "Word": "armazém",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 628,
+  "Word": "assento",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 629,
+  "Word": "assobio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 630,
+  "Word": "bagagem",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 631,
+  "Word": "baguete",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 632,
+  "Word": "balancé",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 633,
+  "Word": "balança",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 634,
+  "Word": "balanço",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 635,
+  "Word": "bandeja",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 636,
+  "Word": "barulho",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 637,
+  "Word": "batalha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 638,
+  "Word": "bateria",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 639,
+  "Word": "beliche",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 640,
+  "Word": "besouro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 641,
+  "Word": "bilhete",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 642,
+  "Word": "bolacha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 643,
+  "Word": "boliche",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 644,
+  "Word": "bretzel",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 645,
+  "Word": "cadeado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 646,
+  "Word": "cadeira",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 647,
+  "Word": "cadinho",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 648,
+  "Word": "cadáver",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 649,
+  "Word": "caixote",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 650,
+  "Word": "camarão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 651,
+  "Word": "campeão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 652,
+  "Word": "caniche",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 653,
+  "Word": "capitão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 654,
+  "Word": "caracol",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 655,
+  "Word": "carpete",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 656,
+  "Word": "cascata",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 657,
+  "Word": "caverna",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 658,
+  "Word": "caçador",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 659,
+  "Word": "cegonha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 660,
+  "Word": "celeiro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 661,
+  "Word": "cenoura",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 662,
+  "Word": "centavo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 663,
+  "Word": "cerveja",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 664,
+  "Word": "chaminé",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 665,
+  "Word": "chicote",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 666,
+  "Word": "chávena",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 667,
+  "Word": "cigarro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 668,
+  "Word": "cimento",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 669,
+  "Word": "cintura",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 670,
+  "Word": "cliente",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 671,
+  "Word": "colapso",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 672,
+  "Word": "colchão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 673,
+  "Word": "coleira",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 674,
+  "Word": "colibri",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 675,
+  "Word": "colmeia",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 676,
+  "Word": "comando",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 677,
+  "Word": "comboio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 678,
+  "Word": "confuso",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 679,
+  "Word": "consola",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 680,
+  "Word": "coração",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 681,
+  "Word": "corndog",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 682,
+  "Word": "corrida",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 683,
+  "Word": "cortina",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 684,
+  "Word": "costela",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 685,
+  "Word": "cozinha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 686,
+  "Word": "criança",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 687,
+  "Word": "cristal",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 688,
+  "Word": "crédito",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 689,
+  "Word": "cupcake",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 690,
+  "Word": "cérebro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 691,
+  "Word": "círculo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 692,
+  "Word": "declive",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 693,
+  "Word": "deserto",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 694,
+  "Word": "difícil",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 695,
+  "Word": "dominós",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 696,
+  "Word": "doninha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 697,
+  "Word": "edredom",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 698,
+  "Word": "eleição",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 699,
+  "Word": "encaixe",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 700,
+  "Word": "entrega",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 701,
+  "Word": "equador",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 702,
+  "Word": "eremita",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 703,
+  "Word": "espelho",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 704,
+  "Word": "espinha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 705,
+  "Word": "espirro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 706,
+  "Word": "esponja",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 707,
+  "Word": "espumar",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 708,
+  "Word": "esquilo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 709,
+  "Word": "esquimó",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 710,
+  "Word": "estação",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 711,
+  "Word": "esteira",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 712,
+  "Word": "estrela",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 713,
+  "Word": "estádio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 714,
+  "Word": "estéreo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 715,
+  "Word": "fabrica",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 716,
+  "Word": "fachada",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 717,
+  "Word": "família",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 718,
+  "Word": "fazenda",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 719,
+  "Word": "fiambre",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 720,
+  "Word": "foguete",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 721,
+  "Word": "formiga",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 722,
+  "Word": "fortuna",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 723,
+  "Word": "funeral",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 724,
+  "Word": "futebol",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 725,
+  "Word": "gaivota",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 726,
+  "Word": "galinha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 727,
+  "Word": "garagem",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 728,
+  "Word": "garrafa",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 729,
+  "Word": "gatilho",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 730,
+  "Word": "gatinho",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 731,
+  "Word": "gerador",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 732,
+  "Word": "gigante",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 733,
+  "Word": "gotejar",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 734,
+  "Word": "granada",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 735,
+  "Word": "hamster",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 736,
+  "Word": "impacto",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 737,
+  "Word": "inferno",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 738,
+  "Word": "invasão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 739,
+  "Word": "iogurte",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 740,
+  "Word": "jangada",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 741,
+  "Word": "jaqueta",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 742,
+  "Word": "jogador",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 743,
+  "Word": "jornada",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 744,
+  "Word": "ketchup",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 745,
+  "Word": "lagarta",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 746,
+  "Word": "lagarto",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 747,
+  "Word": "lagosta",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 748,
+  "Word": "laranja",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 749,
+  "Word": "lareira",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 750,
+  "Word": "locutor",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 751,
+  "Word": "lotaria",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 752,
+  "Word": "lágrima",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 753,
+  "Word": "lâmpada",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 754,
+  "Word": "machado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 755,
+  "Word": "manatim",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 756,
+  "Word": "marreta",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 757,
+  "Word": "martelo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 758,
+  "Word": "mascote",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 759,
+  "Word": "mercado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 760,
+  "Word": "minhoca",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 761,
+  "Word": "mirtilo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 762,
+  "Word": "mobília",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 763,
+  "Word": "mochila",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 764,
+  "Word": "moldura",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 765,
+  "Word": "monstro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 766,
+  "Word": "morango",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 767,
+  "Word": "morcego",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 768,
+  "Word": "mordomo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 769,
+  "Word": "mármore",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 770,
+  "Word": "músculo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 771,
+  "Word": "navalha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 772,
+  "Word": "omelete",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 773,
+  "Word": "palhaço",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 774,
+  "Word": "palácio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 775,
+  "Word": "papoula",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 776,
+  "Word": "passeio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 777,
+  "Word": "perfume",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 778,
+  "Word": "picante",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 779,
+  "Word": "pimento",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 780,
+  "Word": "pinball",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 781,
+  "Word": "pinguim",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 782,
+  "Word": "pipocas",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 783,
+  "Word": "piscina",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 784,
+  "Word": "pistola",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 785,
+  "Word": "planeta",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 786,
+  "Word": "polegar",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 787,
+  "Word": "prancha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 788,
+  "Word": "punição",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 789,
+  "Word": "pássaro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 790,
+  "Word": "pântano",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 791,
+  "Word": "pêndulo",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 792,
+  "Word": "pêssego",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 793,
+  "Word": "quartel",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 794,
+  "Word": "químico",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 795,
+  "Word": "reboque",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 796,
+  "Word": "receção",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 797,
+  "Word": "recorde",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 798,
+  "Word": "recreio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 799,
+  "Word": "regador",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 800,
+  "Word": "relação",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 801,
+  "Word": "relógio",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 802,
+  "Word": "repetir",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 803,
+  "Word": "retrato",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 804,
+  "Word": "revista",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 805,
+  "Word": "riqueza",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 806,
+  "Word": "segunda",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 807,
+  "Word": "sorriso",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 808,
+  "Word": "spoiler",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 809,
+  "Word": "teclado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 810,
+  "Word": "telhado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 811,
+  "Word": "tesoura",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 812,
+  "Word": "tesouro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 813,
+  "Word": "toranja",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 814,
+  "Word": "tornado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 815,
+  "Word": "torrada",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 816,
+  "Word": "tráfego",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 817,
+  "Word": "tubarão",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 818,
+  "Word": "vampiro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 819,
+  "Word": "varanda",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 820,
+  "Word": "vasilha",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 821,
+  "Word": "vegetal",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 822,
+  "Word": "veleiro",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 823,
+  "Word": "vendado",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 824,
+  "Word": "vestido",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 825,
+  "Word": "vinagre",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 826,
+  "Word": "violino",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 827,
+  "Word": "vomitar",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 828,
+  "Word": "zepelim",
+  "Hint": "_______",
+  "Length": 7,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 829,
+  "Word": "Alemanha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 830,
+  "Word": "acidente",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 831,
+  "Word": "ajoelhar",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 832,
+  "Word": "alfinete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 833,
+  "Word": "almofada",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 834,
+  "Word": "amendoim",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 835,
+  "Word": "anaconda",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 836,
+  "Word": "aplaudir",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 837,
+  "Word": "armadura",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 838,
+  "Word": "assaltar",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 839,
+  "Word": "atacador",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 840,
+  "Word": "badalada",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 841,
+  "Word": "baioneta",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 842,
+  "Word": "banheira",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 843,
+  "Word": "banheiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 844,
+  "Word": "barbeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 845,
+  "Word": "baunilha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 846,
+  "Word": "biologia",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 847,
+  "Word": "biscoito",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 848,
+  "Word": "bochecha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 849,
+  "Word": "bombeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 850,
+  "Word": "borracha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 851,
+  "Word": "brócolos",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 852,
+  "Word": "cachecol",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 853,
+  "Word": "cagalhão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 854,
+  "Word": "camponês",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 855,
+  "Word": "capacete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 856,
+  "Word": "carrinha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 857,
+  "Word": "carteira",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 858,
+  "Word": "carteiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 859,
+  "Word": "cascalho",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 860,
+  "Word": "castanha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 861,
+  "Word": "catálogo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 862,
+  "Word": "chaleira",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 863,
+  "Word": "chiclete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 864,
+  "Word": "cicatriz",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 865,
+  "Word": "cilindro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 866,
+  "Word": "cobertor",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 867,
+  "Word": "cocktail",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 868,
+  "Word": "cogumelo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 869,
+  "Word": "completo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 870,
+  "Word": "concerto",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 871,
+  "Word": "condutor",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 872,
+  "Word": "conselho",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 873,
+  "Word": "corrente",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 874,
+  "Word": "corrimão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 875,
+  "Word": "cotovelo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 876,
+  "Word": "cruzeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 877,
+  "Word": "curativo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 878,
+  "Word": "dentista",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 879,
+  "Word": "desastre",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 880,
+  "Word": "desporto",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 881,
+  "Word": "diagonal",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 882,
+  "Word": "diagrama",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 883,
+  "Word": "diamante",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 884,
+  "Word": "dinamite",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 885,
+  "Word": "dinheiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 886,
+  "Word": "disfarce",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 887,
+  "Word": "edifício",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 888,
+  "Word": "elefante",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 889,
+  "Word": "elevador",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 890,
+  "Word": "esfregão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 891,
+  "Word": "estômago",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 892,
+  "Word": "explosão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 893,
+  "Word": "exército",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 894,
+  "Word": "falhanço",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 895,
+  "Word": "fantasma",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 896,
+  "Word": "festival",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 897,
+  "Word": "flamingo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 898,
+  "Word": "floresta",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 899,
+  "Word": "fogueira",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 900,
+  "Word": "fogueiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 901,
+  "Word": "foguetão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 902,
+  "Word": "ganância",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 903,
+  "Word": "gasolina",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 904,
+  "Word": "golfinho",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 905,
+  "Word": "graffiti",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 906,
+  "Word": "grinalda",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 907,
+  "Word": "guaxinim",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 908,
+  "Word": "guitarra",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 909,
+  "Word": "hematoma",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 910,
+  "Word": "holofote",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 911,
+  "Word": "homicida",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 912,
+  "Word": "hospital",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 913,
+  "Word": "infinito",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 914,
+  "Word": "internet",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 915,
+  "Word": "jalapeno",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 916,
+  "Word": "joaninha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 917,
+  "Word": "lanterna",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 918,
+  "Word": "libélula",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 919,
+  "Word": "limonada",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 920,
+  "Word": "logótipo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 921,
+  "Word": "macarrão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 922,
+  "Word": "magazine",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 923,
+  "Word": "maionese",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 924,
+  "Word": "manteiga",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 925,
+  "Word": "marcador",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 926,
+  "Word": "maçaneta",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 927,
+  "Word": "mensagem",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 928,
+  "Word": "montanha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 929,
+  "Word": "mosquete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 930,
+  "Word": "mosquito",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 931,
+  "Word": "natureza",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 932,
+  "Word": "nevoeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 933,
+  "Word": "oxigénio",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 934,
+  "Word": "paciente",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 935,
+  "Word": "paisagem",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 936,
+  "Word": "papagaio",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 937,
+  "Word": "pelicano",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 938,
+  "Word": "película",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 939,
+  "Word": "penhasco",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 940,
+  "Word": "perdedor",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 941,
+  "Word": "pesadelo",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 942,
+  "Word": "pesquisa",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 943,
+  "Word": "picareta",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 944,
+  "Word": "pimentão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 945,
+  "Word": "pirulito",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 946,
+  "Word": "pranchão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 947,
+  "Word": "prataria",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 948,
+  "Word": "prefeito",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 949,
+  "Word": "preguiça",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 950,
+  "Word": "princesa",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 951,
+  "Word": "príncipe",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 952,
+  "Word": "quadrado",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 953,
+  "Word": "rabanete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 954,
+  "Word": "rapariga",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 955,
+  "Word": "reciclar",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 956,
+  "Word": "refeição",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 957,
+  "Word": "reflexão",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 958,
+  "Word": "respirar",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 959,
+  "Word": "sabonete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 960,
+  "Word": "salsicha",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 961,
+  "Word": "satélite",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 962,
+  "Word": "senhorio",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 963,
+  "Word": "silhueta",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 964,
+  "Word": "silêncio",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 965,
+  "Word": "soldador",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 966,
+  "Word": "suricata",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 967,
+  "Word": "sussurro",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 968,
+  "Word": "tatuagem",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 969,
+  "Word": "telefone",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 970,
+  "Word": "tiramisu",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 971,
+  "Word": "torneira",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 972,
+  "Word": "trabalho",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 973,
+  "Word": "trombeta",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 974,
+  "Word": "trompete",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 975,
+  "Word": "trovoada",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 976,
+  "Word": "uniforme",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 977,
+  "Word": "vassoura",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 978,
+  "Word": "vencedor",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 979,
+  "Word": "vermelho",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 980,
+  "Word": "vitamina",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 981,
+  "Word": "voleibol",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 982,
+  "Word": "xilofone",
+  "Hint": "________",
+  "Length": 8,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 983,
+  "Word": "Atlântida",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 984,
+  "Word": "aeroporto",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 985,
+  "Word": "agrafador",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 986,
+  "Word": "alforreca",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 987,
+  "Word": "arco-íris",
+  "Hint": "____-____",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 988,
+  "Word": "aspirador",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 989,
+  "Word": "assassino",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 990,
+  "Word": "autocarro",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 991,
+  "Word": "banqueiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 992,
+  "Word": "barricada",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 993,
+  "Word": "beterraba",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 994,
+  "Word": "bicicleta",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 995,
+  "Word": "binóculos",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 996,
+  "Word": "bobsleigh",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 997,
+  "Word": "borboleta",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 998,
+  "Word": "bracelete",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 999,
+  "Word": "brilhante",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1000,
+  "Word": "cabeçalho",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1001,
+  "Word": "cafetaria",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1002,
+  "Word": "calcanhar",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1003,
+  "Word": "casamento",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1004,
+  "Word": "catavento",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1005,
+  "Word": "cavaleiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1006,
+  "Word": "chiqueiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1007,
+  "Word": "chocolate",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1008,
+  "Word": "churrasco",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1009,
+  "Word": "clarinete",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1010,
+  "Word": "colherona",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1011,
+  "Word": "crocodilo",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1012,
+  "Word": "destroços",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1013,
+  "Word": "discoteca",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1014,
+  "Word": "distância",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1015,
+  "Word": "empregado",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1016,
+  "Word": "escadaria",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1017,
+  "Word": "escorrega",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1018,
+  "Word": "escultura",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1019,
+  "Word": "esfregona",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1020,
+  "Word": "espinafre",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1021,
+  "Word": "esqueleto",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1022,
+  "Word": "estudante",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1023,
+  "Word": "exercitar",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1024,
+  "Word": "exposição",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1025,
+  "Word": "forquilha",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1026,
+  "Word": "fronteira",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1027,
+  "Word": "gafanhoto",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1028,
+  "Word": "gravidade",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1029,
+  "Word": "grelhador",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1030,
+  "Word": "horizonte",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1031,
+  "Word": "labirinto",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1032,
+  "Word": "malmequer",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1033,
+  "Word": "mangueira",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1034,
+  "Word": "margarida",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1035,
+  "Word": "marioneta",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1036,
+  "Word": "meteorito",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1037,
+  "Word": "microfone",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1038,
+  "Word": "musaranho",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1039,
+  "Word": "nadadeira",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1040,
+  "Word": "obstáculo",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1041,
+  "Word": "península",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1042,
+  "Word": "percevejo",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1043,
+  "Word": "primavera",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1044,
+  "Word": "professor",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1045,
+  "Word": "rachadura",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1046,
+  "Word": "relâmpago",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1047,
+  "Word": "retângulo",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1048,
+  "Word": "saliência",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1049,
+  "Word": "samambaia",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1050,
+  "Word": "sanduiche",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1051,
+  "Word": "segurança",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1052,
+  "Word": "snowboard",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1053,
+  "Word": "sobremesa",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1054,
+  "Word": "sombreiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1055,
+  "Word": "tangerina",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1056,
+  "Word": "tartaruga",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1057,
+  "Word": "telemóvel",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1058,
+  "Word": "televisão",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1059,
+  "Word": "treinador",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1060,
+  "Word": "triângulo",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1061,
+  "Word": "unicórnio",
+  "Hint": "_________",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1062,
+  "Word": "água rasa",
+  "Hint": "____ ____",
+  "Length": 9,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1063,
+  "Word": "agricultor",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1064,
+  "Word": "amarelinha",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1065,
+  "Word": "ambulância",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1066,
+  "Word": "amolgadura",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1067,
+  "Word": "apocalipse",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1068,
+  "Word": "arqueólogo",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1069,
+  "Word": "assaltante",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1070,
+  "Word": "assustador",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1071,
+  "Word": "astronauta",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1072,
+  "Word": "biblioteca",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1073,
+  "Word": "calendário",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1074,
+  "Word": "cappuccino",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1075,
+  "Word": "caranguejo",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1076,
+  "Word": "comprimido",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1077,
+  "Word": "computador",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1078,
+  "Word": "comunidade",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1079,
+  "Word": "congelador",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1080,
+  "Word": "couve-flor",
+  "Hint": "_____-____",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1081,
+  "Word": "dedo do pé",
+  "Hint": "____ __ __",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1082,
+  "Word": "dinossauro",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1083,
+  "Word": "empregador",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1084,
+  "Word": "enfermeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1085,
+  "Word": "escritório",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1086,
+  "Word": "espingarda",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1087,
+  "Word": "feiticeiro",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1088,
+  "Word": "fotografia",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1089,
+  "Word": "frigideira",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1090,
+  "Word": "guarda-sol",
+  "Hint": "______-___",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1091,
+  "Word": "guardanapo",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1092,
+  "Word": "hambúrguer",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1093,
+  "Word": "impressora",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1094,
+  "Word": "infantário",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1095,
+  "Word": "interseção",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1096,
+  "Word": "lavandaria",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1097,
+  "Word": "meia-noite",
+  "Hint": "____-_____",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1098,
+  "Word": "misturador",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1099,
+  "Word": "motosserra",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1100,
+  "Word": "paraquedas",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1101,
+  "Word": "passadeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1102,
+  "Word": "piquenique",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1103,
+  "Word": "presidente",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1104,
+  "Word": "queimadura",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1105,
+  "Word": "secretária",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1106,
+  "Word": "superfície",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1107,
+  "Word": "telescópio",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1108,
+  "Word": "tempestade",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1109,
+  "Word": "termómetro",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1110,
+  "Word": "torradeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1111,
+  "Word": "trepadeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1112,
+  "Word": "ventilação",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1113,
+  "Word": "vizinhança",
+  "Hint": "__________",
+  "Length": 10,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1114,
+  "Word": "acampamento",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1115,
+  "Word": "altifalante",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1116,
+  "Word": "aniversário",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1117,
+  "Word": "apartamento",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1118,
+  "Word": "autoestrada",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1119,
+  "Word": "basquetebol",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1120,
+  "Word": "bob esponja",
+  "Hint": "___ _______",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1121,
+  "Word": "canalizador",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1122,
+  "Word": "cheerleader",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1123,
+  "Word": "confortável",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1124,
+  "Word": "controlador",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1125,
+  "Word": "conversação",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1126,
+  "Word": "demostracão",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1127,
+  "Word": "dispensador",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1128,
+  "Word": "escaravelho",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1129,
+  "Word": "formigueiro",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1130,
+  "Word": "frigorífico",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1131,
+  "Word": "helicóptero",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1132,
+  "Word": "hippopótamo",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1133,
+  "Word": "levantar-se",
+  "Hint": "________-__",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1134,
+  "Word": "malabarismo",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1135,
+  "Word": "marshmallow",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1136,
+  "Word": "mergulhador",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1137,
+  "Word": "microscópio",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1138,
+  "Word": "noz-moscada",
+  "Hint": "___-_______",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1139,
+  "Word": "para-brisas",
+  "Hint": "____-______",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1140,
+  "Word": "para-choque",
+  "Hint": "____-______",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1141,
+  "Word": "peixe-balão",
+  "Hint": "_____-_____",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1142,
+  "Word": "pensionista",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1143,
+  "Word": "publicidade",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1144,
+  "Word": "pé-de-cabra",
+  "Hint": "__-__-_____",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1145,
+  "Word": "restaurante",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1146,
+  "Word": "saca-rolhas",
+  "Hint": "____-______",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1147,
+  "Word": "sanguessuga",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1148,
+  "Word": "sobrancelha",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1149,
+  "Word": "subterrâneo",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1150,
+  "Word": "temperatura",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1151,
+  "Word": "vegetariano",
+  "Hint": "___________",
+  "Length": 11,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1152,
+  "Word": "arranha-céus",
+  "Hint": "_______-____",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1153,
+  "Word": "bola de neve",
+  "Hint": "____ __ ____",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1154,
+  "Word": "casca de noz",
+  "Hint": "_____ __ ___",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1155,
+  "Word": "cheeseburger",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1156,
+  "Word": "desentupidor",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1157,
+  "Word": "desfiladeiro",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1158,
+  "Word": "eletricidade",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1159,
+  "Word": "farmacêutico",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1160,
+  "Word": "fita métrica",
+  "Hint": "____ _______",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1161,
+  "Word": "frutos secos",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1162,
+  "Word": "guarda-chuva",
+  "Hint": "______-_____",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1163,
+  "Word": "incapacidade",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1164,
+  "Word": "lança-chamas",
+  "Hint": "_____-______",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1165,
+  "Word": "observatório",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1166,
+  "Word": "ornitorrinco",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1167,
+  "Word": "peixe-espada",
+  "Hint": "_____-______",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1168,
+  "Word": "profissional",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1169,
+  "Word": "pão de forma",
+  "Hint": "___ __ _____",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1170,
+  "Word": "pé de feijão",
+  "Hint": "__ __ ______",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1171,
+  "Word": "quebra-nozes",
+  "Hint": "______-_____",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1172,
+  "Word": "refrigerador",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1173,
+  "Word": "sabre de luz",
+  "Hint": "_____ __ ___",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1174,
+  "Word": "supermercado",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1175,
+  "Word": "tiranossauro",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1176,
+  "Word": "velociraptor",
+  "Hint": "____________",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1177,
+  "Word": "água salgada",
+  "Hint": "____ _______",
+  "Length": 12,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1178,
+  "Word": "auscultadores",
+  "Hint": "_____________",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1179,
+  "Word": "batom de cola",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1180,
+  "Word": "casa de banho",
+  "Hint": "____ __ _____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1181,
+  "Word": "chave inglesa",
+  "Hint": "_____ _______",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1182,
+  "Word": "dente-de-leão",
+  "Hint": "_____-__-____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1183,
+  "Word": "floco de neve",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1184,
+  "Word": "gota de chuva",
+  "Hint": "____ __ _____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1185,
+  "Word": "lápis de cera",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1186,
+  "Word": "nascer do sol",
+  "Hint": "______ __ ___",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1187,
+  "Word": "nave espacial",
+  "Hint": "____ ________",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1188,
+  "Word": "palavra-chave",
+  "Hint": "_______-_____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1189,
+  "Word": "peixe-dourado",
+  "Hint": "_____-_______",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1190,
+  "Word": "ténis de mesa",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1191,
+  "Word": "óculos de sol",
+  "Hint": "______ __ ___",
+  "Length": 13,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1192,
+  "Word": "areia movediça",
+  "Hint": "_____ ________",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1193,
+  "Word": "batatas fritas",
+  "Hint": "_______ ______",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1194,
+  "Word": "bloco de notas",
+  "Hint": "_____ __ _____",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1195,
+  "Word": "boneco de neve",
+  "Hint": "______ __ ____",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1196,
+  "Word": "caixa de areia",
+  "Hint": "_____ __ _____",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1197,
+  "Word": "cavalo-marinho",
+  "Hint": "______-_______",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1198,
+  "Word": "cera de orelha",
+  "Hint": "____ __ ______",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1199,
+  "Word": "espeleologista",
+  "Hint": "______________",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1200,
+  "Word": "estrela-do-mar",
+  "Hint": "_______-__-___",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1201,
+  "Word": "floresta úmida",
+  "Hint": "________ _____",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1202,
+  "Word": "hora de dormir",
+  "Hint": "____ __ ______",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1203,
+  "Word": "idade da pedra",
+  "Hint": "_____ __ _____",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1204,
+  "Word": "montanha-russa",
+  "Hint": "________-_____",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1205,
+  "Word": "pequeno-almoço",
+  "Hint": "_______-______",
+  "Length": 14,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1206,
+  "Word": "cachorro quente",
+  "Hint": "________ ______",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1207,
+  "Word": "carrinho de mão",
+  "Hint": "________ __ ___",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1208,
+  "Word": "casca de banana",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1209,
+  "Word": "corte de cabelo",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1210,
+  "Word": "descarregamento",
+  "Hint": "_______________",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1211,
+  "Word": "macaco do nariz",
+  "Hint": "______ __ _____",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1212,
+  "Word": "papel de parede",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1213,
+  "Word": "pasta de dentes",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1214,
+  "Word": "pau de vassoura",
+  "Hint": "___ __ ________",
+  "Length": 15,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1215,
+  "Word": "caixa de correio",
+  "Hint": "_____ __ _______",
+  "Length": 16,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1216,
+  "Word": "castelo de areia",
+  "Hint": "_______ __ _____",
+  "Length": 16,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1217,
+  "Word": "centro comercial",
+  "Hint": "______ _________",
+  "Length": 16,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1218,
+  "Word": "escova de cabelo",
+  "Hint": "______ __ ______",
+  "Length": 16,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1219,
+  "Word": "escova de dentes",
+  "Hint": "______ __ ______",
+  "Length": 16,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1220,
+  "Word": "máquina do tempo",
+  "Hint": "_______ __ _____",
+  "Length": 16,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1221,
+  "Word": "cortador de grama",
+  "Hint": "________ __ _____",
+  "Length": 17,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1222,
+  "Word": "fogo de artifício",
+  "Hint": "____ __ _________",
+  "Length": 17,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1223,
+  "Word": "local de trabalho",
+  "Hint": "_____ __ ________",
+  "Length": 17,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1224,
+  "Word": "lâmina de barbear",
+  "Hint": "______ __ _______",
+  "Length": 17,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1225,
+  "Word": "pulseira luminosa",
+  "Hint": "________ ________",
+  "Length": 17,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1226,
+  "Word": "ventilador de teto",
+  "Hint": "__________ __ ____",
+  "Length": 18,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1227,
+  "Word": "país das maravilhas",
+  "Hint": "____ ___ __________",
+  "Length": 19,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ },
+ {
+  "Index": 1228,
+  "Word": "caixa de ferramentas",
+  "Hint": "_____ __ ___________",
+  "Length": 20,
+  "Alphabet": "abcdefghijklmnopqrstuvwxyzáâãçéêíóôú"
+ }
+]
