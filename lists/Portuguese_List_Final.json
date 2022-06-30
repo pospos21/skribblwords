@@ -1,0 +1,8598 @@
+[
+ {
+  "Word": "lã",
+  "Hint": "__",
+  "Length": 2,
+  "Translation": "wool",
+  "Index": 1
+ },
+ {
+  "Word": "nó",
+  "Hint": "__",
+  "Length": 2,
+  "Translation": "tie",
+  "Index": 2
+ },
+ {
+  "Word": "pá",
+  "Hint": "__",
+  "Length": 2,
+  "Translation": "spade",
+  "Index": 3
+ },
+ {
+  "Word": "rã",
+  "Hint": "__",
+  "Length": 2,
+  "Translation": "frog",
+  "Index": 4
+ },
+ {
+  "Word": "ás",
+  "Hint": "__",
+  "Length": 2,
+  "Translation": "ace",
+  "Index": 5
+ },
+ {
+  "Word": "bom",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "good",
+  "Index": 6
+ },
+ {
+  "Word": "chá",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "tea",
+  "Index": 7
+ },
+ {
+  "Word": "cão",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "hammer",
+  "Index": 8
+ },
+ {
+  "Word": "dor",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "pain",
+  "Index": 9
+ },
+ {
+  "Word": "eco",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "echo",
+  "Index": 10
+ },
+ {
+  "Word": "emu",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "emu",
+  "Index": 11
+ },
+ {
+  "Word": "fim",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "end",
+  "Index": 12
+ },
+ {
+  "Word": "giz",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "chalk",
+  "Index": 13
+ },
+ {
+  "Word": "gol",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "goal",
+  "Index": 14
+ },
+ {
+  "Word": "ler",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "read",
+  "Index": 15
+ },
+ {
+  "Word": "lua",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "moon",
+  "Index": 16
+ },
+ {
+  "Word": "mar",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "deep",
+  "Index": 17
+ },
+ {
+  "Word": "mau",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "bad",
+  "Index": 18
+ },
+ {
+  "Word": "mel",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "honey",
+  "Index": 19
+ },
+ {
+  "Word": "mãe",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "mother",
+  "Index": 20
+ },
+ {
+  "Word": "mão",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "paw",
+  "Index": 21
+ },
+ {
+  "Word": "noz",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "walnut",
+  "Index": 22
+ },
+ {
+  "Word": "ovo",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "egg",
+  "Index": 23
+ },
+ {
+  "Word": "pai",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "father",
+  "Index": 24
+ },
+ {
+  "Word": "pub",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "pub",
+  "Index": 25
+ },
+ {
+  "Word": "pão",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "bread",
+  "Index": 26
+ },
+ {
+  "Word": "rei",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "ruler",
+  "Index": 27
+ },
+ {
+  "Word": "rio",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "river",
+  "Index": 28
+ },
+ {
+  "Word": "rua",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "street",
+  "Index": 29
+ },
+ {
+  "Word": "sal",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "salt",
+  "Index": 30
+ },
+ {
+  "Word": "sol",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "sun",
+  "Index": 31
+ },
+ {
+  "Word": "som",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "sound",
+  "Index": 32
+ },
+ {
+  "Word": "tio",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "uncle",
+  "Index": 33
+ },
+ {
+  "Word": "voo",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "flight attendant",
+  "Index": 34
+ },
+ {
+  "Word": "zoo",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "zoo",
+  "Index": 35
+ },
+ {
+  "Word": "Deus",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "God",
+  "Index": 36
+ },
+ {
+  "Word": "alce",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "moose",
+  "Index": 37
+ },
+ {
+  "Word": "alho",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "garlic",
+  "Index": 38
+ },
+ {
+  "Word": "alvo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "target",
+  "Index": 39
+ },
+ {
+  "Word": "alça",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ring",
+  "Index": 40
+ },
+ {
+  "Word": "amor",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "heart",
+  "Index": 41
+ },
+ {
+  "Word": "anel",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "circle",
+  "Index": 42
+ },
+ {
+  "Word": "anão",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "dwarf",
+  "Index": 43
+ },
+ {
+  "Word": "arco",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "arch",
+  "Index": 44
+ },
+ {
+  "Word": "ator",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "actor",
+  "Index": 45
+ },
+ {
+  "Word": "atum",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tuna",
+  "Index": 46
+ },
+ {
+  "Word": "azul",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "blue",
+  "Index": 47
+ },
+ {
+  "Word": "bala",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bullet",
+  "Index": 48
+ },
+ {
+  "Word": "base",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "base",
+  "Index": 49
+ },
+ {
+  "Word": "bebé",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "baby",
+  "Index": 50
+ },
+ {
+  "Word": "beco",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "alley",
+  "Index": 51
+ },
+ {
+  "Word": "bife",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "steak",
+  "Index": 52
+ },
+ {
+  "Word": "boca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "mouth",
+  "Index": 53
+ },
+ {
+  "Word": "bola",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bubble",
+  "Index": 54
+ },
+ {
+  "Word": "bolo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cake",
+  "Index": 55
+ },
+ {
+  "Word": "café",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "coffee shop",
+  "Index": 56
+ },
+ {
+  "Word": "cama",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bed",
+  "Index": 57
+ },
+ {
+  "Word": "cano",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "pipe",
+  "Index": 58
+ },
+ {
+  "Word": "capa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cloak",
+  "Index": 59
+ },
+ {
+  "Word": "cara",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "face",
+  "Index": 60
+ },
+ {
+  "Word": "casa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "house",
+  "Index": 61
+ },
+ {
+  "Word": "cato",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cactus",
+  "Index": 62
+ },
+ {
+  "Word": "cave",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "vault",
+  "Index": 63
+ },
+ {
+  "Word": "cera",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wax",
+  "Index": 64
+ },
+ {
+  "Word": "cocó",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "poop",
+  "Index": 65
+ },
+ {
+  "Word": "cola",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cola",
+  "Index": 66
+ },
+ {
+  "Word": "cone",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cone",
+  "Index": 67
+ },
+ {
+  "Word": "copo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "glass",
+  "Index": 68
+ },
+ {
+  "Word": "cuco",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cuckoo",
+  "Index": 69
+ },
+ {
+  "Word": "dedo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "finger",
+  "Index": 70
+ },
+ {
+  "Word": "doca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "dock",
+  "Index": 71
+ },
+ {
+  "Word": "euro",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "euro",
+  "Index": 72
+ },
+ {
+  "Word": "faca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "Knife",
+  "Index": 73
+ },
+ {
+  "Word": "fada",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fairy",
+  "Index": 74
+ },
+ {
+  "Word": "favo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "honeycomb",
+  "Index": 75
+ },
+ {
+  "Word": "fita",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ribbon",
+  "Index": 76
+ },
+ {
+  "Word": "flor",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "flower",
+  "Index": 77
+ },
+ {
+  "Word": "foca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "seal",
+  "Index": 78
+ },
+ {
+  "Word": "fofo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cute",
+  "Index": 79
+ },
+ {
+  "Word": "fome",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hunger",
+  "Index": 80
+ },
+ {
+  "Word": "fora",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "outside",
+  "Index": 81
+ },
+ {
+  "Word": "frio",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cold",
+  "Index": 82
+ },
+ {
+  "Word": "fuga",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "escape",
+  "Index": 83
+ },
+ {
+  "Word": "fumo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "smoke",
+  "Index": 84
+ },
+ {
+  "Word": "gato",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cat",
+  "Index": 85
+ },
+ {
+  "Word": "gelo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "icicle",
+  "Index": 86
+ },
+ {
+  "Word": "gema",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "button",
+  "Index": 87
+ },
+ {
+  "Word": "gola",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "neck",
+  "Index": 88
+ },
+ {
+  "Word": "hera",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ivy",
+  "Index": 89
+ },
+ {
+  "Word": "iate",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "yacht",
+  "Index": 90
+ },
+ {
+  "Word": "ilha",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "island",
+  "Index": 91
+ },
+ {
+  "Word": "isco",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bait",
+  "Index": 92
+ },
+ {
+  "Word": "iéti",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "yeti",
+  "Index": 93
+ },
+ {
+  "Word": "jazz",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "jazz",
+  "Index": 94
+ },
+ {
+  "Word": "júri",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "jury",
+  "Index": 95
+ },
+ {
+  "Word": "laca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hairspray",
+  "Index": 96
+ },
+ {
+  "Word": "lago",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "lake",
+  "Index": 97
+ },
+ {
+  "Word": "lama",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "mud",
+  "Index": 98
+ },
+ {
+  "Word": "laço",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "trap",
+  "Index": 99
+ },
+ {
+  "Word": "leão",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "lion",
+  "Index": 100
+ },
+ {
+  "Word": "lima",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "lime",
+  "Index": 101
+ },
+ {
+  "Word": "lixo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "garbage",
+  "Index": 102
+ },
+ {
+  "Word": "lobo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wolf",
+  "Index": 103
+ },
+ {
+  "Word": "lodo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "clay",
+  "Index": 104
+ },
+ {
+  "Word": "lupa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "magnifier",
+  "Index": 105
+ },
+ {
+  "Word": "luva",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sleeve",
+  "Index": 106
+ },
+ {
+  "Word": "maca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hammock",
+  "Index": 107
+ },
+ {
+  "Word": "mala",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "suitcase",
+  "Index": 108
+ },
+ {
+  "Word": "maçã",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "Apple",
+  "Index": 109
+ },
+ {
+  "Word": "mesa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "table",
+  "Index": 110
+ },
+ {
+  "Word": "mimo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "mime",
+  "Index": 111
+ },
+ {
+  "Word": "moto",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "motorbike",
+  "Index": 112
+ },
+ {
+  "Word": "nabo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "turnip",
+  "Index": 113
+ },
+ {
+  "Word": "nada",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "nothing",
+  "Index": 114
+ },
+ {
+  "Word": "naja",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cobra",
+  "Index": 115
+ },
+ {
+  "Word": "nerd",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "nerd",
+  "Index": 116
+ },
+ {
+  "Word": "olho",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "eye",
+  "Index": 117
+ },
+ {
+  "Word": "onda",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wave",
+  "Index": 118
+ },
+ {
+  "Word": "ouro",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "gold",
+  "Index": 119
+ },
+ {
+  "Word": "oval",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "oval",
+  "Index": 120
+ },
+ {
+  "Word": "pano",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fabric",
+  "Index": 121
+ },
+ {
+  "Word": "papa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "pope",
+  "Index": 122
+ },
+ {
+  "Word": "pato",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "duck",
+  "Index": 123
+ },
+ {
+  "Word": "país",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "country",
+  "Index": 124
+ },
+ {
+  "Word": "pele",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "skin",
+  "Index": 125
+ },
+ {
+  "Word": "peru",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "turkey",
+  "Index": 126
+ },
+ {
+  "Word": "pneu",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tire",
+  "Index": 127
+ },
+ {
+  "Word": "poça",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "puddle",
+  "Index": 128
+ },
+ {
+  "Word": "pulo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bounce",
+  "Index": 129
+ },
+ {
+  "Word": "puma",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "puma",
+  "Index": 130
+ },
+ {
+  "Word": "punk",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "punk",
+  "Index": 131
+ },
+ {
+  "Word": "pêlo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hair",
+  "Index": 132
+ },
+ {
+  "Word": "raia",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "lane",
+  "Index": 133
+ },
+ {
+  "Word": "ramo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "branch",
+  "Index": 134
+ },
+ {
+  "Word": "rato",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "rat",
+  "Index": 135
+ },
+ {
+  "Word": "real",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "royal",
+  "Index": 136
+ },
+ {
+  "Word": "rede",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "internet",
+  "Index": 137
+ },
+ {
+  "Word": "remo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "oar",
+  "Index": 138
+ },
+ {
+  "Word": "rena",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "reindeer",
+  "Index": 139
+ },
+ {
+  "Word": "robô",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "robot",
+  "Index": 140
+ },
+ {
+  "Word": "roda",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "shout",
+  "Index": 141
+ },
+ {
+  "Word": "rosa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "rose",
+  "Index": 142
+ },
+ {
+  "Word": "rubi",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ruby",
+  "Index": 143
+ },
+ {
+  "Word": "ruga",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wrinkle",
+  "Index": 144
+ },
+ {
+  "Word": "saco",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bag",
+  "Index": 145
+ },
+ {
+  "Word": "sair",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "take off",
+  "Index": 146
+ },
+ {
+  "Word": "sapo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "toad",
+  "Index": 147
+ },
+ {
+  "Word": "seca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "drought",
+  "Index": 148
+ },
+ {
+  "Word": "sede",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "thirst",
+  "Index": 149
+ },
+ {
+  "Word": "sela",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "saddle",
+  "Index": 150
+ },
+ {
+  "Word": "selo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "stamp",
+  "Index": 151
+ },
+ {
+  "Word": "seta",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "arrow",
+  "Index": 152
+ },
+ {
+  "Word": "silo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "silo",
+  "Index": 153
+ },
+ {
+  "Word": "sino",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bell",
+  "Index": 154
+ },
+ {
+  "Word": "soma",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "addition",
+  "Index": 155
+ },
+ {
+  "Word": "sopa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "soup",
+  "Index": 156
+ },
+ {
+  "Word": "sujo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "messy",
+  "Index": 157
+ },
+ {
+  "Word": "suor",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "water",
+  "Index": 158
+ },
+ {
+  "Word": "taco",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "taco",
+  "Index": 159
+ },
+ {
+  "Word": "tatu",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "armadillo",
+  "Index": 160
+ },
+ {
+  "Word": "taça",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cup",
+  "Index": 161
+ },
+ {
+  "Word": "teia",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "web",
+  "Index": 162
+ },
+ {
+  "Word": "teto",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ceiling",
+  "Index": 163
+ },
+ {
+  "Word": "táxi",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "taxi",
+  "Index": 164
+ },
+ {
+  "Word": "unha",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "nail",
+  "Index": 165
+ },
+ {
+  "Word": "urso",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bear",
+  "Index": 166
+ },
+ {
+  "Word": "uvas",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "grapes",
+  "Index": 167
+ },
+ {
+  "Word": "vaca",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cow",
+  "Index": 168
+ },
+ {
+  "Word": "vale",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "valley",
+  "Index": 169
+ },
+ {
+  "Word": "veia",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "vein",
+  "Index": 170
+ },
+ {
+  "Word": "vela",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "candle",
+  "Index": 171
+ },
+ {
+  "Word": "íman",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "magnet",
+  "Index": 172
+ },
+ {
+  "Word": "alien",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "alien",
+  "Index": 173
+ },
+ {
+  "Word": "andar",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "step",
+  "Index": 174
+ },
+ {
+  "Word": "arado",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "plow",
+  "Index": 175
+ },
+ {
+  "Word": "arame",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wire",
+  "Index": 176
+ },
+ {
+  "Word": "arpão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Creeper",
+  "Index": 177
+ },
+ {
+  "Word": "avelã",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hazelnut",
+  "Index": 178
+ },
+ {
+  "Word": "avião",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "airplane",
+  "Index": 179
+ },
+ {
+  "Word": "bacon",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bacon",
+  "Index": 180
+ },
+ {
+  "Word": "balão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ball",
+  "Index": 181
+ },
+ {
+  "Word": "banco",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bank",
+  "Index": 182
+ },
+ {
+  "Word": "banho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "shower",
+  "Index": 183
+ },
+ {
+  "Word": "banjo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "banjo",
+  "Index": 184
+ },
+ {
+  "Word": "barba",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "beard",
+  "Index": 185
+ },
+ {
+  "Word": "barco",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "boat",
+  "Index": 186
+ },
+ {
+  "Word": "barra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bar",
+  "Index": 187
+ },
+ {
+  "Word": "beber",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "drink",
+  "Index": 188
+ },
+ {
+  "Word": "beijo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "kiss",
+  "Index": 189
+ },
+ {
+  "Word": "bingo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bingo",
+  "Index": 190
+ },
+ {
+  "Word": "bolha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bubble",
+  "Index": 191
+ },
+ {
+  "Word": "bolor",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "mold",
+  "Index": 192
+ },
+ {
+  "Word": "bolso",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wrinkle",
+  "Index": 193
+ },
+ {
+  "Word": "bomba",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "shell",
+  "Index": 194
+ },
+ {
+  "Word": "botas",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "boots",
+  "Index": 195
+ },
+ {
+  "Word": "botão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "belly button",
+  "Index": 196
+ },
+ {
+  "Word": "brasa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coal",
+  "Index": 197
+ },
+ {
+  "Word": "burro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "donkey",
+  "Index": 198
+ },
+ {
+  "Word": "caixa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "box",
+  "Index": 199
+ },
+ {
+  "Word": "calor",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "heat",
+  "Index": 200
+ },
+ {
+  "Word": "campo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "field",
+  "Index": 201
+ },
+ {
+  "Word": "canto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "corner",
+  "Index": 202
+ },
+ {
+  "Word": "carne",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "beef",
+  "Index": 203
+ },
+ {
+  "Word": "casca",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "crust",
+  "Index": 204
+ },
+ {
+  "Word": "casco",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "skull",
+  "Index": 205
+ },
+ {
+  "Word": "cauda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tail",
+  "Index": 206
+ },
+ {
+  "Word": "cerca",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "fence",
+  "Index": 207
+ },
+ {
+  "Word": "cesto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "basket",
+  "Index": 208
+ },
+ {
+  "Word": "chave",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "key",
+  "Index": 209
+ },
+ {
+  "Word": "cheio",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "full",
+  "Index": 210
+ },
+ {
+  "Word": "chuva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "rain",
+  "Index": 211
+ },
+ {
+  "Word": "cinto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "belt",
+  "Index": 212
+ },
+ {
+  "Word": "cinza",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ash",
+  "Index": 213
+ },
+ {
+  "Word": "circo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "circus",
+  "Index": 214
+ },
+ {
+  "Word": "coala",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "koala",
+  "Index": 215
+ },
+ {
+  "Word": "cobra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "snake",
+  "Index": 216
+ },
+ {
+  "Word": "cobre",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "copper",
+  "Index": 217
+ },
+ {
+  "Word": "cofre",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "chest",
+  "Index": 218
+ },
+ {
+  "Word": "comer",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "eat",
+  "Index": 219
+ },
+ {
+  "Word": "coral",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coral",
+  "Index": 220
+ },
+ {
+  "Word": "costa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "beach",
+  "Index": 221
+ },
+ {
+  "Word": "couro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "leather",
+  "Index": 222
+ },
+ {
+  "Word": "creme",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cream",
+  "Index": 223
+ },
+ {
+  "Word": "curto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "short",
+  "Index": 224
+ },
+ {
+  "Word": "cópia",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "copy",
+  "Index": 225
+ },
+ {
+  "Word": "côdea",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "crust",
+  "Index": 226
+ },
+ {
+  "Word": "dança",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hop",
+  "Index": 227
+ },
+ {
+  "Word": "dente",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dent",
+  "Index": 228
+ },
+ {
+  "Word": "doces",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pastry",
+  "Index": 229
+ },
+ {
+  "Word": "duplo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "double",
+  "Index": 230
+ },
+ {
+  "Word": "esqui",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ski",
+  "Index": 231
+ },
+ {
+  "Word": "exame",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "exam",
+  "Index": 232
+ },
+ {
+  "Word": "faixa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "rib",
+  "Index": 233
+ },
+ {
+  "Word": "farol",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "traffic light",
+  "Index": 234
+ },
+ {
+  "Word": "fecho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lock",
+  "Index": 235
+ },
+ {
+  "Word": "feliz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "happy",
+  "Index": 236
+ },
+ {
+  "Word": "ferro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "iron",
+  "Index": 237
+ },
+ {
+  "Word": "festa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "party",
+  "Index": 238
+ },
+ {
+  "Word": "filha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "daughter",
+  "Index": 239
+ },
+ {
+  "Word": "filme",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "movie",
+  "Index": 240
+ },
+ {
+  "Word": "fisga",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "slingshot",
+  "Index": 241
+ },
+ {
+  "Word": "folha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "leaf",
+  "Index": 242
+ },
+ {
+  "Word": "forno",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "stove",
+  "Index": 243
+ },
+ {
+  "Word": "fundo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "background",
+  "Index": 244
+ },
+ {
+  "Word": "galho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "twig",
+  "Index": 245
+ },
+ {
+  "Word": "ganso",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "goose",
+  "Index": 246
+ },
+ {
+  "Word": "garfo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "fork",
+  "Index": 247
+ },
+ {
+  "Word": "garra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "claw",
+  "Index": 248
+ },
+ {
+  "Word": "germe",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "germ",
+  "Index": 249
+ },
+ {
+  "Word": "glacé",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "frosting",
+  "Index": 250
+ },
+ {
+  "Word": "globo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "globe",
+  "Index": 251
+ },
+ {
+  "Word": "gnomo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "gnome",
+  "Index": 252
+ },
+ {
+  "Word": "golfe",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "golf",
+  "Index": 253
+ },
+ {
+  "Word": "grama",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "grass",
+  "Index": 254
+ },
+ {
+  "Word": "grilo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cricket",
+  "Index": 255
+ },
+ {
+  "Word": "harpa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "harp",
+  "Index": 256
+ },
+ {
+  "Word": "herói",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hero",
+  "Index": 257
+ },
+ {
+  "Word": "hotel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hotel",
+  "Index": 258
+ },
+ {
+  "Word": "kazoo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "kazoo",
+  "Index": 259
+ },
+ {
+  "Word": "lança",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "spear",
+  "Index": 260
+ },
+ {
+  "Word": "laser",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "laser",
+  "Index": 261
+ },
+ {
+  "Word": "leite",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "milk",
+  "Index": 262
+ },
+ {
+  "Word": "lento",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "slow",
+  "Index": 263
+ },
+ {
+  "Word": "lenço",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tissue box",
+  "Index": 264
+ },
+ {
+  "Word": "letra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lyrics",
+  "Index": 265
+ },
+ {
+  "Word": "limpo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "clean",
+  "Index": 266
+ },
+ {
+  "Word": "limão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lemon",
+  "Index": 267
+ },
+ {
+  "Word": "linha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "line",
+  "Index": 268
+ },
+ {
+  "Word": "livro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "volume",
+  "Index": 269
+ },
+ {
+  "Word": "loção",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lotion",
+  "Index": 270
+ },
+ {
+  "Word": "luigi",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "luigi",
+  "Index": 271
+ },
+ {
+  "Word": "lápis",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pencil",
+  "Index": 272
+ },
+ {
+  "Word": "líder",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "leader",
+  "Index": 273
+ },
+ {
+  "Word": "lúcio",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pike",
+  "Index": 274
+ },
+ {
+  "Word": "macho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "macho",
+  "Index": 275
+ },
+ {
+  "Word": "magia",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "magic",
+  "Index": 276
+ },
+ {
+  "Word": "manhã",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "morning",
+  "Index": 277
+ },
+ {
+  "Word": "marca",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "stamp",
+  "Index": 278
+ },
+ {
+  "Word": "mario",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "mario",
+  "Index": 279
+ },
+ {
+  "Word": "massa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dough",
+  "Index": 280
+ },
+ {
+  "Word": "meias",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "socks",
+  "Index": 281
+ },
+ {
+  "Word": "melão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "melon",
+  "Index": 282
+ },
+ {
+  "Word": "metro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "subway",
+  "Index": 283
+ },
+ {
+  "Word": "mexer",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wiggle",
+  "Index": 284
+ },
+ {
+  "Word": "milho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "corn",
+  "Index": 285
+ },
+ {
+  "Word": "moeda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coin",
+  "Index": 286
+ },
+ {
+  "Word": "molde",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "die",
+  "Index": 287
+ },
+ {
+  "Word": "molho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sauce",
+  "Index": 288
+ },
+ {
+  "Word": "motor",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "engine",
+  "Index": 289
+ },
+ {
+  "Word": "mundo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "world",
+  "Index": 290
+ },
+ {
+  "Word": "museu",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "museum",
+  "Index": 291
+ },
+ {
+  "Word": "musgo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "moss",
+  "Index": 292
+ },
+ {
+  "Word": "nariz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "nose",
+  "Index": 293
+ },
+ {
+  "Word": "ninho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "nest",
+  "Index": 294
+ },
+ {
+  "Word": "noite",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "night",
+  "Index": 295
+ },
+ {
+  "Word": "noiva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bride",
+  "Index": 296
+ },
+ {
+  "Word": "noivo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "groom",
+  "Index": 297
+ },
+ {
+  "Word": "norte",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "north",
+  "Index": 298
+ },
+ {
+  "Word": "nuvem",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cloud",
+  "Index": 299
+ },
+ {
+  "Word": "obeso",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "purse",
+  "Index": 300
+ },
+ {
+  "Word": "ombro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "shoulder",
+  "Index": 301
+ },
+ {
+  "Word": "ostra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "oyster",
+  "Index": 302
+ },
+ {
+  "Word": "panda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "panda",
+  "Index": 303
+ },
+ {
+  "Word": "papel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "paper",
+  "Index": 304
+ },
+ {
+  "Word": "passa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "raisin",
+  "Index": 305
+ },
+ {
+  "Word": "pasta",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "folder",
+  "Index": 306
+ },
+ {
+  "Word": "pausa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "rest",
+  "Index": 307
+ },
+ {
+  "Word": "pedal",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pedal",
+  "Index": 308
+ },
+ {
+  "Word": "pedra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "stone",
+  "Index": 309
+ },
+ {
+  "Word": "peixe",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "fish",
+  "Index": 310
+ },
+ {
+  "Word": "piano",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "piano",
+  "Index": 311
+ },
+ {
+  "Word": "pizza",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pizza",
+  "Index": 312
+ },
+ {
+  "Word": "pobre",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "poor",
+  "Index": 313
+ },
+ {
+  "Word": "polvo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "octopus",
+  "Index": 314
+ },
+ {
+  "Word": "ponte",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bridge",
+  "Index": 315
+ },
+ {
+  "Word": "ponto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "point",
+  "Index": 316
+ },
+ {
+  "Word": "porco",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Porky Pig",
+  "Index": 317
+ },
+ {
+  "Word": "porta",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "door",
+  "Index": 318
+ },
+ {
+  "Word": "porto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "harbor",
+  "Index": 319
+ },
+ {
+  "Word": "porão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "basement",
+  "Index": 320
+ },
+ {
+  "Word": "praia",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coast",
+  "Index": 321
+ },
+ {
+  "Word": "prata",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "silver",
+  "Index": 322
+ },
+ {
+  "Word": "preto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "black",
+  "Index": 323
+ },
+ {
+  "Word": "primo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cousin",
+  "Index": 324
+ },
+ {
+  "Word": "pudim",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pudding",
+  "Index": 325
+ },
+ {
+  "Word": "pulso",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wrist",
+  "Index": 326
+ },
+ {
+  "Word": "pátio",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "patio",
+  "Index": 327
+ },
+ {
+  "Word": "queda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "slump",
+  "Index": 328
+ },
+ {
+  "Word": "quivi",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "kiwi",
+  "Index": 329
+ },
+ {
+  "Word": "radar",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "radar",
+  "Index": 330
+ },
+ {
+  "Word": "rapaz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "boy",
+  "Index": 331
+ },
+ {
+  "Word": "rosca",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "screw",
+  "Index": 332
+ },
+ {
+  "Word": "roubo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "heist",
+  "Index": 333
+ },
+ {
+  "Word": "rugir",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bellow",
+  "Index": 334
+ },
+ {
+  "Word": "rádio",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "radio",
+  "Index": 335
+ },
+ {
+  "Word": "régio",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "regal",
+  "Index": 336
+ },
+ {
+  "Word": "régua",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "scale",
+  "Index": 337
+ },
+ {
+  "Word": "sauna",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sauna",
+  "Index": 338
+ },
+ {
+  "Word": "saúde",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "health",
+  "Index": 339
+ },
+ {
+  "Word": "selva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "jungle",
+  "Index": 340
+ },
+ {
+  "Word": "skate",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "skateboard",
+  "Index": 341
+ },
+ {
+  "Word": "sonho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dream",
+  "Index": 342
+ },
+ {
+  "Word": "sonic",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sonic",
+  "Index": 343
+ },
+ {
+  "Word": "sorte",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "luck",
+  "Index": 344
+ },
+ {
+  "Word": "sushi",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sushi",
+  "Index": 345
+ },
+ {
+  "Word": "sótão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "attic",
+  "Index": 346
+ },
+ {
+  "Word": "tampa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cork",
+  "Index": 347
+ },
+ {
+  "Word": "tampo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lid",
+  "Index": 348
+ },
+ {
+  "Word": "tarte",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Tart",
+  "Index": 349
+ },
+ {
+  "Word": "taser",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "taser",
+  "Index": 350
+ },
+ {
+  "Word": "tempo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "weather",
+  "Index": 351
+ },
+ {
+  "Word": "tenda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tent",
+  "Index": 352
+ },
+ {
+  "Word": "tigre",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tiger",
+  "Index": 353
+ },
+ {
+  "Word": "tinta",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "paint",
+  "Index": 354
+ },
+ {
+  "Word": "tocha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "link",
+  "Index": 355
+ },
+ {
+  "Word": "tonto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dizzy",
+  "Index": 356
+ },
+ {
+  "Word": "toque",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ringtone",
+  "Index": 357
+ },
+ {
+  "Word": "tordo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "thrush",
+  "Index": 358
+ },
+ {
+  "Word": "torre",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tower",
+  "Index": 359
+ },
+ {
+  "Word": "traça",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "moth",
+  "Index": 360
+ },
+ {
+  "Word": "trenó",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bobsled",
+  "Index": 361
+ },
+ {
+  "Word": "trevo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "clover",
+  "Index": 362
+ },
+ {
+  "Word": "trono",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "throne",
+  "Index": 363
+ },
+ {
+  "Word": "tábua",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "board",
+  "Index": 364
+ },
+ {
+  "Word": "ténis",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sneakers",
+  "Index": 365
+ },
+ {
+  "Word": "túnel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tunnel",
+  "Index": 366
+ },
+ {
+  "Word": "veado",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "deer",
+  "Index": 367
+ },
+ {
+  "Word": "velho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "old",
+  "Index": 368
+ },
+ {
+  "Word": "venda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sale",
+  "Index": 369
+ },
+ {
+  "Word": "vento",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wind",
+  "Index": 370
+ },
+ {
+  "Word": "verão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "summer",
+  "Index": 371
+ },
+ {
+  "Word": "vidro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "glass",
+  "Index": 372
+ },
+ {
+  "Word": "vinho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wine",
+  "Index": 373
+ },
+ {
+  "Word": "visão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "shadow",
+  "Index": 374
+ },
+ {
+  "Word": "vodka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "vodka",
+  "Index": 375
+ },
+ {
+  "Word": "volta",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "return",
+  "Index": 376
+ },
+ {
+  "Word": "vírus",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "virus",
+  "Index": 377
+ },
+ {
+  "Word": "zebra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "zebra",
+  "Index": 378
+ },
+ {
+  "Word": "ácido",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "acid",
+  "Index": 379
+ },
+ {
+  "Word": "águia",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "eagle",
+  "Index": 380
+ },
+ {
+  "Word": "órgão",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "organ",
+  "Index": 381
+ },
+ {
+  "Word": "Canadá",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Canada",
+  "Index": 382
+ },
+ {
+  "Word": "França",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "France",
+  "Index": 383
+ },
+ {
+  "Word": "abaixo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "below",
+  "Index": 384
+ },
+ {
+  "Word": "abelha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bee",
+  "Index": 385
+ },
+ {
+  "Word": "aberto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "open",
+  "Index": 386
+ },
+ {
+  "Word": "abismo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "abyss",
+  "Index": 387
+ },
+ {
+  "Word": "abraço",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hug",
+  "Index": 388
+ },
+ {
+  "Word": "abutre",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "vulture",
+  "Index": 389
+ },
+ {
+  "Word": "adulto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "adult",
+  "Index": 390
+ },
+ {
+  "Word": "agitar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shake",
+  "Index": 391
+ },
+ {
+  "Word": "agulha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "compass",
+  "Index": 392
+ },
+ {
+  "Word": "airbag",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "airbag",
+  "Index": 393
+ },
+ {
+  "Word": "alarme",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "alarm",
+  "Index": 394
+ },
+ {
+  "Word": "alcool",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "alcohol",
+  "Index": 395
+ },
+ {
+  "Word": "aldeia",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ham",
+  "Index": 396
+ },
+ {
+  "Word": "alface",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lettuce",
+  "Index": 397
+ },
+ {
+  "Word": "alpaca",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "llama",
+  "Index": 398
+ },
+ {
+  "Word": "ameixa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "prune",
+  "Index": 399
+ },
+ {
+  "Word": "amuado",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "grumpy",
+  "Index": 400
+ },
+ {
+  "Word": "ananas",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ananas",
+  "Index": 401
+ },
+ {
+  "Word": "ancião",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "elder",
+  "Index": 402
+ },
+ {
+  "Word": "antena",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "antenna",
+  "Index": 403
+ },
+ {
+  "Word": "aranha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spider",
+  "Index": 404
+ },
+ {
+  "Word": "atleta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "athlete",
+  "Index": 405
+ },
+ {
+  "Word": "açúcar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sugar",
+  "Index": 406
+ },
+ {
+  "Word": "baleia",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "whale",
+  "Index": 407
+ },
+ {
+  "Word": "banana",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "banana",
+  "Index": 408
+ },
+ {
+  "Word": "barril",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "keg",
+  "Index": 409
+ },
+ {
+  "Word": "batata",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "potato",
+  "Index": 410
+ },
+ {
+  "Word": "batman",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Batman",
+  "Index": 411
+ },
+ {
+  "Word": "bebida",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "drink",
+  "Index": 412
+ },
+ {
+  "Word": "bigode",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mustache",
+  "Index": 413
+ },
+ {
+  "Word": "bobina",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spool",
+  "Index": 414
+ },
+ {
+  "Word": "bolota",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "acorn",
+  "Index": 415
+ },
+ {
+  "Word": "branco",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "white",
+  "Index": 416
+ },
+ {
+  "Word": "brilho",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "glitter",
+  "Index": 417
+ },
+ {
+  "Word": "bronze",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bronze",
+  "Index": 418
+ },
+ {
+  "Word": "bueiro",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "manhole",
+  "Index": 419
+ },
+ {
+  "Word": "bétula",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "birch",
+  "Index": 420
+ },
+ {
+  "Word": "cabana",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hut",
+  "Index": 421
+ },
+ {
+  "Word": "cabine",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cabin",
+  "Index": 422
+ },
+ {
+  "Word": "cadeia",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "network",
+  "Index": 423
+ },
+ {
+  "Word": "caixão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "coffin",
+  "Index": 424
+ },
+ {
+  "Word": "calças",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pants",
+  "Index": 425
+ },
+ {
+  "Word": "camisa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shirt",
+  "Index": 426
+ },
+ {
+  "Word": "camião",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "truck",
+  "Index": 427
+ },
+ {
+  "Word": "caneca",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mug",
+  "Index": 428
+ },
+ {
+  "Word": "canhão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cannon",
+  "Index": 429
+ },
+ {
+  "Word": "cantar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sing",
+  "Index": 430
+ },
+ {
+  "Word": "careca",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bald",
+  "Index": 431
+ },
+ {
+  "Word": "carris",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "rails",
+  "Index": 432
+ },
+ {
+  "Word": "cartão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cardboard",
+  "Index": 433
+ },
+ {
+  "Word": "carvão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "coal",
+  "Index": 434
+ },
+ {
+  "Word": "casaco",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "coat",
+  "Index": 435
+ },
+ {
+  "Word": "casota",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "doghouse",
+  "Index": 436
+ },
+ {
+  "Word": "castor",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "beaver",
+  "Index": 437
+ },
+ {
+  "Word": "cavalo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "horse",
+  "Index": 438
+ },
+ {
+  "Word": "caviar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "caviar",
+  "Index": 439
+ },
+ {
+  "Word": "cebola",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "onion",
+  "Index": 440
+ },
+ {
+  "Word": "cereja",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cherry",
+  "Index": 441
+ },
+ {
+  "Word": "champô",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shampoo",
+  "Index": 442
+ },
+ {
+  "Word": "chapéu",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hat",
+  "Index": 443
+ },
+ {
+  "Word": "chifre",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "horn",
+  "Index": 444
+ },
+ {
+  "Word": "choque",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shock",
+  "Index": 445
+ },
+ {
+  "Word": "cinema",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cinema",
+  "Index": 446
+ },
+ {
+  "Word": "coelho",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bunny",
+  "Index": 447
+ },
+ {
+  "Word": "colher",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spoon",
+  "Index": 448
+ },
+ {
+  "Word": "colina",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hill",
+  "Index": 449
+ },
+ {
+  "Word": "coluna",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pillar",
+  "Index": 450
+ },
+ {
+  "Word": "comida",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "board",
+  "Index": 451
+ },
+ {
+  "Word": "concha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "seashell",
+  "Index": 452
+ },
+ {
+  "Word": "cordão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cord",
+  "Index": 453
+ },
+ {
+  "Word": "correr",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "race",
+  "Index": 454
+ },
+ {
+  "Word": "coruja",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "owl",
+  "Index": 455
+ },
+ {
+  "Word": "cowboy",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cowboy",
+  "Index": 456
+ },
+ {
+  "Word": "criada",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "maid",
+  "Index": 457
+ },
+ {
+  "Word": "crista",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spine",
+  "Index": 458
+ },
+ {
+  "Word": "crânio",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "skull",
+  "Index": 459
+ },
+ {
+  "Word": "cuecas",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "underwear",
+  "Index": 460
+ },
+ {
+  "Word": "cágado",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tortoise",
+  "Index": 461
+ },
+ {
+  "Word": "câmera",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "camera",
+  "Index": 462
+ },
+ {
+  "Word": "célula",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cell",
+  "Index": 463
+ },
+ {
+  "Word": "cúpula",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dome",
+  "Index": 464
+ },
+ {
+  "Word": "dardos",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "darts",
+  "Index": 465
+ },
+ {
+  "Word": "dentro",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "inside",
+  "Index": 466
+ },
+ {
+  "Word": "dormir",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sleep",
+  "Index": 467
+ },
+ {
+  "Word": "doutor",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "doctor",
+  "Index": 468
+ },
+ {
+  "Word": "dragão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dragon",
+  "Index": 469
+ },
+ {
+  "Word": "enguia",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "eel",
+  "Index": 470
+ },
+ {
+  "Word": "enxame",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hive",
+  "Index": 471
+ },
+ {
+  "Word": "escola",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "school",
+  "Index": 472
+ },
+ {
+  "Word": "escova",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "brush",
+  "Index": 473
+ },
+ {
+  "Word": "esgoto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sewage",
+  "Index": 474
+ },
+ {
+  "Word": "espada",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sword",
+  "Index": 475
+ },
+ {
+  "Word": "espaço",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "space",
+  "Index": 476
+ },
+ {
+  "Word": "espião",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spy",
+  "Index": 477
+ },
+ {
+  "Word": "esposa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lady",
+  "Index": 478
+ },
+ {
+  "Word": "fatura",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "invoice",
+  "Index": 479
+ },
+ {
+  "Word": "faísca",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spark",
+  "Index": 480
+ },
+ {
+  "Word": "feijão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bean",
+  "Index": 481
+ },
+ {
+  "Word": "ferida",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hurt",
+  "Index": 482
+ },
+ {
+  "Word": "filtro",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "filter",
+  "Index": 483
+ },
+ {
+  "Word": "flatua",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "flatus",
+  "Index": 484
+ },
+ {
+  "Word": "flauta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "flute",
+  "Index": 485
+ },
+ {
+  "Word": "fluido",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fluid",
+  "Index": 486
+ },
+ {
+  "Word": "fralda",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lap",
+  "Index": 487
+ },
+ {
+  "Word": "frango",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "chicken",
+  "Index": 488
+ },
+ {
+  "Word": "férias",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "leave",
+  "Index": 489
+ },
+ {
+  "Word": "fóssil",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fossil",
+  "Index": 490
+ },
+ {
+  "Word": "gancho",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dog",
+  "Index": 491
+ },
+ {
+  "Word": "gangue",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gang",
+  "Index": 492
+ },
+ {
+  "Word": "garçom",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "waiter",
+  "Index": 493
+ },
+ {
+  "Word": "gasosa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gaseous",
+  "Index": 494
+ },
+ {
+  "Word": "gaveta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "drawer",
+  "Index": 495
+ },
+ {
+  "Word": "gelado",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ice",
+  "Index": 496
+ },
+ {
+  "Word": "gentil",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "kind",
+  "Index": 497
+ },
+ {
+  "Word": "girafa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "giraffe",
+  "Index": 498
+ },
+ {
+  "Word": "gorila",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gorilla",
+  "Index": 499
+ },
+ {
+  "Word": "gritar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "scream",
+  "Index": 500
+ },
+ {
+  "Word": "género",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "genre",
+  "Index": 501
+ },
+ {
+  "Word": "hippie",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hippie",
+  "Index": 502
+ },
+ {
+  "Word": "hobbit",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hobbit",
+  "Index": 503
+ },
+ {
+  "Word": "hóquei",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hockey",
+  "Index": 504
+ },
+ {
+  "Word": "igreja",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "church",
+  "Index": 505
+ },
+ {
+  "Word": "jacaré",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "alligator",
+  "Index": 506
+ },
+ {
+  "Word": "jaguar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "jaguar",
+  "Index": 507
+ },
+ {
+  "Word": "janela",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "window",
+  "Index": 508
+ },
+ {
+  "Word": "jantar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dinner",
+  "Index": 509
+ },
+ {
+  "Word": "jardim",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "garden",
+  "Index": 510
+ },
+ {
+  "Word": "javali",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "boar",
+  "Index": 511
+ },
+ {
+  "Word": "joelho",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "knee",
+  "Index": 512
+ },
+ {
+  "Word": "jornal",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "organ",
+  "Index": 513
+ },
+ {
+  "Word": "ladrão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "thief",
+  "Index": 514
+ },
+ {
+  "Word": "lentes",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lenses",
+  "Index": 515
+ },
+ {
+  "Word": "lençol",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bed sheet",
+  "Index": 516
+ },
+ {
+  "Word": "lontra",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "otter",
+  "Index": 517
+ },
+ {
+  "Word": "lustro",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gloss",
+  "Index": 518
+ },
+ {
+  "Word": "lábios",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lips",
+  "Index": 519
+ },
+ {
+  "Word": "língua",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "language",
+  "Index": 520
+ },
+ {
+  "Word": "macaco",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "monkey",
+  "Index": 521
+ },
+ {
+  "Word": "maleta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "suitcase",
+  "Index": 522
+ },
+ {
+  "Word": "mamute",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mammoth",
+  "Index": 523
+ },
+ {
+  "Word": "marido",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "husband",
+  "Index": 524
+ },
+ {
+  "Word": "mastro",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "flagpole",
+  "Index": 525
+ },
+ {
+  "Word": "metade",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "half",
+  "Index": 526
+ },
+ {
+  "Word": "minuto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "minute",
+  "Index": 527
+ },
+ {
+  "Word": "modelo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "model",
+  "Index": 528
+ },
+ {
+  "Word": "moinho",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mill",
+  "Index": 529
+ },
+ {
+  "Word": "morena",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "brunette",
+  "Index": 530
+ },
+ {
+  "Word": "nugget",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "nugget",
+  "Index": 531
+ },
+ {
+  "Word": "níquel",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "nickel",
+  "Index": 532
+ },
+ {
+  "Word": "oceano",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ocean",
+  "Index": 533
+ },
+ {
+  "Word": "orelha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ear",
+  "Index": 534
+ },
+ {
+  "Word": "ouriço",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hedgehog",
+  "Index": 535
+ },
+ {
+  "Word": "outono",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fall",
+  "Index": 536
+ },
+ {
+  "Word": "ovelha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sheep",
+  "Index": 537
+ },
+ {
+  "Word": "padrão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "yardstick",
+  "Index": 538
+ },
+ {
+  "Word": "painel",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "panel",
+  "Index": 539
+ },
+ {
+  "Word": "paleta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "palette",
+  "Index": 540
+ },
+ {
+  "Word": "palmas",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "clap",
+  "Index": 541
+ },
+ {
+  "Word": "papaia",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "papaya",
+  "Index": 542
+ },
+ {
+  "Word": "parede",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wall",
+  "Index": 543
+ },
+ {
+  "Word": "parque",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "park",
+  "Index": 544
+ },
+ {
+  "Word": "pensar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "think",
+  "Index": 545
+ },
+ {
+  "Word": "pepino",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cucumber",
+  "Index": 546
+ },
+ {
+  "Word": "perigo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "risk",
+  "Index": 547
+ },
+ {
+  "Word": "pernas",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "legs",
+  "Index": 548
+ },
+ {
+  "Word": "peruca",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wig",
+  "Index": 549
+ },
+ {
+  "Word": "pessoa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "customer",
+  "Index": 550
+ },
+ {
+  "Word": "pickle",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pickle",
+  "Index": 551
+ },
+ {
+  "Word": "piloto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pilot",
+  "Index": 552
+ },
+ {
+  "Word": "pincel",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "brush",
+  "Index": 553
+ },
+ {
+  "Word": "pirata",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pirate",
+  "Index": 554
+ },
+ {
+  "Word": "portal",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "portal",
+  "Index": 555
+ },
+ {
+  "Word": "portão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gate",
+  "Index": 556
+ },
+ {
+  "Word": "postal",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "postcard",
+  "Index": 557
+ },
+ {
+  "Word": "prisão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "prison",
+  "Index": 558
+ },
+ {
+  "Word": "pulmão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lung",
+  "Index": 559
+ },
+ {
+  "Word": "punhal",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "knife",
+  "Index": 560
+ },
+ {
+  "Word": "puzzle",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "puzzle",
+  "Index": 561
+ },
+ {
+  "Word": "página",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "page",
+  "Index": 562
+ },
+ {
+  "Word": "páscoa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Easter",
+  "Index": 563
+ },
+ {
+  "Word": "quarto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "room",
+  "Index": 564
+ },
+ {
+  "Word": "queijo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cheese",
+  "Index": 565
+ },
+ {
+  "Word": "queixo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "chin",
+  "Index": 566
+ },
+ {
+  "Word": "quente",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "warm",
+  "Index": 567
+ },
+ {
+  "Word": "queque",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cupcake",
+  "Index": 568
+ },
+ {
+  "Word": "quokka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "quokka",
+  "Index": 569
+ },
+ {
+  "Word": "rainha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "queen",
+  "Index": 570
+ },
+ {
+  "Word": "rapido",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fast",
+  "Index": 571
+ },
+ {
+  "Word": "raposa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fox",
+  "Index": 572
+ },
+ {
+  "Word": "rapper",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "rapper",
+  "Index": 573
+ },
+ {
+  "Word": "rótulo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "label",
+  "Index": 574
+ },
+ {
+  "Word": "safari",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "safari",
+  "Index": 575
+ },
+ {
+  "Word": "salada",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "salad",
+  "Index": 576
+ },
+ {
+  "Word": "saliva",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "saliva",
+  "Index": 577
+ },
+ {
+  "Word": "salmão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "salmon",
+  "Index": 578
+ },
+ {
+  "Word": "sangue",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ruby",
+  "Index": 579
+ },
+ {
+  "Word": "sapato",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shoe",
+  "Index": 580
+ },
+ {
+  "Word": "seguro",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "positive",
+  "Index": 581
+ },
+ {
+  "Word": "sereia",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mermaid",
+  "Index": 582
+ },
+ {
+  "Word": "skater",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "skater",
+  "Index": 583
+ },
+ {
+  "Word": "sombra",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ghost",
+  "Index": 584
+ },
+ {
+  "Word": "sonhar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "to dream",
+  "Index": 585
+ },
+ {
+  "Word": "sorrir",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "smile",
+  "Index": 586
+ },
+ {
+  "Word": "sovaco",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "armpit",
+  "Index": 587
+ },
+ {
+  "Word": "sudoku",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Sudoku",
+  "Index": 588
+ },
+ {
+  "Word": "tambor",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "drum",
+  "Index": 589
+ },
+ {
+  "Word": "tampão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "plug",
+  "Index": 590
+ },
+ {
+  "Word": "tanque",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tank",
+  "Index": 591
+ },
+ {
+  "Word": "tecido",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tissue",
+  "Index": 592
+ },
+ {
+  "Word": "tijolo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "brick",
+  "Index": 593
+ },
+ {
+  "Word": "toalha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "towel",
+  "Index": 594
+ },
+ {
+  "Word": "tomada",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "socket",
+  "Index": 595
+ },
+ {
+  "Word": "tomate",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tomato",
+  "Index": 596
+ },
+ {
+  "Word": "triste",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sad",
+  "Index": 597
+ },
+ {
+  "Word": "troféu",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "trophy",
+  "Index": 598
+ },
+ {
+  "Word": "tronco",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "trunk",
+  "Index": 599
+ },
+ {
+  "Word": "trovão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "thunder",
+  "Index": 600
+ },
+ {
+  "Word": "tucano",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "toucan",
+  "Index": 601
+ },
+ {
+  "Word": "varejo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "retail",
+  "Index": 602
+ },
+ {
+  "Word": "veneno",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "poison",
+  "Index": 603
+ },
+ {
+  "Word": "volume",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "volume",
+  "Index": 604
+ },
+ {
+  "Word": "vulcão",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "volcano",
+  "Index": 605
+ },
+ {
+  "Word": "waffle",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "waffle",
+  "Index": 606
+ },
+ {
+  "Word": "xadrez",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "chess",
+  "Index": 607
+ },
+ {
+  "Word": "zombie",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "zombie",
+  "Index": 608
+ },
+ {
+  "Word": "África",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Africa",
+  "Index": 609
+ },
+ {
+  "Word": "árvore",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tree",
+  "Index": 610
+ },
+ {
+  "Word": "óculos",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "glass",
+  "Index": 611
+ },
+ {
+  "Word": "órbita",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "path",
+  "Index": 612
+ },
+ {
+  "Word": "América",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "America",
+  "Index": 613
+ },
+ {
+  "Word": "Flórida",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Florida",
+  "Index": 614
+ },
+ {
+  "Word": "abacate",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "avocado",
+  "Index": 615
+ },
+ {
+  "Word": "abóbora",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pumpkin",
+  "Index": 616
+ },
+ {
+  "Word": "afundar",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sink",
+  "Index": 617
+ },
+ {
+  "Word": "alcaçuz",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "licorice",
+  "Index": 618
+ },
+ {
+  "Word": "alergia",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "allergy",
+  "Index": 619
+ },
+ {
+  "Word": "algodão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cotton",
+  "Index": 620
+ },
+ {
+  "Word": "alperce",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "apricot",
+  "Index": 621
+ },
+ {
+  "Word": "alçapão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "trapdoor",
+  "Index": 622
+ },
+ {
+  "Word": "amêndoa",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "nut",
+  "Index": 623
+ },
+ {
+  "Word": "ancinho",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "rake",
+  "Index": 624
+ },
+ {
+  "Word": "anúncio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "advertisement",
+  "Index": 625
+ },
+ {
+  "Word": "arbusto",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "shrub",
+  "Index": 626
+ },
+ {
+  "Word": "armazém",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "warehouse",
+  "Index": 627
+ },
+ {
+  "Word": "assento",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bench",
+  "Index": 628
+ },
+ {
+  "Word": "assobio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "whistle",
+  "Index": 629
+ },
+ {
+  "Word": "bagagem",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "luggage",
+  "Index": 630
+ },
+ {
+  "Word": "baguete",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "roll",
+  "Index": 631
+ },
+ {
+  "Word": "balancé",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "seesaw",
+  "Index": 632
+ },
+ {
+  "Word": "balança",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "balance",
+  "Index": 633
+ },
+ {
+  "Word": "balanço",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "swing",
+  "Index": 634
+ },
+ {
+  "Word": "bandeja",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pot",
+  "Index": 635
+ },
+ {
+  "Word": "barulho",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "noise",
+  "Index": 636
+ },
+ {
+  "Word": "batalha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "battle",
+  "Index": 637
+ },
+ {
+  "Word": "bateria",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "drum kit",
+  "Index": 638
+ },
+ {
+  "Word": "beliche",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bunk bed",
+  "Index": 639
+ },
+ {
+  "Word": "besouro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "beetle",
+  "Index": 640
+ },
+ {
+  "Word": "bilhete",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ticket",
+  "Index": 641
+ },
+ {
+  "Word": "bolacha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "biscuit",
+  "Index": 642
+ },
+ {
+  "Word": "boliche",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Skittles",
+  "Index": 643
+ },
+ {
+  "Word": "bretzel",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bretzel",
+  "Index": 644
+ },
+ {
+  "Word": "cadeado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "padlock",
+  "Index": 645
+ },
+ {
+  "Word": "cadeira",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "chair",
+  "Index": 646
+ },
+ {
+  "Word": "cadinho",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "crucible",
+  "Index": 647
+ },
+ {
+  "Word": "cadáver",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "corpse",
+  "Index": 648
+ },
+ {
+  "Word": "caixote",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "crate",
+  "Index": 649
+ },
+ {
+  "Word": "camarão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "prawn",
+  "Index": 650
+ },
+ {
+  "Word": "campeão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "champion",
+  "Index": 651
+ },
+ {
+  "Word": "caniche",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "poodle",
+  "Index": 652
+ },
+ {
+  "Word": "capitão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "captain",
+  "Index": 653
+ },
+ {
+  "Word": "caracol",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "snail",
+  "Index": 654
+ },
+ {
+  "Word": "carpete",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "carpet",
+  "Index": 655
+ },
+ {
+  "Word": "cascata",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "waterfall",
+  "Index": 656
+ },
+ {
+  "Word": "caverna",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cave",
+  "Index": 657
+ },
+ {
+  "Word": "caçador",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hunter",
+  "Index": 658
+ },
+ {
+  "Word": "cegonha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "stork",
+  "Index": 659
+ },
+ {
+  "Word": "celeiro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "barn",
+  "Index": 660
+ },
+ {
+  "Word": "cenoura",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "carrot",
+  "Index": 661
+ },
+ {
+  "Word": "centavo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "penny",
+  "Index": 662
+ },
+ {
+  "Word": "cerveja",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "beer",
+  "Index": 663
+ },
+ {
+  "Word": "chaminé",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "chimney",
+  "Index": 664
+ },
+ {
+  "Word": "chicote",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "horsewhip",
+  "Index": 665
+ },
+ {
+  "Word": "chávena",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cup",
+  "Index": 666
+ },
+ {
+  "Word": "cigarro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cigarette",
+  "Index": 667
+ },
+ {
+  "Word": "cimento",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cement",
+  "Index": 668
+ },
+ {
+  "Word": "cintura",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "waist",
+  "Index": 669
+ },
+ {
+  "Word": "cliente",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "patient",
+  "Index": 670
+ },
+ {
+  "Word": "colapso",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "collapse",
+  "Index": 671
+ },
+ {
+  "Word": "colchão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "mattress",
+  "Index": 672
+ },
+ {
+  "Word": "coleira",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "collar",
+  "Index": 673
+ },
+ {
+  "Word": "colibri",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hummingbird",
+  "Index": 674
+ },
+ {
+  "Word": "colmeia",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hive",
+  "Index": 675
+ },
+ {
+  "Word": "comando",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "commander",
+  "Index": 676
+ },
+ {
+  "Word": "comboio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "train",
+  "Index": 677
+ },
+ {
+  "Word": "confuso",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "confused",
+  "Index": 678
+ },
+ {
+  "Word": "consola",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "console",
+  "Index": 679
+ },
+ {
+  "Word": "coração",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "heart",
+  "Index": 680
+ },
+ {
+  "Word": "corndog",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "corn dog",
+  "Index": 681
+ },
+ {
+  "Word": "corrida",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "run",
+  "Index": 682
+ },
+ {
+  "Word": "cortina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "curtain",
+  "Index": 683
+ },
+ {
+  "Word": "costela",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "rib",
+  "Index": 684
+ },
+ {
+  "Word": "cozinha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "kitchen",
+  "Index": 685
+ },
+ {
+  "Word": "criança",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Minion",
+  "Index": 686
+ },
+ {
+  "Word": "cristal",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "crystal",
+  "Index": 687
+ },
+ {
+  "Word": "crédito",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "credit",
+  "Index": 688
+ },
+ {
+  "Word": "cupcake",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cupcake",
+  "Index": 689
+ },
+ {
+  "Word": "cérebro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "brain",
+  "Index": 690
+ },
+ {
+  "Word": "círculo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "halo",
+  "Index": 691
+ },
+ {
+  "Word": "declive",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "slope",
+  "Index": 692
+ },
+ {
+  "Word": "deserto",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "desert",
+  "Index": 693
+ },
+ {
+  "Word": "difícil",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hard",
+  "Index": 694
+ },
+ {
+  "Word": "dominós",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "dominoes",
+  "Index": 695
+ },
+ {
+  "Word": "doninha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "weasel",
+  "Index": 696
+ },
+ {
+  "Word": "edredom",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "duvet",
+  "Index": 697
+ },
+ {
+  "Word": "eleição",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "election",
+  "Index": 698
+ },
+ {
+  "Word": "encaixe",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Notch",
+  "Index": 699
+ },
+ {
+  "Word": "entrega",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "delivery",
+  "Index": 700
+ },
+ {
+  "Word": "equador",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "equator",
+  "Index": 701
+ },
+ {
+  "Word": "eremita",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "caveman",
+  "Index": 702
+ },
+ {
+  "Word": "espelho",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "mirror",
+  "Index": 703
+ },
+ {
+  "Word": "espinha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "acne",
+  "Index": 704
+ },
+ {
+  "Word": "espirro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sneeze",
+  "Index": 705
+ },
+ {
+  "Word": "esponja",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sponge",
+  "Index": 706
+ },
+ {
+  "Word": "espumar",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "boil",
+  "Index": 707
+ },
+ {
+  "Word": "esquilo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "squirrel",
+  "Index": 708
+ },
+ {
+  "Word": "esquimó",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "eskimo",
+  "Index": 709
+ },
+ {
+  "Word": "estação",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "season",
+  "Index": 710
+ },
+ {
+  "Word": "esteira",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "treadmill",
+  "Index": 711
+ },
+ {
+  "Word": "estrela",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "star",
+  "Index": 712
+ },
+ {
+  "Word": "estádio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "stadium",
+  "Index": 713
+ },
+ {
+  "Word": "estéreo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "stereo",
+  "Index": 714
+ },
+ {
+  "Word": "fabrica",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "factory",
+  "Index": 715
+ },
+ {
+  "Word": "fachada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "facade",
+  "Index": 716
+ },
+ {
+  "Word": "família",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "family",
+  "Index": 717
+ },
+ {
+  "Word": "fazenda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "farm",
+  "Index": 718
+ },
+ {
+  "Word": "fiambre",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ham",
+  "Index": 719
+ },
+ {
+  "Word": "foguete",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "firecracker",
+  "Index": 720
+ },
+ {
+  "Word": "formiga",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ant",
+  "Index": 721
+ },
+ {
+  "Word": "fortuna",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "money",
+  "Index": 722
+ },
+ {
+  "Word": "funeral",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "funeral",
+  "Index": 723
+ },
+ {
+  "Word": "futebol",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "soccer",
+  "Index": 724
+ },
+ {
+  "Word": "gaivota",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "seagull",
+  "Index": 725
+ },
+ {
+  "Word": "galinha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "chicken",
+  "Index": 726
+ },
+ {
+  "Word": "garagem",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "garage",
+  "Index": 727
+ },
+ {
+  "Word": "garrafa",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bottle",
+  "Index": 728
+ },
+ {
+  "Word": "gatilho",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "trigger",
+  "Index": 729
+ },
+ {
+  "Word": "gatinho",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "kitten",
+  "Index": 730
+ },
+ {
+  "Word": "gerador",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "generator",
+  "Index": 731
+ },
+ {
+  "Word": "gigante",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "giant",
+  "Index": 732
+ },
+ {
+  "Word": "gotejar",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "drip",
+  "Index": 733
+ },
+ {
+  "Word": "granada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "grenade",
+  "Index": 734
+ },
+ {
+  "Word": "hamster",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hamster",
+  "Index": 735
+ },
+ {
+  "Word": "impacto",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "impact",
+  "Index": 736
+ },
+ {
+  "Word": "inferno",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hell",
+  "Index": 737
+ },
+ {
+  "Word": "invasão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "invasion",
+  "Index": 738
+ },
+ {
+  "Word": "iogurte",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "yogurt",
+  "Index": 739
+ },
+ {
+  "Word": "jangada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "raft",
+  "Index": 740
+ },
+ {
+  "Word": "jaqueta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "jacket",
+  "Index": 741
+ },
+ {
+  "Word": "jogador",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "plunger",
+  "Index": 742
+ },
+ {
+  "Word": "jornada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "journey",
+  "Index": 743
+ },
+ {
+  "Word": "ketchup",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ketchup",
+  "Index": 744
+ },
+ {
+  "Word": "lagarta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "caterpillar",
+  "Index": 745
+ },
+ {
+  "Word": "lagarto",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lizard",
+  "Index": 746
+ },
+ {
+  "Word": "lagosta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lobster",
+  "Index": 747
+ },
+ {
+  "Word": "laranja",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "orange",
+  "Index": 748
+ },
+ {
+  "Word": "lareira",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "fireplace",
+  "Index": 749
+ },
+ {
+  "Word": "locutor",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "announcer",
+  "Index": 750
+ },
+ {
+  "Word": "lotaria",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lottery",
+  "Index": 751
+ },
+ {
+  "Word": "lágrima",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "tear",
+  "Index": 752
+ },
+ {
+  "Word": "lâmpada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lamp",
+  "Index": 753
+ },
+ {
+  "Word": "machado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "axe",
+  "Index": 754
+ },
+ {
+  "Word": "manatim",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "manatee",
+  "Index": 755
+ },
+ {
+  "Word": "marreta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sledge",
+  "Index": 756
+ },
+ {
+  "Word": "martelo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sledgehammer",
+  "Index": 757
+ },
+ {
+  "Word": "mascote",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "mascot",
+  "Index": 758
+ },
+ {
+  "Word": "mercado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "market",
+  "Index": 759
+ },
+ {
+  "Word": "minhoca",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "worm",
+  "Index": 760
+ },
+ {
+  "Word": "mirtilo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "blueberry",
+  "Index": 761
+ },
+ {
+  "Word": "mobília",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "furniture",
+  "Index": 762
+ },
+ {
+  "Word": "mochila",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "backpack",
+  "Index": 763
+ },
+ {
+  "Word": "moldura",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "frame",
+  "Index": 764
+ },
+ {
+  "Word": "monstro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Monster",
+  "Index": 765
+ },
+ {
+  "Word": "morango",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "strawberry",
+  "Index": 766
+ },
+ {
+  "Word": "morcego",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bat",
+  "Index": 767
+ },
+ {
+  "Word": "mordomo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "butler",
+  "Index": 768
+ },
+ {
+  "Word": "mármore",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "marble",
+  "Index": 769
+ },
+ {
+  "Word": "músculo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "muscle",
+  "Index": 770
+ },
+ {
+  "Word": "navalha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "razor",
+  "Index": 771
+ },
+ {
+  "Word": "omelete",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "omelet",
+  "Index": 772
+ },
+ {
+  "Word": "palhaço",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "clown",
+  "Index": 773
+ },
+ {
+  "Word": "palácio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "palace",
+  "Index": 774
+ },
+ {
+  "Word": "papoula",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "poppy",
+  "Index": 775
+ },
+ {
+  "Word": "passeio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pavement",
+  "Index": 776
+ },
+ {
+  "Word": "perfume",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "perfume",
+  "Index": 777
+ },
+ {
+  "Word": "picante",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hot",
+  "Index": 778
+ },
+ {
+  "Word": "pimento",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bell pepper",
+  "Index": 779
+ },
+ {
+  "Word": "pinball",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pinball",
+  "Index": 780
+ },
+ {
+  "Word": "pinguim",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "penguin",
+  "Index": 781
+ },
+ {
+  "Word": "pipocas",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "popcorn",
+  "Index": 782
+ },
+ {
+  "Word": "piscina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pond",
+  "Index": 783
+ },
+ {
+  "Word": "pistola",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pistol",
+  "Index": 784
+ },
+ {
+  "Word": "planeta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "planet",
+  "Index": 785
+ },
+ {
+  "Word": "polegar",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "thumb",
+  "Index": 786
+ },
+ {
+  "Word": "prancha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "board",
+  "Index": 787
+ },
+ {
+  "Word": "punição",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "punishment",
+  "Index": 788
+ },
+ {
+  "Word": "pássaro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bird",
+  "Index": 789
+ },
+ {
+  "Word": "pântano",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "swamp",
+  "Index": 790
+ },
+ {
+  "Word": "pêndulo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pendulum",
+  "Index": 791
+ },
+ {
+  "Word": "pêssego",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "peach",
+  "Index": 792
+ },
+ {
+  "Word": "quartel",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "quarter",
+  "Index": 793
+ },
+ {
+  "Word": "químico",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "chemical",
+  "Index": 794
+ },
+ {
+  "Word": "reboque",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "trailer",
+  "Index": 795
+ },
+ {
+  "Word": "receção",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "reception",
+  "Index": 796
+ },
+ {
+  "Word": "recorde",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "record",
+  "Index": 797
+ },
+ {
+  "Word": "recreio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "playground",
+  "Index": 798
+ },
+ {
+  "Word": "regador",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "watering can",
+  "Index": 799
+ },
+ {
+  "Word": "relação",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bill",
+  "Index": 800
+ },
+ {
+  "Word": "relógio",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "clock",
+  "Index": 801
+ },
+ {
+  "Word": "repetir",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "repeat",
+  "Index": 802
+ },
+ {
+  "Word": "retrato",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "portrait",
+  "Index": 803
+ },
+ {
+  "Word": "revista",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "magazine",
+  "Index": 804
+ },
+ {
+  "Word": "riqueza",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "treasure",
+  "Index": 805
+ },
+ {
+  "Word": "segunda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Monday",
+  "Index": 806
+ },
+ {
+  "Word": "sorriso",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "grin",
+  "Index": 807
+ },
+ {
+  "Word": "spoiler",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "spoiler",
+  "Index": 808
+ },
+ {
+  "Word": "teclado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "keyboard",
+  "Index": 809
+ },
+ {
+  "Word": "telhado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "roof",
+  "Index": 810
+ },
+ {
+  "Word": "tesoura",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "scissors",
+  "Index": 811
+ },
+ {
+  "Word": "tesouro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "treasure",
+  "Index": 812
+ },
+ {
+  "Word": "toranja",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "grapefruit",
+  "Index": 813
+ },
+ {
+  "Word": "tornado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "tornado",
+  "Index": 814
+ },
+ {
+  "Word": "torrada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "toast",
+  "Index": 815
+ },
+ {
+  "Word": "tráfego",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "traffic",
+  "Index": 816
+ },
+ {
+  "Word": "tubarão",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "shark",
+  "Index": 817
+ },
+ {
+  "Word": "vampiro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vampire",
+  "Index": 818
+ },
+ {
+  "Word": "varanda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "balcony",
+  "Index": 819
+ },
+ {
+  "Word": "vasilha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "canister",
+  "Index": 820
+ },
+ {
+  "Word": "vegetal",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vegetable",
+  "Index": 821
+ },
+ {
+  "Word": "veleiro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sailboat",
+  "Index": 822
+ },
+ {
+  "Word": "vendado",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "blindfold",
+  "Index": 823
+ },
+ {
+  "Word": "vestido",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "dress",
+  "Index": 824
+ },
+ {
+  "Word": "vinagre",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vinegar",
+  "Index": 825
+ },
+ {
+  "Word": "violino",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "violin",
+  "Index": 826
+ },
+ {
+  "Word": "vomitar",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vomit",
+  "Index": 827
+ },
+ {
+  "Word": "zepelim",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "zeppelin",
+  "Index": 828
+ },
+ {
+  "Word": "Alemanha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "Germany",
+  "Index": 829
+ },
+ {
+  "Word": "acidente",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "accident",
+  "Index": 830
+ },
+ {
+  "Word": "ajoelhar",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "kneel",
+  "Index": 831
+ },
+ {
+  "Word": "alfinete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pin",
+  "Index": 832
+ },
+ {
+  "Word": "almofada",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pillow",
+  "Index": 833
+ },
+ {
+  "Word": "amendoim",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "peanut",
+  "Index": 834
+ },
+ {
+  "Word": "anaconda",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "anaconda",
+  "Index": 835
+ },
+ {
+  "Word": "aplaudir",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "applaud",
+  "Index": 836
+ },
+ {
+  "Word": "armadura",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "armor",
+  "Index": 837
+ },
+ {
+  "Word": "assaltar",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "assault",
+  "Index": 838
+ },
+ {
+  "Word": "atacador",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "shoelace",
+  "Index": 839
+ },
+ {
+  "Word": "badalada",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "chime",
+  "Index": 840
+ },
+ {
+  "Word": "baioneta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bayonet",
+  "Index": 841
+ },
+ {
+  "Word": "banheira",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bathtub",
+  "Index": 842
+ },
+ {
+  "Word": "banheiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bathroom",
+  "Index": 843
+ },
+ {
+  "Word": "barbeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "barber",
+  "Index": 844
+ },
+ {
+  "Word": "baunilha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "vanilla",
+  "Index": 845
+ },
+ {
+  "Word": "biologia",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "biology",
+  "Index": 846
+ },
+ {
+  "Word": "biscoito",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cookie",
+  "Index": 847
+ },
+ {
+  "Word": "bochecha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cheek",
+  "Index": 848
+ },
+ {
+  "Word": "bombeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "fireman",
+  "Index": 849
+ },
+ {
+  "Word": "borracha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rubber",
+  "Index": 850
+ },
+ {
+  "Word": "brócolos",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "broccoli",
+  "Index": 851
+ },
+ {
+  "Word": "cachecol",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "scarf",
+  "Index": 852
+ },
+ {
+  "Word": "cagalhão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "turd",
+  "Index": 853
+ },
+ {
+  "Word": "camponês",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "peasant",
+  "Index": 854
+ },
+ {
+  "Word": "capacete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "helmet",
+  "Index": 855
+ },
+ {
+  "Word": "carrinha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "Van",
+  "Index": 856
+ },
+ {
+  "Word": "carteira",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "Wallet",
+  "Index": 857
+ },
+ {
+  "Word": "carteiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mailman",
+  "Index": 858
+ },
+ {
+  "Word": "cascalho",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "gravel",
+  "Index": 859
+ },
+ {
+  "Word": "castanha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "chestnut",
+  "Index": 860
+ },
+ {
+  "Word": "catálogo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "catalog",
+  "Index": 861
+ },
+ {
+  "Word": "chaleira",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "kettle",
+  "Index": 862
+ },
+ {
+  "Word": "chiclete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bubble gum",
+  "Index": 863
+ },
+ {
+  "Word": "cicatriz",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "scar",
+  "Index": 864
+ },
+ {
+  "Word": "cilindro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cylinder",
+  "Index": 865
+ },
+ {
+  "Word": "cobertor",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "blanket",
+  "Index": 866
+ },
+ {
+  "Word": "cocktail",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cocktail",
+  "Index": 867
+ },
+ {
+  "Word": "cogumelo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mushroom",
+  "Index": 868
+ },
+ {
+  "Word": "completo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "complete",
+  "Index": 869
+ },
+ {
+  "Word": "concerto",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "concert",
+  "Index": 870
+ },
+ {
+  "Word": "condutor",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "driver",
+  "Index": 871
+ },
+ {
+  "Word": "conselho",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "tip",
+  "Index": 872
+ },
+ {
+  "Word": "corrente",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "chain",
+  "Index": 873
+ },
+ {
+  "Word": "corrimão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rail",
+  "Index": 874
+ },
+ {
+  "Word": "cotovelo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "elbow",
+  "Index": 875
+ },
+ {
+  "Word": "cruzeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cruise",
+  "Index": 876
+ },
+ {
+  "Word": "curativo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bandage",
+  "Index": 877
+ },
+ {
+  "Word": "dentista",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dentist",
+  "Index": 878
+ },
+ {
+  "Word": "desastre",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "disaster",
+  "Index": 879
+ },
+ {
+  "Word": "desporto",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "sport",
+  "Index": 880
+ },
+ {
+  "Word": "diagonal",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "diagonal",
+  "Index": 881
+ },
+ {
+  "Word": "diagrama",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "graph",
+  "Index": 882
+ },
+ {
+  "Word": "diamante",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "diamond",
+  "Index": 883
+ },
+ {
+  "Word": "dinamite",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dynamite",
+  "Index": 884
+ },
+ {
+  "Word": "dinheiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "penny",
+  "Index": 885
+ },
+ {
+  "Word": "disfarce",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mask",
+  "Index": 886
+ },
+ {
+  "Word": "edifício",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "building",
+  "Index": 887
+ },
+ {
+  "Word": "elefante",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bull",
+  "Index": 888
+ },
+ {
+  "Word": "elevador",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "elevator",
+  "Index": 889
+ },
+ {
+  "Word": "esfregão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mop",
+  "Index": 890
+ },
+ {
+  "Word": "estômago",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "belly",
+  "Index": 891
+ },
+ {
+  "Word": "explosão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "explosion",
+  "Index": 892
+ },
+ {
+  "Word": "exército",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "military",
+  "Index": 893
+ },
+ {
+  "Word": "falhanço",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "failure",
+  "Index": 894
+ },
+ {
+  "Word": "fantasma",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "leprechaun",
+  "Index": 895
+ },
+ {
+  "Word": "festival",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "festival",
+  "Index": 896
+ },
+ {
+  "Word": "flamingo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "flamingo",
+  "Index": 897
+ },
+ {
+  "Word": "floresta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rainforest",
+  "Index": 898
+ },
+ {
+  "Word": "fogueira",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "flashlight",
+  "Index": 899
+ },
+ {
+  "Word": "fogueiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "fireman",
+  "Index": 900
+ },
+ {
+  "Word": "foguetão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rocket",
+  "Index": 901
+ },
+ {
+  "Word": "ganância",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "greed",
+  "Index": 902
+ },
+ {
+  "Word": "gasolina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "gasoline",
+  "Index": 903
+ },
+ {
+  "Word": "golfinho",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dolphin",
+  "Index": 904
+ },
+ {
+  "Word": "graffiti",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "graffiti",
+  "Index": 905
+ },
+ {
+  "Word": "grinalda",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "wreath",
+  "Index": 906
+ },
+ {
+  "Word": "guaxinim",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "raccoon",
+  "Index": 907
+ },
+ {
+  "Word": "guitarra",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "guitar",
+  "Index": 908
+ },
+ {
+  "Word": "hematoma",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bruise",
+  "Index": 909
+ },
+ {
+  "Word": "holofote",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "floodlight",
+  "Index": 910
+ },
+ {
+  "Word": "homicida",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "murderer",
+  "Index": 911
+ },
+ {
+  "Word": "hospital",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "hospital",
+  "Index": 912
+ },
+ {
+  "Word": "infinito",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "infinite",
+  "Index": 913
+ },
+ {
+  "Word": "internet",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "Internet",
+  "Index": 914
+ },
+ {
+  "Word": "jalapeno",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "jalapeno",
+  "Index": 915
+ },
+ {
+  "Word": "joaninha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "ladybug",
+  "Index": 916
+ },
+ {
+  "Word": "lanterna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "lantern",
+  "Index": 917
+ },
+ {
+  "Word": "libélula",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dragonfly",
+  "Index": 918
+ },
+ {
+  "Word": "limonada",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "lemonade",
+  "Index": 919
+ },
+ {
+  "Word": "logótipo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "logo",
+  "Index": 920
+ },
+ {
+  "Word": "macarrão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "noodle",
+  "Index": 921
+ },
+ {
+  "Word": "magazine",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "magazine",
+  "Index": 922
+ },
+ {
+  "Word": "maionese",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mayonnaise",
+  "Index": 923
+ },
+ {
+  "Word": "manteiga",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "butter",
+  "Index": 924
+ },
+ {
+  "Word": "marcador",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "lighter",
+  "Index": 925
+ },
+ {
+  "Word": "maçaneta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "doorknob",
+  "Index": 926
+ },
+ {
+  "Word": "mensagem",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "message",
+  "Index": 927
+ },
+ {
+  "Word": "montanha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mountain",
+  "Index": 928
+ },
+ {
+  "Word": "mosquete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "musket",
+  "Index": 929
+ },
+ {
+  "Word": "mosquito",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mosquito",
+  "Index": 930
+ },
+ {
+  "Word": "natureza",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "nature",
+  "Index": 931
+ },
+ {
+  "Word": "nevoeiro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "fog",
+  "Index": 932
+ },
+ {
+  "Word": "oxigénio",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "oxygen",
+  "Index": 933
+ },
+ {
+  "Word": "paciente",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "patient",
+  "Index": 934
+ },
+ {
+  "Word": "paisagem",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "landscape",
+  "Index": 935
+ },
+ {
+  "Word": "papagaio",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "kite",
+  "Index": 936
+ },
+ {
+  "Word": "pelicano",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pelican",
+  "Index": 937
+ },
+ {
+  "Word": "película",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "coat",
+  "Index": 938
+ },
+ {
+  "Word": "penhasco",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rock",
+  "Index": 939
+ },
+ {
+  "Word": "perdedor",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "loser",
+  "Index": 940
+ },
+ {
+  "Word": "pesadelo",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "nightmare",
+  "Index": 941
+ },
+ {
+  "Word": "pesquisa",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "search",
+  "Index": 942
+ },
+ {
+  "Word": "picareta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pickaxe",
+  "Index": 943
+ },
+ {
+  "Word": "pimentão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pepper",
+  "Index": 944
+ },
+ {
+  "Word": "pirulito",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "lollipop",
+  "Index": 945
+ },
+ {
+  "Word": "pranchão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "plank",
+  "Index": 946
+ },
+ {
+  "Word": "prataria",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "silverware",
+  "Index": 947
+ },
+ {
+  "Word": "prefeito",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mayor",
+  "Index": 948
+ },
+ {
+  "Word": "preguiça",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "sloth",
+  "Index": 949
+ },
+ {
+  "Word": "princesa",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "princess",
+  "Index": 950
+ },
+ {
+  "Word": "príncipe",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "prince",
+  "Index": 951
+ },
+ {
+  "Word": "quadrado",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "square",
+  "Index": 952
+ },
+ {
+  "Word": "rabanete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "radish",
+  "Index": 953
+ },
+ {
+  "Word": "rapariga",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "girl",
+  "Index": 954
+ },
+ {
+  "Word": "reciclar",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "recycle",
+  "Index": 955
+ },
+ {
+  "Word": "refeição",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "meat",
+  "Index": 956
+ },
+ {
+  "Word": "reflexão",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "reflection",
+  "Index": 957
+ },
+ {
+  "Word": "respirar",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "breath",
+  "Index": 958
+ },
+ {
+  "Word": "sabonete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "soap",
+  "Index": 959
+ },
+ {
+  "Word": "salsicha",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "sausage",
+  "Index": 960
+ },
+ {
+  "Word": "satélite",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "satellite",
+  "Index": 961
+ },
+ {
+  "Word": "senhorio",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "landlord",
+  "Index": 962
+ },
+ {
+  "Word": "silhueta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "silhouette",
+  "Index": 963
+ },
+ {
+  "Word": "silêncio",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dead",
+  "Index": 964
+ },
+ {
+  "Word": "soldador",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "welder",
+  "Index": 965
+ },
+ {
+  "Word": "suricata",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "meerkat",
+  "Index": 966
+ },
+ {
+  "Word": "sussurro",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "whisper",
+  "Index": 967
+ },
+ {
+  "Word": "tatuagem",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "tattoo",
+  "Index": 968
+ },
+ {
+  "Word": "telefone",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "telephone",
+  "Index": 969
+ },
+ {
+  "Word": "tiramisu",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "tiramisu",
+  "Index": 970
+ },
+ {
+  "Word": "torneira",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "faucet",
+  "Index": 971
+ },
+ {
+  "Word": "trabalho",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "work",
+  "Index": 972
+ },
+ {
+  "Word": "trombeta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "trumpet",
+  "Index": 973
+ },
+ {
+  "Word": "trompete",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "trumpet",
+  "Index": 974
+ },
+ {
+  "Word": "trovoada",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "thunderstorm",
+  "Index": 975
+ },
+ {
+  "Word": "uniforme",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cloth",
+  "Index": 976
+ },
+ {
+  "Word": "vassoura",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "broom",
+  "Index": 977
+ },
+ {
+  "Word": "vencedor",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "winner",
+  "Index": 978
+ },
+ {
+  "Word": "vermelho",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "red",
+  "Index": 979
+ },
+ {
+  "Word": "vitamina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "vitamin",
+  "Index": 980
+ },
+ {
+  "Word": "voleibol",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "volleyball",
+  "Index": 981
+ },
+ {
+  "Word": "xilofone",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "xylophone",
+  "Index": 982
+ },
+ {
+  "Word": "Atlântida",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "Atlantis",
+  "Index": 983
+ },
+ {
+  "Word": "aeroporto",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "airport",
+  "Index": 984
+ },
+ {
+  "Word": "agrafador",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "stapler",
+  "Index": 985
+ },
+ {
+  "Word": "alforreca",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "Medusa",
+  "Index": 986
+ },
+ {
+  "Word": "arco-íris",
+  "Hint": "____-____",
+  "Length": 9,
+  "Translation": "bow",
+  "Index": 987
+ },
+ {
+  "Word": "aspirador",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "vacuum",
+  "Index": 988
+ },
+ {
+  "Word": "assassino",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "thug",
+  "Index": 989
+ },
+ {
+  "Word": "autocarro",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bus",
+  "Index": 990
+ },
+ {
+  "Word": "banqueiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "banker",
+  "Index": 991
+ },
+ {
+  "Word": "barricada",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "barricade",
+  "Index": 992
+ },
+ {
+  "Word": "beterraba",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "beet",
+  "Index": 993
+ },
+ {
+  "Word": "bicicleta",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bicycle",
+  "Index": 994
+ },
+ {
+  "Word": "binóculos",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "binoculars",
+  "Index": 995
+ },
+ {
+  "Word": "bobsleigh",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bobsleigh",
+  "Index": 996
+ },
+ {
+  "Word": "borboleta",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "butterfly",
+  "Index": 997
+ },
+ {
+  "Word": "bracelete",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bracelet",
+  "Index": 998
+ },
+ {
+  "Word": "brilhante",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "champion",
+  "Index": 999
+ },
+ {
+  "Word": "cabeçalho",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "head",
+  "Index": 1000
+ },
+ {
+  "Word": "cafetaria",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "cafeteria",
+  "Index": 1001
+ },
+ {
+  "Word": "calcanhar",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "heel",
+  "Index": 1002
+ },
+ {
+  "Word": "casamento",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "wedding",
+  "Index": 1003
+ },
+ {
+  "Word": "catavento",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "wind vane",
+  "Index": 1004
+ },
+ {
+  "Word": "cavaleiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "knight",
+  "Index": 1005
+ },
+ {
+  "Word": "chiqueiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "pigsty",
+  "Index": 1006
+ },
+ {
+  "Word": "chocolate",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "chocolate",
+  "Index": 1007
+ },
+ {
+  "Word": "churrasco",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "barbecue",
+  "Index": 1008
+ },
+ {
+  "Word": "clarinete",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "clarinet",
+  "Index": 1009
+ },
+ {
+  "Word": "colherona",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "spoon",
+  "Index": 1010
+ },
+ {
+  "Word": "crocodilo",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "crocodile",
+  "Index": 1011
+ },
+ {
+  "Word": "destroços",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "wreckage",
+  "Index": 1012
+ },
+ {
+  "Word": "discoteca",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "discotheque",
+  "Index": 1013
+ },
+ {
+  "Word": "distância",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "drive",
+  "Index": 1014
+ },
+ {
+  "Word": "empregado",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "employee",
+  "Index": 1015
+ },
+ {
+  "Word": "escadaria",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "staircase",
+  "Index": 1016
+ },
+ {
+  "Word": "escorrega",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "slide",
+  "Index": 1017
+ },
+ {
+  "Word": "escultura",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "sculpture",
+  "Index": 1018
+ },
+ {
+  "Word": "esfregona",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "mop",
+  "Index": 1019
+ },
+ {
+  "Word": "espinafre",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "spinach",
+  "Index": 1020
+ },
+ {
+  "Word": "esqueleto",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "skeleton",
+  "Index": 1021
+ },
+ {
+  "Word": "estudante",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "student",
+  "Index": 1022
+ },
+ {
+  "Word": "exercitar",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "train",
+  "Index": 1023
+ },
+ {
+  "Word": "exposição",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "display",
+  "Index": 1024
+ },
+ {
+  "Word": "forquilha",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "pitchfork",
+  "Index": 1025
+ },
+ {
+  "Word": "fronteira",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "border",
+  "Index": 1026
+ },
+ {
+  "Word": "gafanhoto",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "grasshopper",
+  "Index": 1027
+ },
+ {
+  "Word": "gravidade",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "gravity",
+  "Index": 1028
+ },
+ {
+  "Word": "grelhador",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "grill",
+  "Index": 1029
+ },
+ {
+  "Word": "horizonte",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "horizon",
+  "Index": 1030
+ },
+ {
+  "Word": "labirinto",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "maze",
+  "Index": 1031
+ },
+ {
+  "Word": "malmequer",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "marigold",
+  "Index": 1032
+ },
+ {
+  "Word": "mangueira",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "hose",
+  "Index": 1033
+ },
+ {
+  "Word": "margarida",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "daisy",
+  "Index": 1034
+ },
+ {
+  "Word": "marioneta",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "puppet",
+  "Index": 1035
+ },
+ {
+  "Word": "meteorito",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "meteorite",
+  "Index": 1036
+ },
+ {
+  "Word": "microfone",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "microphone",
+  "Index": 1037
+ },
+ {
+  "Word": "musaranho",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "shrew",
+  "Index": 1038
+ },
+ {
+  "Word": "nadadeira",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "paddle",
+  "Index": 1039
+ },
+ {
+  "Word": "obstáculo",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "hurdle",
+  "Index": 1040
+ },
+ {
+  "Word": "península",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "peninsula",
+  "Index": 1041
+ },
+ {
+  "Word": "percevejo",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bed bug",
+  "Index": 1042
+ },
+ {
+  "Word": "primavera",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "spring",
+  "Index": 1043
+ },
+ {
+  "Word": "professor",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "beak",
+  "Index": 1044
+ },
+ {
+  "Word": "rachadura",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "crack",
+  "Index": 1045
+ },
+ {
+  "Word": "relâmpago",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "lightning",
+  "Index": 1046
+ },
+ {
+  "Word": "retângulo",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "rectangle",
+  "Index": 1047
+ },
+ {
+  "Word": "saliência",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "boss",
+  "Index": 1048
+ },
+ {
+  "Word": "samambaia",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "fern",
+  "Index": 1049
+ },
+ {
+  "Word": "sanduiche",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "sandwich",
+  "Index": 1050
+ },
+ {
+  "Word": "segurança",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "security",
+  "Index": 1051
+ },
+ {
+  "Word": "snowboard",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "snowboard",
+  "Index": 1052
+ },
+ {
+  "Word": "sobremesa",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "dessert",
+  "Index": 1053
+ },
+ {
+  "Word": "sombreiro",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "sombrero",
+  "Index": 1054
+ },
+ {
+  "Word": "tangerina",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "tangerine",
+  "Index": 1055
+ },
+ {
+  "Word": "tartaruga",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "tortoise",
+  "Index": 1056
+ },
+ {
+  "Word": "telemóvel",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "cell phone",
+  "Index": 1057
+ },
+ {
+  "Word": "televisão",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "television",
+  "Index": 1058
+ },
+ {
+  "Word": "treinador",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "coach",
+  "Index": 1059
+ },
+ {
+  "Word": "triângulo",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "triangle",
+  "Index": 1060
+ },
+ {
+  "Word": "unicórnio",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "unicorn",
+  "Index": 1061
+ },
+ {
+  "Word": "água rasa",
+  "Hint": "____ ____",
+  "Length": 9,
+  "Translation": "shallow",
+  "Index": 1062
+ },
+ {
+  "Word": "agricultor",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "farmer",
+  "Index": 1063
+ },
+ {
+  "Word": "amarelinha",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "hopscotch",
+  "Index": 1064
+ },
+ {
+  "Word": "ambulância",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "ambulance",
+  "Index": 1065
+ },
+ {
+  "Word": "amolgadura",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "dent",
+  "Index": 1066
+ },
+ {
+  "Word": "apocalipse",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "apocalypse",
+  "Index": 1067
+ },
+ {
+  "Word": "arqueólogo",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "archaeologist",
+  "Index": 1068
+ },
+ {
+  "Word": "assaltante",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "robber",
+  "Index": 1069
+ },
+ {
+  "Word": "assustador",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "scary",
+  "Index": 1070
+ },
+ {
+  "Word": "astronauta",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "astronaut",
+  "Index": 1071
+ },
+ {
+  "Word": "biblioteca",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "library",
+  "Index": 1072
+ },
+ {
+  "Word": "calendário",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "calendar",
+  "Index": 1073
+ },
+ {
+  "Word": "cappuccino",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "cappuccino",
+  "Index": 1074
+ },
+ {
+  "Word": "caranguejo",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "crab",
+  "Index": 1075
+ },
+ {
+  "Word": "comprimido",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "tablet",
+  "Index": 1076
+ },
+ {
+  "Word": "computador",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "computer",
+  "Index": 1077
+ },
+ {
+  "Word": "comunidade",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "community",
+  "Index": 1078
+ },
+ {
+  "Word": "congelador",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "freezer",
+  "Index": 1079
+ },
+ {
+  "Word": "couve-flor",
+  "Hint": "_____-____",
+  "Length": 10,
+  "Translation": "cauliflower",
+  "Index": 1080
+ },
+ {
+  "Word": "dedo do pé",
+  "Hint": "____ __ __",
+  "Length": 10,
+  "Translation": "toe",
+  "Index": 1081
+ },
+ {
+  "Word": "dinossauro",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "dinosaur",
+  "Index": 1082
+ },
+ {
+  "Word": "empregador",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "employer",
+  "Index": 1083
+ },
+ {
+  "Word": "enfermeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "nurse",
+  "Index": 1084
+ },
+ {
+  "Word": "escritório",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "office",
+  "Index": 1085
+ },
+ {
+  "Word": "espingarda",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "shotgun",
+  "Index": 1086
+ },
+ {
+  "Word": "feiticeiro",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "wizard",
+  "Index": 1087
+ },
+ {
+  "Word": "fotografia",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "photograph",
+  "Index": 1088
+ },
+ {
+  "Word": "frigideira",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "pan",
+  "Index": 1089
+ },
+ {
+  "Word": "guarda-sol",
+  "Hint": "______-___",
+  "Length": 10,
+  "Translation": "sunshade",
+  "Index": 1090
+ },
+ {
+  "Word": "guardanapo",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "napkin",
+  "Index": 1091
+ },
+ {
+  "Word": "hambúrguer",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "hamburger",
+  "Index": 1092
+ },
+ {
+  "Word": "impressora",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "printer",
+  "Index": 1093
+ },
+ {
+  "Word": "infantário",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "kindergarten",
+  "Index": 1094
+ },
+ {
+  "Word": "interseção",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "intersection",
+  "Index": 1095
+ },
+ {
+  "Word": "lavandaria",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "laundry",
+  "Index": 1096
+ },
+ {
+  "Word": "meia-noite",
+  "Hint": "____-_____",
+  "Length": 10,
+  "Translation": "midnight",
+  "Index": 1097
+ },
+ {
+  "Word": "misturador",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "mixer",
+  "Index": 1098
+ },
+ {
+  "Word": "motosserra",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "chainsaw",
+  "Index": 1099
+ },
+ {
+  "Word": "paraquedas",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "parachute",
+  "Index": 1100
+ },
+ {
+  "Word": "passadeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "treadmill",
+  "Index": 1101
+ },
+ {
+  "Word": "piquenique",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "picnic",
+  "Index": 1102
+ },
+ {
+  "Word": "presidente",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "president",
+  "Index": 1103
+ },
+ {
+  "Word": "queimadura",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "burn",
+  "Index": 1104
+ },
+ {
+  "Word": "secretária",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "desk",
+  "Index": 1105
+ },
+ {
+  "Word": "superfície",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "surface",
+  "Index": 1106
+ },
+ {
+  "Word": "telescópio",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "telescope",
+  "Index": 1107
+ },
+ {
+  "Word": "tempestade",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "storm",
+  "Index": 1108
+ },
+ {
+  "Word": "termómetro",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "thermometer",
+  "Index": 1109
+ },
+ {
+  "Word": "torradeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "toaster",
+  "Index": 1110
+ },
+ {
+  "Word": "trepadeira",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "bindweed",
+  "Index": 1111
+ },
+ {
+  "Word": "ventilação",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "vent",
+  "Index": 1112
+ },
+ {
+  "Word": "vizinhança",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "neighborhood",
+  "Index": 1113
+ },
+ {
+  "Word": "acampamento",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "camping",
+  "Index": 1114
+ },
+ {
+  "Word": "altifalante",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "speaker",
+  "Index": 1115
+ },
+ {
+  "Word": "aniversário",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "birthday",
+  "Index": 1116
+ },
+ {
+  "Word": "apartamento",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "apartment",
+  "Index": 1117
+ },
+ {
+  "Word": "autoestrada",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "highway",
+  "Index": 1118
+ },
+ {
+  "Word": "basquetebol",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "basketball",
+  "Index": 1119
+ },
+ {
+  "Word": "bob esponja",
+  "Hint": "___ _______",
+  "Length": 11,
+  "Translation": "SpongeBob",
+  "Index": 1120
+ },
+ {
+  "Word": "canalizador",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "plumber",
+  "Index": 1121
+ },
+ {
+  "Word": "cheerleader",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "cheerleader",
+  "Index": 1122
+ },
+ {
+  "Word": "confortável",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "comfortable",
+  "Index": 1123
+ },
+ {
+  "Word": "controlador",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "controller",
+  "Index": 1124
+ },
+ {
+  "Word": "conversação",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "conversation",
+  "Index": 1125
+ },
+ {
+  "Word": "demostracão",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "demonstration",
+  "Index": 1126
+ },
+ {
+  "Word": "dispensador",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "dispenser",
+  "Index": 1127
+ },
+ {
+  "Word": "escaravelho",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "scarab",
+  "Index": 1128
+ },
+ {
+  "Word": "formigueiro",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "swarm",
+  "Index": 1129
+ },
+ {
+  "Word": "frigorífico",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "fridge",
+  "Index": 1130
+ },
+ {
+  "Word": "helicóptero",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "helicopter",
+  "Index": 1131
+ },
+ {
+  "Word": "hippopótamo",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "hippopotamus",
+  "Index": 1132
+ },
+ {
+  "Word": "levantar-se",
+  "Hint": "________-__",
+  "Length": 11,
+  "Translation": "stand",
+  "Index": 1133
+ },
+ {
+  "Word": "malabarismo",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "juggle",
+  "Index": 1134
+ },
+ {
+  "Word": "marshmallow",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "marshmallow",
+  "Index": 1135
+ },
+ {
+  "Word": "mergulhador",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "scuba diver",
+  "Index": 1136
+ },
+ {
+  "Word": "microscópio",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "microscope",
+  "Index": 1137
+ },
+ {
+  "Word": "noz-moscada",
+  "Hint": "___-_______",
+  "Length": 11,
+  "Translation": "nutmeg",
+  "Index": 1138
+ },
+ {
+  "Word": "para-brisas",
+  "Hint": "____-______",
+  "Length": 11,
+  "Translation": "windshield",
+  "Index": 1139
+ },
+ {
+  "Word": "para-choque",
+  "Hint": "____-______",
+  "Length": 11,
+  "Translation": "bumper",
+  "Index": 1140
+ },
+ {
+  "Word": "peixe-balão",
+  "Hint": "_____-_____",
+  "Length": 11,
+  "Translation": "puffer fish",
+  "Index": 1141
+ },
+ {
+  "Word": "pensionista",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "pensioner",
+  "Index": 1142
+ },
+ {
+  "Word": "publicidade",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "publicity",
+  "Index": 1143
+ },
+ {
+  "Word": "pé-de-cabra",
+  "Hint": "__-__-_____",
+  "Length": 11,
+  "Translation": "crow",
+  "Index": 1144
+ },
+ {
+  "Word": "restaurante",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "restaurant",
+  "Index": 1145
+ },
+ {
+  "Word": "saca-rolhas",
+  "Hint": "____-______",
+  "Length": 11,
+  "Translation": "corkscrew",
+  "Index": 1146
+ },
+ {
+  "Word": "sanguessuga",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "leech",
+  "Index": 1147
+ },
+ {
+  "Word": "sobrancelha",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "eyebrow",
+  "Index": 1148
+ },
+ {
+  "Word": "subterrâneo",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "underground",
+  "Index": 1149
+ },
+ {
+  "Word": "temperatura",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "temperature",
+  "Index": 1150
+ },
+ {
+  "Word": "vegetariano",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "vegetarian",
+  "Index": 1151
+ },
+ {
+  "Word": "arranha-céus",
+  "Hint": "_______-____",
+  "Length": 12,
+  "Translation": "skyscraper",
+  "Index": 1152
+ },
+ {
+  "Word": "bola de neve",
+  "Hint": "____ __ ____",
+  "Length": 12,
+  "Translation": "snowball",
+  "Index": 1153
+ },
+ {
+  "Word": "casca de noz",
+  "Hint": "_____ __ ___",
+  "Length": 12,
+  "Translation": "nutshell",
+  "Index": 1154
+ },
+ {
+  "Word": "cheeseburger",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "cheeseburger",
+  "Index": 1155
+ },
+ {
+  "Word": "desentupidor",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "plunger",
+  "Index": 1156
+ },
+ {
+  "Word": "desfiladeiro",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "canyon",
+  "Index": 1157
+ },
+ {
+  "Word": "eletricidade",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "electricity",
+  "Index": 1158
+ },
+ {
+  "Word": "farmacêutico",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "dispenser",
+  "Index": 1159
+ },
+ {
+  "Word": "fita métrica",
+  "Hint": "____ _______",
+  "Length": 12,
+  "Translation": "tape",
+  "Index": 1160
+ },
+ {
+  "Word": "frutos secos",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Translation": "dry fruits",
+  "Index": 1161
+ },
+ {
+  "Word": "guarda-chuva",
+  "Hint": "______-_____",
+  "Length": 12,
+  "Translation": "umbrella",
+  "Index": 1162
+ },
+ {
+  "Word": "incapacidade",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "failure",
+  "Index": 1163
+ },
+ {
+  "Word": "lança-chamas",
+  "Hint": "_____-______",
+  "Length": 12,
+  "Translation": "flamethrower",
+  "Index": 1164
+ },
+ {
+  "Word": "observatório",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "observatory",
+  "Index": 1165
+ },
+ {
+  "Word": "ornitorrinco",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "platypus",
+  "Index": 1166
+ },
+ {
+  "Word": "peixe-espada",
+  "Hint": "_____-______",
+  "Length": 12,
+  "Translation": "swordfish",
+  "Index": 1167
+ },
+ {
+  "Word": "profissional",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "professor",
+  "Index": 1168
+ },
+ {
+  "Word": "pão de forma",
+  "Hint": "___ __ _____",
+  "Length": 12,
+  "Translation": "loaf bread",
+  "Index": 1169
+ },
+ {
+  "Word": "pé de feijão",
+  "Hint": "__ __ ______",
+  "Length": 12,
+  "Translation": "beanstalk",
+  "Index": 1170
+ },
+ {
+  "Word": "quebra-nozes",
+  "Hint": "______-_____",
+  "Length": 12,
+  "Translation": "nutcracker",
+  "Index": 1171
+ },
+ {
+  "Word": "refrigerador",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "refrigerator",
+  "Index": 1172
+ },
+ {
+  "Word": "sabre de luz",
+  "Hint": "_____ __ ___",
+  "Length": 12,
+  "Translation": "lightsaber",
+  "Index": 1173
+ },
+ {
+  "Word": "supermercado",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "supermarket",
+  "Index": 1174
+ },
+ {
+  "Word": "tiranossauro",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "tyrannosaurus",
+  "Index": 1175
+ },
+ {
+  "Word": "velociraptor",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "Velociraptor",
+  "Index": 1176
+ },
+ {
+  "Word": "água salgada",
+  "Hint": "____ _______",
+  "Length": 12,
+  "Translation": "saltwater",
+  "Index": 1177
+ },
+ {
+  "Word": "auscultadores",
+  "Hint": "_____________",
+  "Length": 13,
+  "Translation": "headphones",
+  "Index": 1178
+ },
+ {
+  "Word": "batom de cola",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Translation": "lipstick",
+  "Index": 1179
+ },
+ {
+  "Word": "casa de banho",
+  "Hint": "____ __ _____",
+  "Length": 13,
+  "Translation": "bathroom",
+  "Index": 1180
+ },
+ {
+  "Word": "chave inglesa",
+  "Hint": "_____ _______",
+  "Length": 13,
+  "Translation": "wrench",
+  "Index": 1181
+ },
+ {
+  "Word": "dente-de-leão",
+  "Hint": "_____-__-____",
+  "Length": 13,
+  "Translation": "dandelion",
+  "Index": 1182
+ },
+ {
+  "Word": "floco de neve",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Translation": "snowflake",
+  "Index": 1183
+ },
+ {
+  "Word": "gota de chuva",
+  "Hint": "____ __ _____",
+  "Length": 13,
+  "Translation": "raindrop",
+  "Index": 1184
+ },
+ {
+  "Word": "lápis de cera",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Translation": "crayon",
+  "Index": 1185
+ },
+ {
+  "Word": "nascer do sol",
+  "Hint": "______ __ ___",
+  "Length": 13,
+  "Translation": "sunrise",
+  "Index": 1186
+ },
+ {
+  "Word": "nave espacial",
+  "Hint": "____ ________",
+  "Length": 13,
+  "Translation": "spaceship",
+  "Index": 1187
+ },
+ {
+  "Word": "palavra-chave",
+  "Hint": "_______-_____",
+  "Length": 13,
+  "Translation": "keyword",
+  "Index": 1188
+ },
+ {
+  "Word": "peixe-dourado",
+  "Hint": "_____-_______",
+  "Length": 13,
+  "Translation": "goldfish",
+  "Index": 1189
+ },
+ {
+  "Word": "ténis de mesa",
+  "Hint": "_____ __ ____",
+  "Length": 13,
+  "Translation": "table tennis",
+  "Index": 1190
+ },
+ {
+  "Word": "óculos de sol",
+  "Hint": "______ __ ___",
+  "Length": 13,
+  "Translation": "sunglasses",
+  "Index": 1191
+ },
+ {
+  "Word": "areia movediça",
+  "Hint": "_____ ________",
+  "Length": 14,
+  "Translation": "quicksand",
+  "Index": 1192
+ },
+ {
+  "Word": "batatas fritas",
+  "Hint": "_______ ______",
+  "Length": 14,
+  "Translation": "chips",
+  "Index": 1193
+ },
+ {
+  "Word": "bloco de notas",
+  "Hint": "_____ __ _____",
+  "Length": 14,
+  "Translation": "notebook",
+  "Index": 1194
+ },
+ {
+  "Word": "boneco de neve",
+  "Hint": "______ __ ____",
+  "Length": 14,
+  "Translation": "snowman",
+  "Index": 1195
+ },
+ {
+  "Word": "caixa de areia",
+  "Hint": "_____ __ _____",
+  "Length": 14,
+  "Translation": "sandbox",
+  "Index": 1196
+ },
+ {
+  "Word": "cavalo-marinho",
+  "Hint": "______-_______",
+  "Length": 14,
+  "Translation": "walrus",
+  "Index": 1197
+ },
+ {
+  "Word": "cera de orelha",
+  "Hint": "____ __ ______",
+  "Length": 14,
+  "Translation": "ear wax",
+  "Index": 1198
+ },
+ {
+  "Word": "espeleologista",
+  "Hint": "______________",
+  "Length": 14,
+  "Translation": "spelunker",
+  "Index": 1199
+ },
+ {
+  "Word": "estrela-do-mar",
+  "Hint": "_______-__-___",
+  "Length": 14,
+  "Translation": "starfish",
+  "Index": 1200
+ },
+ {
+  "Word": "floresta úmida",
+  "Hint": "________ _____",
+  "Length": 14,
+  "Translation": "forest",
+  "Index": 1201
+ },
+ {
+  "Word": "hora de dormir",
+  "Hint": "____ __ ______",
+  "Length": 14,
+  "Translation": "bedtime",
+  "Index": 1202
+ },
+ {
+  "Word": "idade da pedra",
+  "Hint": "_____ __ _____",
+  "Length": 14,
+  "Translation": "Stone Age",
+  "Index": 1203
+ },
+ {
+  "Word": "montanha-russa",
+  "Hint": "________-_____",
+  "Length": 14,
+  "Translation": "coaster",
+  "Index": 1204
+ },
+ {
+  "Word": "pequeno-almoço",
+  "Hint": "_______-______",
+  "Length": 14,
+  "Translation": "breakfast",
+  "Index": 1205
+ },
+ {
+  "Word": "cachorro quente",
+  "Hint": "________ ______",
+  "Length": 15,
+  "Translation": "hot dog",
+  "Index": 1206
+ },
+ {
+  "Word": "carrinho de mão",
+  "Hint": "________ __ ___",
+  "Length": 15,
+  "Translation": "wheelbarrow",
+  "Index": 1207
+ },
+ {
+  "Word": "casca de banana",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Translation": "banana",
+  "Index": 1208
+ },
+ {
+  "Word": "corte de cabelo",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Translation": "haircut",
+  "Index": 1209
+ },
+ {
+  "Word": "descarregamento",
+  "Hint": "_______________",
+  "Length": 15,
+  "Translation": "loading",
+  "Index": 1210
+ },
+ {
+  "Word": "macaco do nariz",
+  "Hint": "______ __ _____",
+  "Length": 15,
+  "Translation": "nose monkey",
+  "Index": 1211
+ },
+ {
+  "Word": "papel de parede",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Translation": "wallpaper",
+  "Index": 1212
+ },
+ {
+  "Word": "pasta de dentes",
+  "Hint": "_____ __ ______",
+  "Length": 15,
+  "Translation": "toothpaste",
+  "Index": 1213
+ },
+ {
+  "Word": "pau de vassoura",
+  "Hint": "___ __ ________",
+  "Length": 15,
+  "Translation": "broom stick",
+  "Index": 1214
+ },
+ {
+  "Word": "caixa de correio",
+  "Hint": "_____ __ _______",
+  "Length": 16,
+  "Translation": "mailbox",
+  "Index": 1215
+ },
+ {
+  "Word": "castelo de areia",
+  "Hint": "_______ __ _____",
+  "Length": 16,
+  "Translation": "sand castle",
+  "Index": 1216
+ },
+ {
+  "Word": "centro comercial",
+  "Hint": "______ _________",
+  "Length": 16,
+  "Translation": "mall",
+  "Index": 1217
+ },
+ {
+  "Word": "escova de cabelo",
+  "Hint": "______ __ ______",
+  "Length": 16,
+  "Translation": "hairbrush",
+  "Index": 1218
+ },
+ {
+  "Word": "escova de dentes",
+  "Hint": "______ __ ______",
+  "Length": 16,
+  "Translation": "toothbrush",
+  "Index": 1219
+ },
+ {
+  "Word": "máquina do tempo",
+  "Hint": "_______ __ _____",
+  "Length": 16,
+  "Translation": "time machine",
+  "Index": 1220
+ },
+ {
+  "Word": "cortador de grama",
+  "Hint": "________ __ _____",
+  "Length": 17,
+  "Translation": "lawn mower",
+  "Index": 1221
+ },
+ {
+  "Word": "fogo de artifício",
+  "Hint": "____ __ _________",
+  "Length": 17,
+  "Translation": "firework",
+  "Index": 1222
+ },
+ {
+  "Word": "local de trabalho",
+  "Hint": "_____ __ ________",
+  "Length": 17,
+  "Translation": "shop",
+  "Index": 1223
+ },
+ {
+  "Word": "lâmina de barbear",
+  "Hint": "______ __ _______",
+  "Length": 17,
+  "Translation": "razorblade",
+  "Index": 1224
+ },
+ {
+  "Word": "pulseira luminosa",
+  "Hint": "________ ________",
+  "Length": 17,
+  "Translation": "luminous bracelet",
+  "Index": 1225
+ },
+ {
+  "Word": "ventilador de teto",
+  "Hint": "__________ __ ____",
+  "Length": 18,
+  "Translation": "ceiling fan",
+  "Index": 1226
+ },
+ {
+  "Word": "país das maravilhas",
+  "Hint": "____ ___ __________",
+  "Length": 19,
+  "Translation": "wonderland",
+  "Index": 1227
+ },
+ {
+  "Word": "caixa de ferramentas",
+  "Hint": "_____ __ ___________",
+  "Length": 20,
+  "Translation": "toolbox",
+  "Index": 1228
+ }
+]
