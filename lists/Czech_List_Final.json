@@ -1,0 +1,8276 @@
+[
+ {
+  "Word": "úl",
+  "Hint": "__",
+  "Length": 2,
+  "Translation": "hive",
+  "Index": 1
+ },
+ {
+  "Word": "Bůh",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "God",
+  "Index": 2
+ },
+ {
+  "Word": "bar",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "nightclub",
+  "Index": 3
+ },
+ {
+  "Word": "bič",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "scorpion",
+  "Index": 4
+ },
+ {
+  "Word": "bod",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "spot",
+  "Index": 5
+ },
+ {
+  "Word": "byt",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "apartment",
+  "Index": 6
+ },
+ {
+  "Word": "cíl",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "goal",
+  "Index": 7
+ },
+ {
+  "Word": "dok",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "dock",
+  "Index": 8
+ },
+ {
+  "Word": "dům",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "house",
+  "Index": 9
+ },
+ {
+  "Word": "emu",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "emu",
+  "Index": 10
+ },
+ {
+  "Word": "eso",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "ace",
+  "Index": 11
+ },
+ {
+  "Word": "hák",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "hook",
+  "Index": 12
+ },
+ {
+  "Word": "jed",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "poison",
+  "Index": 13
+ },
+ {
+  "Word": "keř",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "bush",
+  "Index": 14
+ },
+ {
+  "Word": "kus",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "piece",
+  "Index": 15
+ },
+ {
+  "Word": "kůň",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "horse",
+  "Index": 16
+ },
+ {
+  "Word": "led",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "ice",
+  "Index": 17
+ },
+ {
+  "Word": "les",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "wood",
+  "Index": 18
+ },
+ {
+  "Word": "lev",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "lion",
+  "Index": 19
+ },
+ {
+  "Word": "los",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "elk",
+  "Index": 20
+ },
+ {
+  "Word": "loď",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "boat",
+  "Index": 21
+ },
+ {
+  "Word": "luk",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "bow",
+  "Index": 22
+ },
+ {
+  "Word": "med",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "honey",
+  "Index": 23
+ },
+ {
+  "Word": "meč",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "sword",
+  "Index": 24
+ },
+ {
+  "Word": "mim",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "mime",
+  "Index": 25
+ },
+ {
+  "Word": "mol",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "moth",
+  "Index": 26
+ },
+ {
+  "Word": "mop",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "mop",
+  "Index": 27
+ },
+ {
+  "Word": "myš",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "mouse",
+  "Index": 28
+ },
+ {
+  "Word": "mák",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "poppy",
+  "Index": 29
+ },
+ {
+  "Word": "míč",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "ball",
+  "Index": 30
+ },
+ {
+  "Word": "měď",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "copper",
+  "Index": 31
+ },
+ {
+  "Word": "nic",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "nothing",
+  "Index": 32
+ },
+ {
+  "Word": "nos",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "nose",
+  "Index": 33
+ },
+ {
+  "Word": "nůž",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "knife",
+  "Index": 34
+ },
+ {
+  "Word": "oel",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "oil",
+  "Index": 35
+ },
+ {
+  "Word": "oko",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "eye",
+  "Index": 36
+ },
+ {
+  "Word": "pes",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "dog",
+  "Index": 37
+ },
+ {
+  "Word": "pit",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "drink",
+  "Index": 38
+ },
+ {
+  "Word": "pod",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "below",
+  "Index": 39
+ },
+ {
+  "Word": "pot",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "sweat",
+  "Index": 40
+ },
+ {
+  "Word": "pás",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "band",
+  "Index": 41
+ },
+ {
+  "Word": "pít",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "drink",
+  "Index": 42
+ },
+ {
+  "Word": "roh",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "horn",
+  "Index": 43
+ },
+ {
+  "Word": "roj",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "swarm",
+  "Index": 44
+ },
+ {
+  "Word": "rty",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "lips",
+  "Index": 45
+ },
+ {
+  "Word": "ráj",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "hopscotch",
+  "Index": 46
+ },
+ {
+  "Word": "rám",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "frame",
+  "Index": 47
+ },
+ {
+  "Word": "sen",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "dream",
+  "Index": 48
+ },
+ {
+  "Word": "sob",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "reindeer",
+  "Index": 49
+ },
+ {
+  "Word": "sup",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "vulture",
+  "Index": 50
+ },
+ {
+  "Word": "síť",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "network",
+  "Index": 51
+ },
+ {
+  "Word": "sýr",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "cheese",
+  "Index": 52
+ },
+ {
+  "Word": "sůl",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "salt",
+  "Index": 53
+ },
+ {
+  "Word": "tip",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "tip",
+  "Index": 54
+ },
+ {
+  "Word": "trh",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "market",
+  "Index": 55
+ },
+ {
+  "Word": "vlk",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "wolf",
+  "Index": 56
+ },
+ {
+  "Word": "vor",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "raft",
+  "Index": 57
+ },
+ {
+  "Word": "věž",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "tower",
+  "Index": 58
+ },
+ {
+  "Word": "zip",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "zipper",
+  "Index": 59
+ },
+ {
+  "Word": "zoo",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "zoo",
+  "Index": 60
+ },
+ {
+  "Word": "zub",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "tooth",
+  "Index": 61
+ },
+ {
+  "Word": "záď",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "stern",
+  "Index": 62
+ },
+ {
+  "Word": "čaj",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "tea",
+  "Index": 63
+ },
+ {
+  "Word": "čáp",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "stork",
+  "Index": 64
+ },
+ {
+  "Word": "šok",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "blow",
+  "Index": 65
+ },
+ {
+  "Word": "šíp",
+  "Hint": "___",
+  "Length": 3,
+  "Translation": "arrow",
+  "Index": 66
+ },
+ {
+  "Word": "bobr",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "beaver",
+  "Index": 67
+ },
+ {
+  "Word": "boby",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "beans",
+  "Index": 68
+ },
+ {
+  "Word": "bota",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "shoe",
+  "Index": 69
+ },
+ {
+  "Word": "boty",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "boots",
+  "Index": 70
+ },
+ {
+  "Word": "bílá",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "white",
+  "Index": 71
+ },
+ {
+  "Word": "cent",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cent",
+  "Index": 72
+ },
+ {
+  "Word": "cukr",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sugar",
+  "Index": 73
+ },
+ {
+  "Word": "dech",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "breath",
+  "Index": 74
+ },
+ {
+  "Word": "deka",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cover",
+  "Index": 75
+ },
+ {
+  "Word": "dort",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cake",
+  "Index": 76
+ },
+ {
+  "Word": "drak",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "dragon",
+  "Index": 77
+ },
+ {
+  "Word": "dráp",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "claw",
+  "Index": 78
+ },
+ {
+  "Word": "drát",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wire",
+  "Index": 79
+ },
+ {
+  "Word": "duch",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ghost",
+  "Index": 80
+ },
+ {
+  "Word": "duha",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "rainbow",
+  "Index": 81
+ },
+ {
+  "Word": "déšť",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wet",
+  "Index": 82
+ },
+ {
+  "Word": "dítě",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "baby",
+  "Index": 83
+ },
+ {
+  "Word": "dýka",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "dagger",
+  "Index": 84
+ },
+ {
+  "Word": "dýně",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "squash",
+  "Index": 85
+ },
+ {
+  "Word": "dřez",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sink",
+  "Index": 86
+ },
+ {
+  "Word": "film",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "movie",
+  "Index": 87
+ },
+ {
+  "Word": "gang",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "gang",
+  "Index": 88
+ },
+ {
+  "Word": "grep",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "grapefruit",
+  "Index": 89
+ },
+ {
+  "Word": "gril",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "grill",
+  "Index": 90
+ },
+ {
+  "Word": "guma",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "gum",
+  "Index": 91
+ },
+ {
+  "Word": "hard",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hard",
+  "Index": 92
+ },
+ {
+  "Word": "hlad",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hunger",
+  "Index": 93
+ },
+ {
+  "Word": "hora",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hill",
+  "Index": 94
+ },
+ {
+  "Word": "hrom",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "thunder",
+  "Index": 95
+ },
+ {
+  "Word": "hruď",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "chest",
+  "Index": 96
+ },
+ {
+  "Word": "hráč",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "gamer",
+  "Index": 97
+ },
+ {
+  "Word": "humr",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "lobster",
+  "Index": 98
+ },
+ {
+  "Word": "husa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "goose",
+  "Index": 99
+ },
+ {
+  "Word": "jaro",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "spring",
+  "Index": 100
+ },
+ {
+  "Word": "jazz",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "jazz",
+  "Index": 101
+ },
+ {
+  "Word": "jíst",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "eat",
+  "Index": 102
+ },
+ {
+  "Word": "kafe",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "coffee",
+  "Index": 103
+ },
+ {
+  "Word": "kino",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cinema",
+  "Index": 104
+ },
+ {
+  "Word": "kivi",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "kiwi",
+  "Index": 105
+ },
+ {
+  "Word": "kiwi",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "kiwi",
+  "Index": 106
+ },
+ {
+  "Word": "kluk",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "boy",
+  "Index": 107
+ },
+ {
+  "Word": "klín",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wedge",
+  "Index": 108
+ },
+ {
+  "Word": "knír",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "mustache",
+  "Index": 109
+ },
+ {
+  "Word": "kola",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cola",
+  "Index": 110
+ },
+ {
+  "Word": "kolo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wheel",
+  "Index": 111
+ },
+ {
+  "Word": "kopí",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "spear",
+  "Index": 112
+ },
+ {
+  "Word": "kotě",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "kitten",
+  "Index": 113
+ },
+ {
+  "Word": "kouř",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "smoke",
+  "Index": 114
+ },
+ {
+  "Word": "krab",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "crab",
+  "Index": 115
+ },
+ {
+  "Word": "krev",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "blood",
+  "Index": 116
+ },
+ {
+  "Word": "král",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "king",
+  "Index": 117
+ },
+ {
+  "Word": "krém",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "whip",
+  "Index": 118
+ },
+ {
+  "Word": "kufr",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "case",
+  "Index": 119
+ },
+ {
+  "Word": "kuře",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "chicken",
+  "Index": 120
+ },
+ {
+  "Word": "kůra",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bark",
+  "Index": 121
+ },
+ {
+  "Word": "kůže",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "skin",
+  "Index": 122
+ },
+ {
+  "Word": "lama",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "llama",
+  "Index": 123
+ },
+ {
+  "Word": "lesk",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "gloss",
+  "Index": 124
+ },
+ {
+  "Word": "list",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hand",
+  "Index": 125
+ },
+ {
+  "Word": "logo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "logo",
+  "Index": 126
+ },
+ {
+  "Word": "lyže",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ski",
+  "Index": 127
+ },
+ {
+  "Word": "léto",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "summer",
+  "Index": 128
+ },
+ {
+  "Word": "maso",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "meat",
+  "Index": 129
+ },
+ {
+  "Word": "mech",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "moss",
+  "Index": 130
+ },
+ {
+  "Word": "mlha",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fog",
+  "Index": 131
+ },
+ {
+  "Word": "most",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bridge",
+  "Index": 132
+ },
+ {
+  "Word": "moře",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sea",
+  "Index": 133
+ },
+ {
+  "Word": "mrak",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cloud",
+  "Index": 134
+ },
+ {
+  "Word": "nikl",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "nickel",
+  "Index": 135
+ },
+ {
+  "Word": "nohy",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "legs",
+  "Index": 136
+ },
+ {
+  "Word": "níže",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bellow",
+  "Index": 137
+ },
+ {
+  "Word": "obří",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "giant",
+  "Index": 138
+ },
+ {
+  "Word": "ocas",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tail",
+  "Index": 139
+ },
+ {
+  "Word": "ocet",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "vinegar",
+  "Index": 140
+ },
+ {
+  "Word": "okno",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "window",
+  "Index": 141
+ },
+ {
+  "Word": "osel",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "donkey",
+  "Index": 142
+ },
+ {
+  "Word": "otec",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "father",
+  "Index": 143
+ },
+ {
+  "Word": "ovce",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sheep",
+  "Index": 144
+ },
+ {
+  "Word": "ovál",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "oval",
+  "Index": 145
+ },
+ {
+  "Word": "park",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "park",
+  "Index": 146
+ },
+ {
+  "Word": "pata",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "heel",
+  "Index": 147
+ },
+ {
+  "Word": "pepř",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "pepperoni",
+  "Index": 148
+ },
+ {
+  "Word": "pivo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "jar",
+  "Index": 149
+ },
+ {
+  "Word": "plný",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "pregnant",
+  "Index": 150
+ },
+ {
+  "Word": "plot",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fence",
+  "Index": 151
+ },
+ {
+  "Word": "pluh",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "plow",
+  "Index": 152
+ },
+ {
+  "Word": "pole",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "field",
+  "Index": 153
+ },
+ {
+  "Word": "prak",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "catapult",
+  "Index": 154
+ },
+ {
+  "Word": "prst",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "toe",
+  "Index": 155
+ },
+ {
+  "Word": "pruh",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bar",
+  "Index": 156
+ },
+ {
+  "Word": "pták",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bird",
+  "Index": 157
+ },
+ {
+  "Word": "pudl",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "poodle",
+  "Index": 158
+ },
+ {
+  "Word": "puma",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "puma",
+  "Index": 159
+ },
+ {
+  "Word": "pusa",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "mouth",
+  "Index": 160
+ },
+ {
+  "Word": "půda",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "soil",
+  "Index": 161
+ },
+ {
+  "Word": "ruka",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "arm",
+  "Index": 162
+ },
+ {
+  "Word": "ryba",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fish",
+  "Index": 163
+ },
+ {
+  "Word": "rána",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "hit",
+  "Index": 164
+ },
+ {
+  "Word": "ráno",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "morning",
+  "Index": 165
+ },
+ {
+  "Word": "růže",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "rose",
+  "Index": 166
+ },
+ {
+  "Word": "saně",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "carriage",
+  "Index": 167
+ },
+ {
+  "Word": "silo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "silo",
+  "Index": 168
+ },
+ {
+  "Word": "sklo",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "glass",
+  "Index": 169
+ },
+ {
+  "Word": "sliz",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "slime",
+  "Index": 170
+ },
+ {
+  "Word": "slon",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "elephant",
+  "Index": 171
+ },
+ {
+  "Word": "snít",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "dream",
+  "Index": 172
+ },
+ {
+  "Word": "sova",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "owl",
+  "Index": 173
+ },
+ {
+  "Word": "srst",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fur",
+  "Index": 174
+ },
+ {
+  "Word": "stan",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tent",
+  "Index": 175
+ },
+ {
+  "Word": "stát",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "stand",
+  "Index": 176
+ },
+ {
+  "Word": "stín",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "shadow",
+  "Index": 177
+ },
+ {
+  "Word": "stůl",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "board",
+  "Index": 178
+ },
+ {
+  "Word": "surf",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "surfboard",
+  "Index": 179
+ },
+ {
+  "Word": "suši",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sushi",
+  "Index": 180
+ },
+ {
+  "Word": "sval",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "muscle",
+  "Index": 181
+ },
+ {
+  "Word": "svět",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "world",
+  "Index": 182
+ },
+ {
+  "Word": "sáně",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sled",
+  "Index": 183
+ },
+ {
+  "Word": "tank",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tank",
+  "Index": 184
+ },
+ {
+  "Word": "taxi",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "taxi",
+  "Index": 185
+ },
+ {
+  "Word": "text",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "text",
+  "Index": 186
+ },
+ {
+  "Word": "trůn",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "throne",
+  "Index": 187
+ },
+ {
+  "Word": "tvář",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "face",
+  "Index": 188
+ },
+ {
+  "Word": "tygr",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tiger",
+  "Index": 189
+ },
+ {
+  "Word": "ucho",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "ear",
+  "Index": 190
+ },
+ {
+  "Word": "uhlí",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "coal",
+  "Index": 191
+ },
+ {
+  "Word": "upír",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "vampire",
+  "Index": 192
+ },
+ {
+  "Word": "uzel",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bend",
+  "Index": 193
+ },
+ {
+  "Word": "vana",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bath",
+  "Index": 194
+ },
+ {
+  "Word": "vlak",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "train",
+  "Index": 195
+ },
+ {
+  "Word": "vlna",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "tide",
+  "Index": 196
+ },
+ {
+  "Word": "vosk",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wax",
+  "Index": 197
+ },
+ {
+  "Word": "vrah",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "thug",
+  "Index": 198
+ },
+ {
+  "Word": "víla",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "fairy",
+  "Index": 199
+ },
+ {
+  "Word": "víno",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wine",
+  "Index": 200
+ },
+ {
+  "Word": "vítr",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "wind",
+  "Index": 201
+ },
+ {
+  "Word": "yeti",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "yeti",
+  "Index": 202
+ },
+ {
+  "Word": "zvuk",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "noise",
+  "Index": 203
+ },
+ {
+  "Word": "záře",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "glow",
+  "Index": 204
+ },
+ {
+  "Word": "úhoř",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "eel",
+  "Index": 205
+ },
+ {
+  "Word": "únik",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "leak",
+  "Index": 206
+ },
+ {
+  "Word": "útes",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cliff",
+  "Index": 207
+ },
+ {
+  "Word": "útok",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "assault",
+  "Index": 208
+ },
+ {
+  "Word": "účet",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "bill",
+  "Index": 209
+ },
+ {
+  "Word": "úžeh",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "sunburn",
+  "Index": 210
+ },
+ {
+  "Word": "červ",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "worm",
+  "Index": 211
+ },
+ {
+  "Word": "čára",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "line",
+  "Index": 212
+ },
+ {
+  "Word": "číst",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "read",
+  "Index": 213
+ },
+ {
+  "Word": "řeka",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "river",
+  "Index": 214
+ },
+ {
+  "Word": "řvát",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "scream",
+  "Index": 215
+ },
+ {
+  "Word": "šaty",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "suit",
+  "Index": 216
+ },
+ {
+  "Word": "šprt",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "grind",
+  "Index": 217
+ },
+ {
+  "Word": "šváb",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "cockroach",
+  "Index": 218
+ },
+ {
+  "Word": "šála",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "scarf",
+  "Index": 219
+ },
+ {
+  "Word": "žába",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "frog",
+  "Index": 220
+ },
+ {
+  "Word": "žíla",
+  "Hint": "____",
+  "Length": 4,
+  "Translation": "vein",
+  "Index": 221
+ },
+ {
+  "Word": "Luigi",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Luigi",
+  "Index": 222
+ },
+ {
+  "Word": "Mario",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Mario",
+  "Index": 223
+ },
+ {
+  "Word": "Sonic",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Sonic",
+  "Index": 224
+ },
+ {
+  "Word": "atlet",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "athlete",
+  "Index": 225
+ },
+ {
+  "Word": "bagel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bagel",
+  "Index": 226
+ },
+ {
+  "Word": "balón",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "balloon",
+  "Index": 227
+ },
+ {
+  "Word": "banka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bank",
+  "Index": 228
+ },
+ {
+  "Word": "banán",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "banana",
+  "Index": 229
+ },
+ {
+  "Word": "barel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "drum",
+  "Index": 230
+ },
+ {
+  "Word": "batoh",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "backpack",
+  "Index": 231
+ },
+ {
+  "Word": "bazén",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pool",
+  "Index": 232
+ },
+ {
+  "Word": "bitva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "action",
+  "Index": 233
+ },
+ {
+  "Word": "blesk",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "Flash",
+  "Index": 234
+ },
+ {
+  "Word": "bomba",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bomb",
+  "Index": 235
+ },
+ {
+  "Word": "bouda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hut",
+  "Index": 236
+ },
+ {
+  "Word": "boule",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bump",
+  "Index": 237
+ },
+ {
+  "Word": "brada",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "chin",
+  "Index": 238
+ },
+ {
+  "Word": "bronz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bronze",
+  "Index": 239
+ },
+ {
+  "Word": "brouk",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "beetle",
+  "Index": 240
+ },
+ {
+  "Word": "brána",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "gate",
+  "Index": 241
+ },
+ {
+  "Word": "brýle",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "glasses",
+  "Index": 242
+ },
+ {
+  "Word": "buben",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "drum",
+  "Index": 243
+ },
+ {
+  "Word": "bunda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "jacket",
+  "Index": 244
+ },
+ {
+  "Word": "buňka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cell",
+  "Index": 245
+ },
+ {
+  "Word": "běžet",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "run",
+  "Index": 246
+ },
+ {
+  "Word": "bříza",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "birch",
+  "Index": 247
+ },
+ {
+  "Word": "cesta",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "path",
+  "Index": 248
+ },
+ {
+  "Word": "chata",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cabin",
+  "Index": 249
+ },
+ {
+  "Word": "chléb",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bread",
+  "Index": 250
+ },
+ {
+  "Word": "chudý",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "poor",
+  "Index": 251
+ },
+ {
+  "Word": "cihla",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "brick",
+  "Index": 252
+ },
+ {
+  "Word": "dcera",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "girl",
+  "Index": 253
+ },
+ {
+  "Word": "deska",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "leaf",
+  "Index": 254
+ },
+ {
+  "Word": "dobré",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "good",
+  "Index": 255
+ },
+ {
+  "Word": "dolar",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dollar",
+  "Index": 256
+ },
+ {
+  "Word": "dopad",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "impact",
+  "Index": 257
+ },
+ {
+  "Word": "dotek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "touch",
+  "Index": 258
+ },
+ {
+  "Word": "drozd",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "robin",
+  "Index": 259
+ },
+ {
+  "Word": "dveře",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "door",
+  "Index": 260
+ },
+ {
+  "Word": "dívka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "girl",
+  "Index": 261
+ },
+ {
+  "Word": "důlek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dent",
+  "Index": 262
+ },
+ {
+  "Word": "džíny",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "jeans",
+  "Index": 263
+ },
+ {
+  "Word": "farma",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "farm",
+  "Index": 264
+ },
+ {
+  "Word": "filtr",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "filter",
+  "Index": 265
+ },
+ {
+  "Word": "fólie",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "foil",
+  "Index": 266
+ },
+ {
+  "Word": "garáž",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "garage",
+  "Index": 267
+ },
+ {
+  "Word": "harfa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "harp",
+  "Index": 268
+ },
+ {
+  "Word": "hasič",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "firefighter",
+  "Index": 269
+ },
+ {
+  "Word": "hasák",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wrench",
+  "Index": 270
+ },
+ {
+  "Word": "helma",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "helmet",
+  "Index": 271
+ },
+ {
+  "Word": "herec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "actor",
+  "Index": 272
+ },
+ {
+  "Word": "heslo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "heading",
+  "Index": 273
+ },
+ {
+  "Word": "hobit",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hobbit",
+  "Index": 274
+ },
+ {
+  "Word": "hokej",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hockey",
+  "Index": 275
+ },
+ {
+  "Word": "holič",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "barber",
+  "Index": 276
+ },
+ {
+  "Word": "horký",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hot",
+  "Index": 277
+ },
+ {
+  "Word": "hotel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hotel",
+  "Index": 278
+ },
+ {
+  "Word": "houba",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "fungus",
+  "Index": 279
+ },
+ {
+  "Word": "hovno",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "turd",
+  "Index": 280
+ },
+ {
+  "Word": "hrnek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cup",
+  "Index": 281
+ },
+ {
+  "Word": "hroch",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hippo",
+  "Index": 282
+ },
+ {
+  "Word": "hrábě",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "rake",
+  "Index": 283
+ },
+ {
+  "Word": "jazyk",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "speech",
+  "Index": 284
+ },
+ {
+  "Word": "jehla",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "needle",
+  "Index": 285
+ },
+ {
+  "Word": "jelen",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "deer",
+  "Index": 286
+ },
+ {
+  "Word": "jemný",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "thin",
+  "Index": 287
+ },
+ {
+  "Word": "jetel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "clover",
+  "Index": 288
+ },
+ {
+  "Word": "ježek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hedgehog",
+  "Index": 289
+ },
+ {
+  "Word": "jizva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "scar",
+  "Index": 290
+ },
+ {
+  "Word": "jídlo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dish",
+  "Index": 291
+ },
+ {
+  "Word": "kabel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "flex",
+  "Index": 292
+ },
+ {
+  "Word": "kabát",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coat",
+  "Index": 293
+ },
+ {
+  "Word": "kamna",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "oven",
+  "Index": 294
+ },
+ {
+  "Word": "kanec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "boar",
+  "Index": 295
+ },
+ {
+  "Word": "kanón",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cannon",
+  "Index": 296
+ },
+ {
+  "Word": "kapka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dab",
+  "Index": 297
+ },
+ {
+  "Word": "kapsa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pocket",
+  "Index": 298
+ },
+ {
+  "Word": "kazoo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "kazoo",
+  "Index": 299
+ },
+ {
+  "Word": "kaňon",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "canyon",
+  "Index": 300
+ },
+ {
+  "Word": "kečup",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ketchup",
+  "Index": 301
+ },
+ {
+  "Word": "klika",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "doorknob",
+  "Index": 302
+ },
+ {
+  "Word": "kllíč",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "key",
+  "Index": 303
+ },
+ {
+  "Word": "kniha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "book",
+  "Index": 304
+ },
+ {
+  "Word": "koala",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "koala",
+  "Index": 305
+ },
+ {
+  "Word": "kobra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cobra",
+  "Index": 306
+ },
+ {
+  "Word": "kolej",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "track",
+  "Index": 307
+ },
+ {
+  "Word": "koláč",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pie",
+  "Index": 308
+ },
+ {
+  "Word": "kolík",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pin",
+  "Index": 309
+ },
+ {
+  "Word": "komár",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "mosquito",
+  "Index": 310
+ },
+ {
+  "Word": "komín",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "chimney",
+  "Index": 311
+ },
+ {
+  "Word": "konec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tail",
+  "Index": 312
+ },
+ {
+  "Word": "kopec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "mountain",
+  "Index": 313
+ },
+ {
+  "Word": "kopie",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "copy",
+  "Index": 314
+ },
+ {
+  "Word": "korál",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coral",
+  "Index": 315
+ },
+ {
+  "Word": "kočka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cat",
+  "Index": 316
+ },
+ {
+  "Word": "koště",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "broom",
+  "Index": 317
+ },
+ {
+  "Word": "košík",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "basket",
+  "Index": 318
+ },
+ {
+  "Word": "kráva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cow",
+  "Index": 319
+ },
+ {
+  "Word": "kulka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bullet",
+  "Index": 320
+ },
+ {
+  "Word": "kámen",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "stone",
+  "Index": 321
+ },
+ {
+  "Word": "křída",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "chalk",
+  "Index": 322
+ },
+ {
+  "Word": "lahev",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bottle",
+  "Index": 323
+ },
+ {
+  "Word": "lampa",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lamp",
+  "Index": 324
+ },
+ {
+  "Word": "laser",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "laser",
+  "Index": 325
+ },
+ {
+  "Word": "lebka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "skull",
+  "Index": 326
+ },
+ {
+  "Word": "libra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pound",
+  "Index": 327
+ },
+ {
+  "Word": "liška",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "fox",
+  "Index": 328
+ },
+ {
+  "Word": "loket",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "elbow",
+  "Index": 329
+ },
+ {
+  "Word": "losos",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "salmon",
+  "Index": 330
+ },
+ {
+  "Word": "lovec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "gun",
+  "Index": 331
+ },
+ {
+  "Word": "láska",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "love",
+  "Index": 332
+ },
+ {
+  "Word": "látka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cloth",
+  "Index": 333
+ },
+ {
+  "Word": "lžíce",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "spoon",
+  "Index": 334
+ },
+ {
+  "Word": "magie",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "magic",
+  "Index": 335
+ },
+ {
+  "Word": "maják",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lighthouse",
+  "Index": 336
+ },
+ {
+  "Word": "malba",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "paint",
+  "Index": 337
+ },
+ {
+  "Word": "mamut",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "mammoth",
+  "Index": 338
+ },
+ {
+  "Word": "matka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dam",
+  "Index": 339
+ },
+ {
+  "Word": "metla",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "whisk",
+  "Index": 340
+ },
+ {
+  "Word": "metro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "metro",
+  "Index": 341
+ },
+ {
+  "Word": "mince",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coin",
+  "Index": 342
+ },
+ {
+  "Word": "miska",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bowl",
+  "Index": 343
+ },
+ {
+  "Word": "mixér",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "blender",
+  "Index": 344
+ },
+ {
+  "Word": "mléko",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "milk",
+  "Index": 345
+ },
+ {
+  "Word": "model",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "model",
+  "Index": 346
+ },
+ {
+  "Word": "modrá",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "blue",
+  "Index": 347
+ },
+ {
+  "Word": "motor",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "engine",
+  "Index": 348
+ },
+ {
+  "Word": "motýl",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "butterfly",
+  "Index": 349
+ },
+ {
+  "Word": "mozek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "brain",
+  "Index": 350
+ },
+ {
+  "Word": "mrkev",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "carrot",
+  "Index": 351
+ },
+ {
+  "Word": "mušle",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "seashell",
+  "Index": 352
+ },
+ {
+  "Word": "máslo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "butter",
+  "Index": 353
+ },
+ {
+  "Word": "mýdlo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "soap",
+  "Index": 354
+ },
+ {
+  "Word": "mýval",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "raccoon",
+  "Index": 355
+ },
+ {
+  "Word": "mělký",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "flat",
+  "Index": 356
+ },
+ {
+  "Word": "měsíc",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "moon",
+  "Index": 357
+ },
+ {
+  "Word": "nehet",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "toenail",
+  "Index": 358
+ },
+ {
+  "Word": "nuget",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "nugget",
+  "Index": 359
+ },
+ {
+  "Word": "nůžky",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "scissors",
+  "Index": 360
+ },
+ {
+  "Word": "obočí",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "eyebrow",
+  "Index": 361
+ },
+ {
+  "Word": "obvaz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bandage",
+  "Index": 362
+ },
+ {
+  "Word": "oceán",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ocean",
+  "Index": 363
+ },
+ {
+  "Word": "odpad",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "drain",
+  "Index": 364
+ },
+ {
+  "Word": "odraz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bounce",
+  "Index": 365
+ },
+ {
+  "Word": "okraj",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lap",
+  "Index": 366
+ },
+ {
+  "Word": "opice",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "monkey",
+  "Index": 367
+ },
+ {
+  "Word": "orgán",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "body",
+  "Index": 368
+ },
+ {
+  "Word": "osoba",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "head",
+  "Index": 369
+ },
+ {
+  "Word": "ořech",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "nut",
+  "Index": 370
+ },
+ {
+  "Word": "padák",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "parachute",
+  "Index": 371
+ },
+ {
+  "Word": "palec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "thumb",
+  "Index": 372
+ },
+ {
+  "Word": "palác",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "palace",
+  "Index": 373
+ },
+ {
+  "Word": "panda",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "panda",
+  "Index": 374
+ },
+ {
+  "Word": "papež",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pope",
+  "Index": 375
+ },
+ {
+  "Word": "papír",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "paper",
+  "Index": 376
+ },
+ {
+  "Word": "pauza",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "stop",
+  "Index": 377
+ },
+ {
+  "Word": "pedál",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pedal",
+  "Index": 378
+ },
+ {
+  "Word": "peklo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "hell",
+  "Index": 379
+ },
+ {
+  "Word": "pilot",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pilot",
+  "Index": 380
+ },
+ {
+  "Word": "pirát",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pirate",
+  "Index": 381
+ },
+ {
+  "Word": "pizza",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pizza",
+  "Index": 382
+ },
+ {
+  "Word": "plena",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "diaper",
+  "Index": 383
+ },
+ {
+  "Word": "plášť",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "wrap",
+  "Index": 384
+ },
+ {
+  "Word": "plíce",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lung",
+  "Index": 385
+ },
+ {
+  "Word": "pohár",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cup",
+  "Index": 386
+ },
+ {
+  "Word": "pokoj",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "peace",
+  "Index": 387
+ },
+ {
+  "Word": "popel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ash",
+  "Index": 388
+ },
+ {
+  "Word": "poušť",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "desert",
+  "Index": 389
+ },
+ {
+  "Word": "povyk",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "row",
+  "Index": 390
+ },
+ {
+  "Word": "prase",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pig",
+  "Index": 391
+ },
+ {
+  "Word": "princ",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "prince",
+  "Index": 392
+ },
+ {
+  "Word": "práce",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "job",
+  "Index": 393
+ },
+ {
+  "Word": "pádlo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "paddle",
+  "Index": 394
+ },
+ {
+  "Word": "pálka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bat",
+  "Index": 395
+ },
+ {
+  "Word": "pánev",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pan",
+  "Index": 396
+ },
+ {
+  "Word": "pásek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "belt",
+  "Index": 397
+ },
+ {
+  "Word": "páska",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tape",
+  "Index": 398
+ },
+ {
+  "Word": "páteř",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "spine",
+  "Index": 399
+ },
+ {
+  "Word": "racek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "seagull",
+  "Index": 400
+ },
+ {
+  "Word": "radar",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "radar",
+  "Index": 401
+ },
+ {
+  "Word": "rajče",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tomato",
+  "Index": 402
+ },
+ {
+  "Word": "rakev",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "coffin",
+  "Index": 403
+ },
+ {
+  "Word": "raper",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "rapper",
+  "Index": 404
+ },
+ {
+  "Word": "robot",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "robot",
+  "Index": 405
+ },
+ {
+  "Word": "rožeň",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "grid",
+  "Index": 406
+ },
+ {
+  "Word": "rubín",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ruby",
+  "Index": 407
+ },
+ {
+  "Word": "rytíř",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "knight",
+  "Index": 408
+ },
+ {
+  "Word": "rádio",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "radio",
+  "Index": 409
+ },
+ {
+  "Word": "salát",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "salad",
+  "Index": 410
+ },
+ {
+  "Word": "sauna",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sauna",
+  "Index": 411
+ },
+ {
+  "Word": "sedlo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pad",
+  "Index": 412
+ },
+ {
+  "Word": "sever",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "north",
+  "Index": 413
+ },
+ {
+  "Word": "sklad",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "stock",
+  "Index": 414
+ },
+ {
+  "Word": "sklep",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cellar",
+  "Index": 415
+ },
+ {
+  "Word": "sklon",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "drive",
+  "Index": 416
+ },
+ {
+  "Word": "skunk",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "skunk",
+  "Index": 417
+ },
+ {
+  "Word": "slina",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "spit",
+  "Index": 418
+ },
+ {
+  "Word": "sopka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "volcano",
+  "Index": 419
+ },
+ {
+  "Word": "srdce",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "heart",
+  "Index": 420
+ },
+ {
+  "Word": "starý",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "old",
+  "Index": 421
+ },
+ {
+  "Word": "strom",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tree",
+  "Index": 422
+ },
+ {
+  "Word": "strop",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "roof",
+  "Index": 423
+ },
+ {
+  "Word": "strýc",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "uncle",
+  "Index": 424
+ },
+ {
+  "Word": "stuha",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tie",
+  "Index": 425
+ },
+ {
+  "Word": "sucho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "drought",
+  "Index": 426
+ },
+ {
+  "Word": "talíř",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "plate",
+  "Index": 427
+ },
+ {
+  "Word": "tanec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dance",
+  "Index": 428
+ },
+ {
+  "Word": "taška",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bag",
+  "Index": 429
+ },
+ {
+  "Word": "tenis",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tennis",
+  "Index": 430
+ },
+ {
+  "Word": "teplo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "heat",
+  "Index": 431
+ },
+ {
+  "Word": "ticho",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "quiet",
+  "Index": 432
+ },
+ {
+  "Word": "trest",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pain",
+  "Index": 433
+ },
+ {
+  "Word": "tráva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "grass",
+  "Index": 434
+ },
+ {
+  "Word": "tukan",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "toucan",
+  "Index": 435
+ },
+ {
+  "Word": "tunel",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tunnel",
+  "Index": 436
+ },
+ {
+  "Word": "tuňák",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tuna",
+  "Index": 437
+ },
+ {
+  "Word": "tuřín",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "turnip",
+  "Index": 438
+ },
+ {
+  "Word": "tužka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pencil",
+  "Index": 439
+ },
+ {
+  "Word": "tácek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "tray",
+  "Index": 440
+ },
+ {
+  "Word": "těsto",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dough",
+  "Index": 441
+ },
+ {
+  "Word": "těžký",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bad",
+  "Index": 442
+ },
+ {
+  "Word": "ulice",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "street",
+  "Index": 443
+ },
+ {
+  "Word": "vafle",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "waffle",
+  "Index": 444
+ },
+ {
+  "Word": "vejce",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "egg",
+  "Index": 445
+ },
+ {
+  "Word": "venku",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "outside",
+  "Index": 446
+ },
+ {
+  "Word": "veslo",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "oar",
+  "Index": 447
+ },
+ {
+  "Word": "večer",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "night",
+  "Index": 448
+ },
+ {
+  "Word": "vidle",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pitchfork",
+  "Index": 449
+ },
+ {
+  "Word": "virus",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bug",
+  "Index": 450
+ },
+ {
+  "Word": "vodka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "vodka",
+  "Index": 451
+ },
+ {
+  "Word": "volby",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "election",
+  "Index": 452
+ },
+ {
+  "Word": "vydra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "otter",
+  "Index": 453
+ },
+ {
+  "Word": "vztah",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "link",
+  "Index": 454
+ },
+ {
+  "Word": "válec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "roll",
+  "Index": 455
+ },
+ {
+  "Word": "vážka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dragonfly",
+  "Index": 456
+ },
+ {
+  "Word": "víčko",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "cap",
+  "Index": 457
+ },
+ {
+  "Word": "výtah",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "elevator",
+  "Index": 458
+ },
+ {
+  "Word": "včela",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "bee",
+  "Index": 459
+ },
+ {
+  "Word": "věnec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "crown",
+  "Index": 460
+ },
+ {
+  "Word": "větec",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "sentence",
+  "Index": 461
+ },
+ {
+  "Word": "vůdce",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "leader",
+  "Index": 462
+ },
+ {
+  "Word": "zebra",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "zebra",
+  "Index": 463
+ },
+ {
+  "Word": "zlato",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "gold",
+  "Index": 464
+ },
+ {
+  "Word": "zubař",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "dentist",
+  "Index": 465
+ },
+ {
+  "Word": "zámek",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lock",
+  "Index": 466
+ },
+ {
+  "Word": "závod",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "race",
+  "Index": 467
+ },
+ {
+  "Word": "údolí",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "valley",
+  "Index": 468
+ },
+ {
+  "Word": "úsměv",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "grin",
+  "Index": 469
+ },
+ {
+  "Word": "černá",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "black",
+  "Index": 470
+ },
+ {
+  "Word": "čisté",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "clean",
+  "Index": 471
+ },
+ {
+  "Word": "čočka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "lens",
+  "Index": 472
+ },
+ {
+  "Word": "řetěz",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "chain",
+  "Index": 473
+ },
+ {
+  "Word": "šachy",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "chess",
+  "Index": 474
+ },
+ {
+  "Word": "šepot",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "whisper",
+  "Index": 475
+ },
+ {
+  "Word": "šipky",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "darts",
+  "Index": 476
+ },
+ {
+  "Word": "škola",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "school",
+  "Index": 477
+ },
+ {
+  "Word": "šofér",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "driver",
+  "Index": 478
+ },
+ {
+  "Word": "špion",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "spy",
+  "Index": 479
+ },
+ {
+  "Word": "štika",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "pike",
+  "Index": 480
+ },
+ {
+  "Word": "štěrk",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "metal",
+  "Index": 481
+ },
+ {
+  "Word": "šunka",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "ham",
+  "Index": 482
+ },
+ {
+  "Word": "šušeň",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "booger",
+  "Index": 483
+ },
+ {
+  "Word": "žalud",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "acorn",
+  "Index": 484
+ },
+ {
+  "Word": "žebro",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "rib",
+  "Index": 485
+ },
+ {
+  "Word": "želva",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "turtle",
+  "Index": 486
+ },
+ {
+  "Word": "židle",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "seat",
+  "Index": 487
+ },
+ {
+  "Word": "žolík",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "joker",
+  "Index": 488
+ },
+ {
+  "Word": "žízeň",
+  "Hint": "_____",
+  "Length": 5,
+  "Translation": "thirst",
+  "Index": 489
+ },
+ {
+  "Word": "Afrika",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Africa",
+  "Index": 490
+ },
+ {
+  "Word": "Batman",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Batman",
+  "Index": 491
+ },
+ {
+  "Word": "Kanada",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Canada",
+  "Index": 492
+ },
+ {
+  "Word": "airbag",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "airbag",
+  "Index": 493
+ },
+ {
+  "Word": "alpaka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "alpaca",
+  "Index": 494
+ },
+ {
+  "Word": "ananas",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pineapple",
+  "Index": 495
+ },
+ {
+  "Word": "anténa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "antenna",
+  "Index": 496
+ },
+ {
+  "Word": "aplaus",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "applause",
+  "Index": 497
+ },
+ {
+  "Word": "arašíd",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "peanut",
+  "Index": 498
+ },
+ {
+  "Word": "bageta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "baguette",
+  "Index": 499
+ },
+ {
+  "Word": "bankéř",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "banker",
+  "Index": 500
+ },
+ {
+  "Word": "barman",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bartender",
+  "Index": 501
+ },
+ {
+  "Word": "bavlna",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cotton",
+  "Index": 502
+ },
+ {
+  "Word": "bažina",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "moss",
+  "Index": 503
+ },
+ {
+  "Word": "bendžo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "banjo",
+  "Index": 504
+ },
+ {
+  "Word": "benzín",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gas",
+  "Index": 505
+ },
+ {
+  "Word": "bolest",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hurt",
+  "Index": 506
+ },
+ {
+  "Word": "bouřka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "storm",
+  "Index": 507
+ },
+ {
+  "Word": "brnění",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "armor",
+  "Index": 508
+ },
+ {
+  "Word": "budova",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "building",
+  "Index": 509
+ },
+ {
+  "Word": "břitva",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "razor",
+  "Index": 510
+ },
+ {
+  "Word": "cement",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cement",
+  "Index": 511
+ },
+ {
+  "Word": "chodit",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "walk",
+  "Index": 512
+ },
+ {
+  "Word": "cibule",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "onion",
+  "Index": 513
+ },
+ {
+  "Word": "citrón",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lime",
+  "Index": 514
+ },
+ {
+  "Word": "cvičit",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "drill",
+  "Index": 515
+ },
+ {
+  "Word": "cvrček",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cricket",
+  "Index": 516
+ },
+ {
+  "Word": "delfín",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dolphin",
+  "Index": 517
+ },
+ {
+  "Word": "dezert",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dessert",
+  "Index": 518
+ },
+ {
+  "Word": "doktor",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "doctor",
+  "Index": 519
+ },
+ {
+  "Word": "domino",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dominoes",
+  "Index": 520
+ },
+ {
+  "Word": "domácí",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "homemade",
+  "Index": 521
+ },
+ {
+  "Word": "děsivé",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "scary",
+  "Index": 522
+ },
+ {
+  "Word": "farmář",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "farmer",
+  "Index": 523
+ },
+ {
+  "Word": "fasáda",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "front",
+  "Index": 524
+ },
+ {
+  "Word": "fazole",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bean",
+  "Index": 525
+ },
+ {
+  "Word": "flétna",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "flute",
+  "Index": 526
+ },
+ {
+  "Word": "fotbal",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "soccer",
+  "Index": 527
+ },
+ {
+  "Word": "glóbus",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "globe",
+  "Index": 528
+ },
+ {
+  "Word": "gorila",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gorilla",
+  "Index": 529
+ },
+ {
+  "Word": "granát",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "grenade",
+  "Index": 530
+ },
+ {
+  "Word": "hadice",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hose",
+  "Index": 531
+ },
+ {
+  "Word": "hippie",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hippie",
+  "Index": 532
+ },
+ {
+  "Word": "hnízdo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hole",
+  "Index": 533
+ },
+ {
+  "Word": "hodiny",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "clock",
+  "Index": 534
+ },
+ {
+  "Word": "hotdog",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hot dog",
+  "Index": 535
+ },
+ {
+  "Word": "housle",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "violin",
+  "Index": 536
+ },
+ {
+  "Word": "hovězí",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "beef",
+  "Index": 537
+ },
+ {
+  "Word": "hrdina",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hero",
+  "Index": 538
+ },
+ {
+  "Word": "hrozny",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "grapes",
+  "Index": 539
+ },
+ {
+  "Word": "hunger",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hunger",
+  "Index": 540
+ },
+ {
+  "Word": "hvězda",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "star",
+  "Index": 541
+ },
+ {
+  "Word": "hřebík",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "nail",
+  "Index": 542
+ },
+ {
+  "Word": "hřiště",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "playground",
+  "Index": 543
+ },
+ {
+  "Word": "ibišek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "marshmallow",
+  "Index": 544
+ },
+ {
+  "Word": "invaze",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "invasion",
+  "Index": 545
+ },
+ {
+  "Word": "jablko",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "apple",
+  "Index": 546
+ },
+ {
+  "Word": "jachta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "yacht",
+  "Index": 547
+ },
+ {
+  "Word": "jaguár",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "jaguar",
+  "Index": 548
+ },
+ {
+  "Word": "jahoda",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "strawberry",
+  "Index": 549
+ },
+ {
+  "Word": "jezero",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lake",
+  "Index": 550
+ },
+ {
+  "Word": "jiskra",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spark",
+  "Index": 551
+ },
+ {
+  "Word": "jogurt",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "yogurt",
+  "Index": 552
+ },
+ {
+  "Word": "kabina",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "car",
+  "Index": 553
+ },
+ {
+  "Word": "kachna",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "duck",
+  "Index": 554
+ },
+ {
+  "Word": "kaktus",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cactus",
+  "Index": 555
+ },
+ {
+  "Word": "kamión",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "lorry",
+  "Index": 556
+ },
+ {
+  "Word": "kapuca",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hood",
+  "Index": 557
+ },
+ {
+  "Word": "kapuce",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cape",
+  "Index": 558
+ },
+ {
+  "Word": "karton",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cardboard",
+  "Index": 559
+ },
+ {
+  "Word": "kaviár",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "caviar",
+  "Index": 560
+ },
+ {
+  "Word": "kaštan",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "chestnut",
+  "Index": 561
+ },
+ {
+  "Word": "klavír",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "piano",
+  "Index": 562
+ },
+ {
+  "Word": "klečet",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "kneel",
+  "Index": 563
+ },
+ {
+  "Word": "klokan",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "kangaroo",
+  "Index": 564
+ },
+ {
+  "Word": "kolaps",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "collapse",
+  "Index": 565
+ },
+ {
+  "Word": "koleje",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "college",
+  "Index": 566
+ },
+ {
+  "Word": "koleno",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "knee",
+  "Index": 567
+ },
+ {
+  "Word": "kopyto",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hoof",
+  "Index": 568
+ },
+ {
+  "Word": "kostel",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "church",
+  "Index": 569
+ },
+ {
+  "Word": "kovboj",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cowboy",
+  "Index": 570
+ },
+ {
+  "Word": "košile",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shirt",
+  "Index": 571
+ },
+ {
+  "Word": "kredit",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "credit",
+  "Index": 572
+ },
+ {
+  "Word": "krocan",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "turkey",
+  "Index": 573
+ },
+ {
+  "Word": "králík",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "rabbit",
+  "Index": 574
+ },
+ {
+  "Word": "krátký",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "short",
+  "Index": 575
+ },
+ {
+  "Word": "kupole",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dome",
+  "Index": 576
+ },
+ {
+  "Word": "květák",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cauliflower",
+  "Index": 577
+ },
+ {
+  "Word": "kyslík",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "oxygen",
+  "Index": 578
+ },
+ {
+  "Word": "kytara",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "guitar",
+  "Index": 579
+ },
+ {
+  "Word": "křeček",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hamster",
+  "Index": 580
+ },
+ {
+  "Word": "křičet",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shout",
+  "Index": 581
+ },
+ {
+  "Word": "lavice",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "desk",
+  "Index": 582
+ },
+ {
+  "Word": "lopata",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shovel",
+  "Index": 583
+ },
+ {
+  "Word": "loupež",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "heist",
+  "Index": 584
+ },
+ {
+  "Word": "loutka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "doll",
+  "Index": 585
+ },
+ {
+  "Word": "magnet",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "magnet",
+  "Index": 586
+ },
+ {
+  "Word": "mandle",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "almond",
+  "Index": 587
+ },
+ {
+  "Word": "manžel",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "man",
+  "Index": 588
+ },
+ {
+  "Word": "maskot",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mascot",
+  "Index": 589
+ },
+ {
+  "Word": "medvěd",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bear",
+  "Index": 590
+ },
+ {
+  "Word": "medúza",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Medusa",
+  "Index": 591
+ },
+ {
+  "Word": "meloun",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "melon",
+  "Index": 592
+ },
+ {
+  "Word": "mečoun",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "swordfish",
+  "Index": 593
+ },
+ {
+  "Word": "mimino",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "baby",
+  "Index": 594
+ },
+ {
+  "Word": "minuta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "minute",
+  "Index": 595
+ },
+ {
+  "Word": "mluvčí",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "speaker",
+  "Index": 596
+ },
+ {
+  "Word": "mohawk",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mohawk",
+  "Index": 597
+ },
+ {
+  "Word": "moucha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fly",
+  "Index": 598
+ },
+ {
+  "Word": "mramor",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "marble",
+  "Index": 599
+ },
+ {
+  "Word": "mrazák",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "freezer",
+  "Index": 600
+ },
+ {
+  "Word": "muffin",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "muffin",
+  "Index": 601
+ },
+ {
+  "Word": "muzeum",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "museum",
+  "Index": 602
+ },
+ {
+  "Word": "mužský",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "male",
+  "Index": 603
+ },
+ {
+  "Word": "nadpis",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "title",
+  "Index": 604
+ },
+ {
+  "Word": "nehoda",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "accident",
+  "Index": 605
+ },
+ {
+  "Word": "netvor",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Monster",
+  "Index": 606
+ },
+ {
+  "Word": "nevrlý",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "grumpy",
+  "Index": 607
+ },
+ {
+  "Word": "noviny",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "news",
+  "Index": 608
+ },
+ {
+  "Word": "objetí",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "hug",
+  "Index": 609
+ },
+ {
+  "Word": "obojek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "collar",
+  "Index": 610
+ },
+ {
+  "Word": "odejít",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "leave",
+  "Index": 611
+ },
+ {
+  "Word": "okurka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cucumber",
+  "Index": 612
+ },
+ {
+  "Word": "omáčka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "gravy",
+  "Index": 613
+ },
+ {
+  "Word": "oslava",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "party",
+  "Index": 614
+ },
+ {
+  "Word": "ostrov",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "island",
+  "Index": 615
+ },
+ {
+  "Word": "ozvěna",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "echo",
+  "Index": 616
+ },
+ {
+  "Word": "paleta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "palette",
+  "Index": 617
+ },
+ {
+  "Word": "pankáč",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "punk",
+  "Index": 618
+ },
+ {
+  "Word": "papája",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "papaya",
+  "Index": 619
+ },
+ {
+  "Word": "paruka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wig",
+  "Index": 620
+ },
+ {
+  "Word": "pavouk",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spider",
+  "Index": 621
+ },
+ {
+  "Word": "peníze",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cash",
+  "Index": 622
+ },
+ {
+  "Word": "perlík",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sledgehammer",
+  "Index": 623
+ },
+ {
+  "Word": "pečivo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pastry",
+  "Index": 624
+ },
+ {
+  "Word": "piknik",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "picnic",
+  "Index": 625
+ },
+ {
+  "Word": "plavba",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cruise",
+  "Index": 626
+ },
+ {
+  "Word": "plíseň",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "mold",
+  "Index": 627
+ },
+ {
+  "Word": "podzim",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fall",
+  "Index": 628
+ },
+ {
+  "Word": "pohřeb",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "funeral",
+  "Index": 629
+ },
+ {
+  "Word": "poklad",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "love",
+  "Index": 630
+ },
+ {
+  "Word": "pokles",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dip",
+  "Index": 631
+ },
+ {
+  "Word": "poklop",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "trap",
+  "Index": 632
+ },
+ {
+  "Word": "poleva",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "frosting",
+  "Index": 633
+ },
+ {
+  "Word": "pomalý",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "slow",
+  "Index": 634
+ },
+ {
+  "Word": "portál",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "portal",
+  "Index": 635
+ },
+ {
+  "Word": "postel",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bed",
+  "Index": 636
+ },
+ {
+  "Word": "povrch",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "surface",
+  "Index": 637
+ },
+ {
+  "Word": "počasí",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "weather",
+  "Index": 638
+ },
+ {
+  "Word": "pošťák",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "postman",
+  "Index": 639
+ },
+ {
+  "Word": "prodej",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sale",
+  "Index": 640
+ },
+ {
+  "Word": "provoz",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "flow",
+  "Index": 641
+ },
+ {
+  "Word": "prsten",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ring",
+  "Index": 642
+ },
+ {
+  "Word": "prádlo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wash",
+  "Index": 643
+ },
+ {
+  "Word": "průlez",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "manhole",
+  "Index": 644
+ },
+ {
+  "Word": "puding",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pudding",
+  "Index": 645
+ },
+ {
+  "Word": "přívěs",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "trailer",
+  "Index": 646
+ },
+ {
+  "Word": "půlnoc",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "midnight",
+  "Index": 647
+ },
+ {
+  "Word": "raketa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "rocket",
+  "Index": 648
+ },
+ {
+  "Word": "rameno",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "branch",
+  "Index": 649
+ },
+ {
+  "Word": "rejnok",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "stingray",
+  "Index": 650
+ },
+ {
+  "Word": "rejsek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shrew",
+  "Index": 651
+ },
+ {
+  "Word": "rekord",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "high",
+  "Index": 652
+ },
+ {
+  "Word": "riziko",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "risk",
+  "Index": 653
+ },
+ {
+  "Word": "rodina",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "family",
+  "Index": 654
+ },
+ {
+  "Word": "rolník",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "farmer",
+  "Index": 655
+ },
+ {
+  "Word": "rovník",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "line",
+  "Index": 656
+ },
+ {
+  "Word": "roztoč",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bed bug",
+  "Index": 657
+ },
+ {
+  "Word": "ručník",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "towel",
+  "Index": 658
+ },
+ {
+  "Word": "rybník",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pond",
+  "Index": 659
+ },
+ {
+  "Word": "rychlý",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fast",
+  "Index": 660
+ },
+ {
+  "Word": "safari",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "safari",
+  "Index": 661
+ },
+ {
+  "Word": "sezóna",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "season",
+  "Index": 662
+ },
+ {
+  "Word": "složka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "component",
+  "Index": 663
+ },
+ {
+  "Word": "slunce",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sun",
+  "Index": 664
+ },
+ {
+  "Word": "služka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "maid",
+  "Index": 665
+ },
+ {
+  "Word": "smeták",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "brush",
+  "Index": 666
+ },
+ {
+  "Word": "smutný",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sad",
+  "Index": 667
+ },
+ {
+  "Word": "soudce",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "referee",
+  "Index": 668
+ },
+ {
+  "Word": "spoušť",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "trigger",
+  "Index": 669
+ },
+ {
+  "Word": "sprcha",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shower",
+  "Index": 670
+ },
+ {
+  "Word": "spánek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "rest",
+  "Index": 671
+ },
+ {
+  "Word": "starší",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "elder",
+  "Index": 672
+ },
+ {
+  "Word": "stereo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "stereo",
+  "Index": 673
+ },
+ {
+  "Word": "stožár",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pylon",
+  "Index": 674
+ },
+ {
+  "Word": "strana",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "end",
+  "Index": 675
+ },
+ {
+  "Word": "střich",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cut",
+  "Index": 676
+ },
+ {
+  "Word": "suchar",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "biscuit",
+  "Index": 677
+ },
+ {
+  "Word": "sudoku",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "Sudoku",
+  "Index": 678
+ },
+ {
+  "Word": "svatba",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wedding",
+  "Index": 679
+ },
+ {
+  "Word": "svářeč",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "welder",
+  "Index": 680
+ },
+ {
+  "Word": "tampon",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tampon",
+  "Index": 681
+ },
+ {
+  "Word": "tapeta",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wallpaper",
+  "Index": 682
+ },
+ {
+  "Word": "trenér",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "coach",
+  "Index": 683
+ },
+ {
+  "Word": "trofej",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "trophy",
+  "Index": 684
+ },
+ {
+  "Word": "trubka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "pipe",
+  "Index": 685
+ },
+ {
+  "Word": "tučňák",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "penguin",
+  "Index": 686
+ },
+ {
+  "Word": "třešeň",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cherry",
+  "Index": 687
+ },
+ {
+  "Word": "uhlíky",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "carbon",
+  "Index": 688
+ },
+ {
+  "Word": "uvnitř",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "inside",
+  "Index": 689
+ },
+ {
+  "Word": "vakuum",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "vacuum",
+  "Index": 690
+ },
+ {
+  "Word": "ventil",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "vent",
+  "Index": 691
+ },
+ {
+  "Word": "vesmír",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "space",
+  "Index": 692
+ },
+ {
+  "Word": "večeře",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "tea",
+  "Index": 693
+ },
+ {
+  "Word": "vežení",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "prison",
+  "Index": 694
+ },
+ {
+  "Word": "vidění",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "vision",
+  "Index": 695
+ },
+ {
+  "Word": "vojsko",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "army",
+  "Index": 696
+ },
+ {
+  "Word": "vráska",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "wrinkle",
+  "Index": 697
+ },
+ {
+  "Word": "výkřik",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "cry",
+  "Index": 698
+ },
+ {
+  "Word": "vězení",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "jail",
+  "Index": 699
+ },
+ {
+  "Word": "zdraví",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "health",
+  "Index": 700
+ },
+ {
+  "Word": "zloděj",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "thief",
+  "Index": 701
+ },
+ {
+  "Word": "značka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sign",
+  "Index": 702
+ },
+ {
+  "Word": "zombie",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "zombie",
+  "Index": 703
+ },
+ {
+  "Word": "zpráva",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "call",
+  "Index": 704
+ },
+ {
+  "Word": "zpívat",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "sing",
+  "Index": 705
+ },
+ {
+  "Word": "zvonek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "bell",
+  "Index": 706
+ },
+ {
+  "Word": "závrať",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "dizziness",
+  "Index": 707
+ },
+ {
+  "Word": "česnek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "garlic",
+  "Index": 708
+ },
+ {
+  "Word": "čísník",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "waiter",
+  "Index": 709
+ },
+ {
+  "Word": "ředkev",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "radish",
+  "Index": 710
+ },
+ {
+  "Word": "šampon",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shampoo",
+  "Index": 711
+ },
+ {
+  "Word": "špalek",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "log",
+  "Index": 712
+ },
+ {
+  "Word": "špenát",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spinach",
+  "Index": 713
+ },
+ {
+  "Word": "špulka",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "spool",
+  "Index": 714
+ },
+ {
+  "Word": "štetec",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "brush",
+  "Index": 715
+ },
+ {
+  "Word": "štěstí",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "joy",
+  "Index": 716
+ },
+ {
+  "Word": "šumění",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "fizz",
+  "Index": 717
+ },
+ {
+  "Word": "šuplík",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "drawer",
+  "Index": 718
+ },
+ {
+  "Word": "žebřík",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "ladder",
+  "Index": 719
+ },
+ {
+  "Word": "železo",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "iron",
+  "Index": 720
+ },
+ {
+  "Word": "ženich",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "groom",
+  "Index": 721
+ },
+ {
+  "Word": "žirafa",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "giraffe",
+  "Index": 722
+ },
+ {
+  "Word": "žralok",
+  "Hint": "______",
+  "Length": 6,
+  "Translation": "shark",
+  "Index": 723
+ },
+ {
+  "Word": "Amerika",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "America",
+  "Index": 724
+ },
+ {
+  "Word": "Florida",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Florida",
+  "Index": 725
+ },
+ {
+  "Word": "Francie",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "France",
+  "Index": 726
+ },
+ {
+  "Word": "Německo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Germany",
+  "Index": 727
+ },
+ {
+  "Word": "alergie",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "allergy",
+  "Index": 728
+ },
+ {
+  "Word": "alkohol",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "alcohol",
+  "Index": 729
+ },
+ {
+  "Word": "autobus",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bus",
+  "Index": 730
+ },
+ {
+  "Word": "avokádo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "avocado",
+  "Index": 731
+ },
+ {
+  "Word": "bajonet",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bayonet",
+  "Index": 732
+ },
+ {
+  "Word": "baterie",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "battery",
+  "Index": 733
+ },
+ {
+  "Word": "borůvka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "blueberry",
+  "Index": 734
+ },
+ {
+  "Word": "brambor",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "potato",
+  "Index": 735
+ },
+ {
+  "Word": "broskev",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "peach",
+  "Index": 736
+ },
+ {
+  "Word": "bruneta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "brunette",
+  "Index": 737
+ },
+ {
+  "Word": "bublina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bubble",
+  "Index": 738
+ },
+ {
+  "Word": "břečťan",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ivy",
+  "Index": 739
+ },
+ {
+  "Word": "chladno",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cold",
+  "Index": 740
+ },
+ {
+  "Word": "chodník",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lane",
+  "Index": 741
+ },
+ {
+  "Word": "corndog",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "corndog",
+  "Index": 742
+ },
+ {
+  "Word": "cukroví",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sweets",
+  "Index": 743
+ },
+ {
+  "Word": "deštník",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "umbrella",
+  "Index": 744
+ },
+ {
+  "Word": "diagram",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "graph",
+  "Index": 745
+ },
+ {
+  "Word": "diamant",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "rock",
+  "Index": 746
+ },
+ {
+  "Word": "displej",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "display",
+  "Index": 747
+ },
+ {
+  "Word": "dodávka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "van",
+  "Index": 748
+ },
+ {
+  "Word": "dospělý",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ripe",
+  "Index": 749
+ },
+ {
+  "Word": "dynamit",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "dynamite",
+  "Index": 750
+ },
+ {
+  "Word": "dálnice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "highway",
+  "Index": 751
+ },
+ {
+  "Word": "džungle",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "jungle",
+  "Index": 752
+ },
+ {
+  "Word": "eskymák",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Eskimo",
+  "Index": 753
+ },
+ {
+  "Word": "exploze",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "explosion",
+  "Index": 754
+ },
+ {
+  "Word": "fosilie",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "fossil",
+  "Index": 755
+ },
+ {
+  "Word": "harpuna",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "spear",
+  "Index": 756
+ },
+ {
+  "Word": "hledání",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "search",
+  "Index": 757
+ },
+ {
+  "Word": "hlemýžď",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "snail",
+  "Index": 758
+ },
+ {
+  "Word": "hluboko",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "deeply",
+  "Index": 759
+ },
+ {
+  "Word": "hospoda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pub",
+  "Index": 760
+ },
+ {
+  "Word": "hádanka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "puzzle",
+  "Index": 761
+ },
+ {
+  "Word": "jeskyně",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cave",
+  "Index": 762
+ },
+ {
+  "Word": "kalhoty",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pants",
+  "Index": 763
+ },
+ {
+  "Word": "kanistr",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "canister",
+  "Index": 764
+ },
+ {
+  "Word": "kapitán",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "captain",
+  "Index": 765
+ },
+ {
+  "Word": "katalog",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "catalog",
+  "Index": 766
+ },
+ {
+  "Word": "kavárna",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cafe",
+  "Index": 767
+ },
+ {
+  "Word": "kelímek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "crucible",
+  "Index": 768
+ },
+ {
+  "Word": "kladivo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hammer",
+  "Index": 769
+ },
+ {
+  "Word": "klobouk",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hat",
+  "Index": 770
+ },
+ {
+  "Word": "klobása",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sausage",
+  "Index": 771
+ },
+ {
+  "Word": "koberec",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "rug",
+  "Index": 772
+ },
+ {
+  "Word": "koktejl",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cocktail",
+  "Index": 773
+ },
+ {
+  "Word": "kolečko",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "round",
+  "Index": 774
+ },
+ {
+  "Word": "koncert",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "concert",
+  "Index": 775
+ },
+ {
+  "Word": "konvice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "jug",
+  "Index": 776
+ },
+ {
+  "Word": "konzole",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "console",
+  "Index": 777
+ },
+ {
+  "Word": "kornout",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cone",
+  "Index": 778
+ },
+ {
+  "Word": "krabice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "box",
+  "Index": 779
+ },
+ {
+  "Word": "krajina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "country",
+  "Index": 780
+ },
+ {
+  "Word": "kravata",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "tie",
+  "Index": 781
+ },
+ {
+  "Word": "kreveta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "prawn",
+  "Index": 782
+ },
+ {
+  "Word": "krumpáč",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pickaxe",
+  "Index": 783
+ },
+ {
+  "Word": "krystal",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "crystal",
+  "Index": 784
+ },
+ {
+  "Word": "kuchyně",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "kitchen",
+  "Index": 785
+ },
+ {
+  "Word": "kukačka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cuckoo",
+  "Index": 786
+ },
+ {
+  "Word": "kuželky",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bowling",
+  "Index": 787
+ },
+ {
+  "Word": "květina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "flower",
+  "Index": 788
+ },
+ {
+  "Word": "kyvadlo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pendulum",
+  "Index": 789
+ },
+ {
+  "Word": "lachtan",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sea lion",
+  "Index": 790
+ },
+ {
+  "Word": "lednice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "refrigerator",
+  "Index": 791
+ },
+ {
+  "Word": "lepidlo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "glue",
+  "Index": 792
+ },
+ {
+  "Word": "letadlo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "plane",
+  "Index": 793
+ },
+ {
+  "Word": "letiště",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "airport",
+  "Index": 794
+ },
+ {
+  "Word": "lopatka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "scoop",
+  "Index": 795
+ },
+ {
+  "Word": "loterie",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lottery",
+  "Index": 796
+ },
+ {
+  "Word": "lístker",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "ticket",
+  "Index": 797
+ },
+ {
+  "Word": "lízátko",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lollipop",
+  "Index": 798
+ },
+ {
+  "Word": "matrace",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "mattress",
+  "Index": 799
+ },
+ {
+  "Word": "meruňka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "apricot",
+  "Index": 800
+ },
+ {
+  "Word": "minivan",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "minivan",
+  "Index": 801
+ },
+ {
+  "Word": "modřina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bruise",
+  "Index": 802
+ },
+ {
+  "Word": "mrtvola",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "corpse",
+  "Index": 803
+ },
+ {
+  "Word": "mušketa",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "musket",
+  "Index": 804
+ },
+ {
+  "Word": "měsíček",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "marigold",
+  "Index": 805
+ },
+ {
+  "Word": "měřítko",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "scale",
+  "Index": 806
+ },
+ {
+  "Word": "nadváha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "overweight",
+  "Index": 807
+ },
+ {
+  "Word": "netopýr",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bat",
+  "Index": 808
+ },
+ {
+  "Word": "nevěsta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bride",
+  "Index": 809
+ },
+ {
+  "Word": "nábytek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "furniture",
+  "Index": 810
+ },
+ {
+  "Word": "nádvoří",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "patio",
+  "Index": 811
+ },
+ {
+  "Word": "náramek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bracelet",
+  "Index": 812
+ },
+ {
+  "Word": "návnada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bait",
+  "Index": 813
+ },
+ {
+  "Word": "obličej",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "face",
+  "Index": 814
+ },
+ {
+  "Word": "odpadky",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "trash",
+  "Index": 815
+ },
+ {
+  "Word": "omeleta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "omelet",
+  "Index": 816
+ },
+ {
+  "Word": "ovladač",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "controller",
+  "Index": 817
+ },
+ {
+  "Word": "pacient",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "patient",
+  "Index": 818
+ },
+ {
+  "Word": "palanda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bunk bed",
+  "Index": 819
+ },
+ {
+  "Word": "paprika",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bell pepper",
+  "Index": 820
+ },
+ {
+  "Word": "pelikán",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pelican",
+  "Index": 821
+ },
+ {
+  "Word": "petarda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "firecracker",
+  "Index": 822
+ },
+ {
+  "Word": "pinball",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pinball",
+  "Index": 823
+ },
+ {
+  "Word": "pistole",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pistol",
+  "Index": 824
+ },
+ {
+  "Word": "planeta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "planet",
+  "Index": 825
+ },
+ {
+  "Word": "plešatý",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bald",
+  "Index": 826
+ },
+ {
+  "Word": "plástev",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "honeycomb",
+  "Index": 827
+ },
+ {
+  "Word": "pobřeží",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "coast",
+  "Index": 828
+ },
+ {
+  "Word": "podpaží",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "armpit",
+  "Index": 829
+ },
+ {
+  "Word": "podzemí",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "underground",
+  "Index": 830
+ },
+ {
+  "Word": "pohlaví",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sex",
+  "Index": 831
+ },
+ {
+  "Word": "polibek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "kiss",
+  "Index": 832
+ },
+ {
+  "Word": "polévka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "soup",
+  "Index": 833
+ },
+ {
+  "Word": "polštář",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pillow",
+  "Index": 834
+ },
+ {
+  "Word": "pondělí",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "Monday",
+  "Index": 835
+ },
+ {
+  "Word": "ponožky",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "socks",
+  "Index": 836
+ },
+ {
+  "Word": "popcorn",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "popcorn",
+  "Index": 837
+ },
+ {
+  "Word": "poplach",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "alarm",
+  "Index": 838
+ },
+ {
+  "Word": "portrét",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "portrait",
+  "Index": 839
+ },
+ {
+  "Word": "potápěč",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "plunger",
+  "Index": 840
+ },
+ {
+  "Word": "počítač",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "computer",
+  "Index": 841
+ },
+ {
+  "Word": "preclík",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "pretzel",
+  "Index": 842
+ },
+ {
+  "Word": "propast",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "yawn",
+  "Index": 843
+ },
+ {
+  "Word": "pásovec",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "armadillo",
+  "Index": 844
+ },
+ {
+  "Word": "páčidlo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "crowbar",
+  "Index": 845
+ },
+ {
+  "Word": "přidání",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "addition",
+  "Index": 846
+ },
+ {
+  "Word": "příroda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "nature",
+  "Index": 847
+ },
+ {
+  "Word": "přístav",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "port",
+  "Index": 848
+ },
+ {
+  "Word": "razítko",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "stamp",
+  "Index": 849
+ },
+ {
+  "Word": "recepce",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "reception",
+  "Index": 850
+ },
+ {
+  "Word": "reklama",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "commercial",
+  "Index": 851
+ },
+ {
+  "Word": "ropucha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "toad",
+  "Index": 852
+ },
+ {
+  "Word": "rozinka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "raisin",
+  "Index": 853
+ },
+ {
+  "Word": "rukojeť",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "handle",
+  "Index": 854
+ },
+ {
+  "Word": "saranče",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "grasshopper",
+  "Index": 855
+ },
+ {
+  "Word": "satelit",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "satellite",
+  "Index": 856
+ },
+ {
+  "Word": "selhání",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "failure",
+  "Index": 857
+ },
+ {
+  "Word": "sendvič",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "sandwich",
+  "Index": 858
+ },
+ {
+  "Word": "skřítek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "elf",
+  "Index": 859
+ },
+ {
+  "Word": "slanina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bacon",
+  "Index": 860
+ },
+ {
+  "Word": "slepice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "hen",
+  "Index": 861
+ },
+ {
+  "Word": "snídaně",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "breakfast",
+  "Index": 862
+ },
+ {
+  "Word": "sodovka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "soda",
+  "Index": 863
+ },
+ {
+  "Word": "spoiler",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "spoiler",
+  "Index": 864
+ },
+ {
+  "Word": "stadion",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "stadium",
+  "Index": 865
+ },
+ {
+  "Word": "stažení",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "download",
+  "Index": 866
+ },
+ {
+  "Word": "stodola",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "barn",
+  "Index": 867
+ },
+ {
+  "Word": "student",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "student",
+  "Index": 868
+ },
+ {
+  "Word": "střecha",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "platform",
+  "Index": 869
+ },
+ {
+  "Word": "stříbro",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "silver",
+  "Index": 870
+ },
+ {
+  "Word": "suterén",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "basement",
+  "Index": 871
+ },
+ {
+  "Word": "sušenka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "cookie",
+  "Index": 872
+ },
+ {
+  "Word": "svítání",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "dawn",
+  "Index": 873
+ },
+ {
+  "Word": "tableta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "tablet",
+  "Index": 874
+ },
+ {
+  "Word": "telefon",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "phone",
+  "Index": 875
+ },
+ {
+  "Word": "teplota",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "fever",
+  "Index": 876
+ },
+ {
+  "Word": "toaleta",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "toilet",
+  "Index": 877
+ },
+ {
+  "Word": "topinka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "toast",
+  "Index": 878
+ },
+ {
+  "Word": "tornádo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "tornado",
+  "Index": 879
+ },
+ {
+  "Word": "továrna",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "plant",
+  "Index": 880
+ },
+ {
+  "Word": "trhlina",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "gap",
+  "Index": 881
+ },
+ {
+  "Word": "táborák",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "campfire",
+  "Index": 882
+ },
+ {
+  "Word": "vanilka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vanilla",
+  "Index": 883
+ },
+ {
+  "Word": "velryba",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "whale",
+  "Index": 884
+ },
+ {
+  "Word": "veranda",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "porch",
+  "Index": 885
+ },
+ {
+  "Word": "vesnice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "village",
+  "Index": 886
+ },
+ {
+  "Word": "veverka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "squirrel",
+  "Index": 887
+ },
+ {
+  "Word": "vitamín",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vitamin",
+  "Index": 888
+ },
+ {
+  "Word": "vodička",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lotion",
+  "Index": 889
+ },
+ {
+  "Word": "vodopád",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "waterfall",
+  "Index": 890
+ },
+ {
+  "Word": "vodítko",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lead",
+  "Index": 891
+ },
+ {
+  "Word": "vývrtka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "spin",
+  "Index": 892
+ },
+ {
+  "Word": "xylofon",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "xylophone",
+  "Index": 893
+ },
+ {
+  "Word": "zahrada",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "garden",
+  "Index": 894
+ },
+ {
+  "Word": "zkouška",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "exam",
+  "Index": 895
+ },
+ {
+  "Word": "zrcadlo",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "mirror",
+  "Index": 896
+ },
+ {
+  "Word": "zvracet",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "vomit",
+  "Index": 897
+ },
+ {
+  "Word": "záclona",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "curtain",
+  "Index": 898
+ },
+ {
+  "Word": "záložka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "bookmark",
+  "Index": 899
+ },
+ {
+  "Word": "zápěstí",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "wrist",
+  "Index": 900
+ },
+ {
+  "Word": "zárodek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "germ",
+  "Index": 901
+ },
+ {
+  "Word": "zásuvka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "drawer",
+  "Index": 902
+ },
+ {
+  "Word": "zátaras",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "roadblock",
+  "Index": 903
+ },
+ {
+  "Word": "ústřice",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "oyster",
+  "Index": 904
+ },
+ {
+  "Word": "časopic",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "magazine",
+  "Index": 905
+ },
+ {
+  "Word": "časopis",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "magazine",
+  "Index": 906
+ },
+ {
+  "Word": "červená",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "red",
+  "Index": 907
+ },
+ {
+  "Word": "čtverec",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "square",
+  "Index": 908
+ },
+ {
+  "Word": "šampion",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "champion",
+  "Index": 909
+ },
+ {
+  "Word": "špinavý",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "dirty",
+  "Index": 910
+ },
+ {
+  "Word": "šťastný",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "happy",
+  "Index": 911
+ },
+ {
+  "Word": "žaludek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "belly",
+  "Index": 912
+ },
+ {
+  "Word": "žiletka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "razorblade",
+  "Index": 913
+ },
+ {
+  "Word": "žloutek",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "yolk",
+  "Index": 914
+ },
+ {
+  "Word": "žárovka",
+  "Hint": "_______",
+  "Length": 7,
+  "Translation": "lightbulb",
+  "Index": 915
+ },
+ {
+  "Word": "aligátor",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "alligator",
+  "Index": 916
+ },
+ {
+  "Word": "anakonda",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "anaconda",
+  "Index": 917
+ },
+ {
+  "Word": "bezpečný",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "safe",
+  "Index": 918
+ },
+ {
+  "Word": "biologie",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "biology",
+  "Index": 919
+ },
+ {
+  "Word": "bludiště",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "maze",
+  "Index": 920
+ },
+ {
+  "Word": "cigareta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "smoke",
+  "Index": 921
+ },
+ {
+  "Word": "dinosaur",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dinosaur",
+  "Index": 922
+ },
+ {
+  "Word": "dovolená",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "leave",
+  "Index": 923
+ },
+ {
+  "Word": "dávkovač",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dispenser",
+  "Index": 924
+ },
+ {
+  "Word": "důchodce",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pensioner",
+  "Index": 925
+ },
+ {
+  "Word": "festival",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "festival",
+  "Index": 926
+ },
+ {
+  "Word": "graffiti",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "graffiti",
+  "Index": 927
+ },
+ {
+  "Word": "handicap",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "handicap",
+  "Index": 928
+ },
+ {
+  "Word": "horizont",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "horizon",
+  "Index": 929
+ },
+ {
+  "Word": "hotovost",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cash",
+  "Index": 930
+ },
+ {
+  "Word": "houpačka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "swing",
+  "Index": 931
+ },
+ {
+  "Word": "housenka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "caterpillar",
+  "Index": 932
+ },
+ {
+  "Word": "hranolky",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "fries",
+  "Index": 933
+ },
+ {
+  "Word": "internet",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "internet",
+  "Index": 934
+ },
+ {
+  "Word": "jeskyňář",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "caveman",
+  "Index": 935
+ },
+ {
+  "Word": "ještěrka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "gecko",
+  "Index": 936
+ },
+ {
+  "Word": "kalendář",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "diary",
+  "Index": 937
+ },
+ {
+  "Word": "kancelář",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "room",
+  "Index": 938
+ },
+ {
+  "Word": "kapesník",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "tissue",
+  "Index": 939
+ },
+ {
+  "Word": "kapučíno",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cappuccino",
+  "Index": 940
+ },
+ {
+  "Word": "klarinet",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "clarinet",
+  "Index": 941
+ },
+ {
+  "Word": "knihovna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "library",
+  "Index": 942
+ },
+ {
+  "Word": "kohoutek",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "faucet",
+  "Index": 943
+ },
+ {
+  "Word": "kolibřík",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "hummingbird",
+  "Index": 944
+ },
+ {
+  "Word": "komerční",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "commercial",
+  "Index": 945
+ },
+ {
+  "Word": "komorník",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "butler",
+  "Index": 946
+ },
+ {
+  "Word": "komunita",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "community",
+  "Index": 947
+ },
+ {
+  "Word": "koupelna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "bathroom",
+  "Index": 948
+ },
+ {
+  "Word": "krokodýl",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "crocodile",
+  "Index": 949
+ },
+ {
+  "Word": "kroucení",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "wiggle",
+  "Index": 950
+ },
+ {
+  "Word": "královna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "queen",
+  "Index": 951
+ },
+ {
+  "Word": "kukuřice",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "corn",
+  "Index": 952
+ },
+ {
+  "Word": "kyselina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "acid",
+  "Index": 953
+ },
+ {
+  "Word": "kýchnutí",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "sneeze",
+  "Index": 954
+ },
+ {
+  "Word": "lemonáda",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "lemonade",
+  "Index": 955
+ },
+ {
+  "Word": "lékořice",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "licorice",
+  "Index": 956
+ },
+ {
+  "Word": "majonéza",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mayonnaise",
+  "Index": 957
+ },
+ {
+  "Word": "makaróny",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "macaroni",
+  "Index": 958
+ },
+ {
+  "Word": "manželka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "wife",
+  "Index": 959
+ },
+ {
+  "Word": "meteorit",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "meteorite",
+  "Index": 960
+ },
+ {
+  "Word": "mikrofon",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "microphone",
+  "Index": 961
+ },
+ {
+  "Word": "motocykl",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "motorcycle",
+  "Index": 962
+ },
+ {
+  "Word": "mravenec",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "ant",
+  "Index": 963
+ },
+ {
+  "Word": "nárazník",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "buffer",
+  "Index": 964
+ },
+ {
+  "Word": "obdélník",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rectangle",
+  "Index": 965
+ },
+ {
+  "Word": "obsazení",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "cast",
+  "Index": 966
+ },
+ {
+  "Word": "opakovat",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "repeat",
+  "Index": 967
+ },
+ {
+  "Word": "otevřený",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "open",
+  "Index": 968
+ },
+ {
+  "Word": "panoráma",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "skyline",
+  "Index": 969
+ },
+ {
+  "Word": "papoušek",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "parrot",
+  "Index": 970
+ },
+ {
+  "Word": "pastelka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "crayon",
+  "Index": 971
+ },
+ {
+  "Word": "pavučina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "web",
+  "Index": 972
+ },
+ {
+  "Word": "pijavice",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "leech",
+  "Index": 973
+ },
+ {
+  "Word": "plameňák",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "flamingo",
+  "Index": 974
+ },
+ {
+  "Word": "pochodeň",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "torch",
+  "Index": 975
+ },
+ {
+  "Word": "pohodlný",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "comfortable",
+  "Index": 976
+ },
+ {
+  "Word": "pomeranč",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "orange",
+  "Index": 977
+ },
+ {
+  "Word": "potápění",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "scuba",
+  "Index": 978
+ },
+ {
+  "Word": "pravítko",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "ruler",
+  "Index": 979
+ },
+ {
+  "Word": "profesor",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "teacher",
+  "Index": 980
+ },
+ {
+  "Word": "průsečík",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "intersection",
+  "Index": 981
+ },
+ {
+  "Word": "písknutí",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "whistling",
+  "Index": 982
+ },
+ {
+  "Word": "překážka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "jump",
+  "Index": 983
+ },
+ {
+  "Word": "rozhodčí",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "judge",
+  "Index": 984
+ },
+ {
+  "Word": "rukavice",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "glove",
+  "Index": 985
+ },
+ {
+  "Word": "skořápek",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "shell",
+  "Index": 986
+ },
+ {
+  "Word": "skořápka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "shell",
+  "Index": 987
+ },
+ {
+  "Word": "sněhulák",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "snowman",
+  "Index": 988
+ },
+ {
+  "Word": "sombrero",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "sombrero",
+  "Index": 989
+ },
+ {
+  "Word": "starosta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "mayor",
+  "Index": 990
+ },
+ {
+  "Word": "surikata",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "meerkat",
+  "Index": 991
+ },
+ {
+  "Word": "svítilna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "flashlight",
+  "Index": 992
+ },
+ {
+  "Word": "tekutina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "fluid",
+  "Index": 993
+ },
+ {
+  "Word": "teleskop",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "telescope",
+  "Index": 994
+ },
+ {
+  "Word": "televize",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "television",
+  "Index": 995
+ },
+ {
+  "Word": "teploměr",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "thermometer",
+  "Index": 996
+ },
+ {
+  "Word": "tetování",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "tattoo",
+  "Index": 997
+ },
+ {
+  "Word": "tiramisu",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "tiramisu",
+  "Index": 998
+ },
+ {
+  "Word": "tiskárna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "press",
+  "Index": 999
+ },
+ {
+  "Word": "tkanička",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "shoelace",
+  "Index": 1000
+ },
+ {
+  "Word": "tleskání",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "clap",
+  "Index": 1001
+ },
+ {
+  "Word": "trumpeta",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "trumpet",
+  "Index": 1002
+ },
+ {
+  "Word": "ubrousek",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "napkin",
+  "Index": 1003
+ },
+ {
+  "Word": "uniforma",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "dress",
+  "Index": 1004
+ },
+ {
+  "Word": "ušní maz",
+  "Hint": "____ ___",
+  "Length": 8,
+  "Translation": "earwax",
+  "Index": 1005
+ },
+ {
+  "Word": "vidlička",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "fork",
+  "Index": 1006
+ },
+ {
+  "Word": "volejbal",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "volleyball",
+  "Index": 1007
+ },
+ {
+  "Word": "větvička",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "twig",
+  "Index": 1008
+ },
+ {
+  "Word": "zelenina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "vegetable",
+  "Index": 1009
+ },
+ {
+  "Word": "zmrzlina",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "ice cream",
+  "Index": 1010
+ },
+ {
+  "Word": "zábradlí",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "rail",
+  "Index": 1011
+ },
+ {
+  "Word": "zákazník",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "customer",
+  "Index": 1012
+ },
+ {
+  "Word": "základna",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "base",
+  "Index": 1013
+ },
+ {
+  "Word": "zástrčka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "plug",
+  "Index": 1014
+ },
+ {
+  "Word": "zůstatek",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "balance",
+  "Index": 1015
+ },
+ {
+  "Word": "červenka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "robin",
+  "Index": 1016
+ },
+ {
+  "Word": "čokoláda",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "chocolate",
+  "Index": 1017
+ },
+ {
+  "Word": "špendlík",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "pin",
+  "Index": 1018
+ },
+ {
+  "Word": "žvýkačka",
+  "Hint": "________",
+  "Length": 8,
+  "Translation": "gumball",
+  "Index": 1019
+ },
+ {
+  "Word": "Atlantida",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "Atlantis",
+  "Index": 1020
+ },
+ {
+  "Word": "Spongebob",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "SpongeBob",
+  "Index": 1021
+ },
+ {
+  "Word": "ambulance",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "ambulance",
+  "Index": 1022
+ },
+ {
+  "Word": "archeolog",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "archaeologist",
+  "Index": 1023
+ },
+ {
+  "Word": "astronaut",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "astronaut",
+  "Index": 1024
+ },
+ {
+  "Word": "basketbal",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "basketball",
+  "Index": 1025
+ },
+ {
+  "Word": "bohatství",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "wealth",
+  "Index": 1026
+ },
+ {
+  "Word": "bratranec",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "cousin",
+  "Index": 1027
+ },
+ {
+  "Word": "brokolice",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "broccoli",
+  "Index": 1028
+ },
+ {
+  "Word": "elektřina",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "electricity",
+  "Index": 1029
+ },
+ {
+  "Word": "farmaceut",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "pharmacist",
+  "Index": 1030
+ },
+ {
+  "Word": "generátor",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "generator",
+  "Index": 1031
+ },
+ {
+  "Word": "gravitace",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "gravity",
+  "Index": 1032
+ },
+ {
+  "Word": "hamburger",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "hamburger",
+  "Index": 1033
+ },
+ {
+  "Word": "hlasitost",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "sound",
+  "Index": 1034
+ },
+ {
+  "Word": "kapradina",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "fern",
+  "Index": 1035
+ },
+ {
+  "Word": "kapustňák",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "manatee",
+  "Index": 1036
+ },
+ {
+  "Word": "kempování",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "camping",
+  "Index": 1037
+ },
+ {
+  "Word": "kompletní",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "full",
+  "Index": 1038
+ },
+ {
+  "Word": "kostlivec",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "skeleton",
+  "Index": 1039
+ },
+ {
+  "Word": "kouzelník",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "wizard",
+  "Index": 1040
+ },
+ {
+  "Word": "královský",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "royal",
+  "Index": 1041
+ },
+ {
+  "Word": "louskáček",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "nutcracker",
+  "Index": 1042
+ },
+ {
+  "Word": "mikroskop",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "microscope",
+  "Index": 1043
+ },
+ {
+  "Word": "mrakodram",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "skyscraper",
+  "Index": 1044
+ },
+ {
+  "Word": "nekonečný",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "infinite",
+  "Index": 1045
+ },
+ {
+  "Word": "nemocnice",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "hospital",
+  "Index": 1046
+ },
+ {
+  "Word": "ohňostroj",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "firework",
+  "Index": 1047
+ },
+ {
+  "Word": "peněženka",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "purse",
+  "Index": 1048
+ },
+ {
+  "Word": "policista",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "policeman",
+  "Index": 1049
+ },
+ {
+  "Word": "povlečení",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bed sheet",
+  "Index": 1050
+ },
+ {
+  "Word": "prezident",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "president",
+  "Index": 1051
+ },
+ {
+  "Word": "princezna",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "princess",
+  "Index": 1052
+ },
+ {
+  "Word": "ptakopysk",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "platypus",
+  "Index": 1053
+ },
+ {
+  "Word": "přemýšlet",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "study",
+  "Index": 1054
+ },
+ {
+  "Word": "recyklace",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "recycling",
+  "Index": 1055
+ },
+ {
+  "Word": "roztomilé",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "cute",
+  "Index": 1056
+ },
+ {
+  "Word": "sešívačka",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "stapler",
+  "Index": 1057
+ },
+ {
+  "Word": "skluzavka",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "slide",
+  "Index": 1058
+ },
+ {
+  "Word": "sluchátka",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "headphones",
+  "Index": 1059
+ },
+ {
+  "Word": "slunečník",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "parasol",
+  "Index": 1060
+ },
+ {
+  "Word": "snowboard",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "snowboard",
+  "Index": 1061
+ },
+ {
+  "Word": "sportovní",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "sports",
+  "Index": 1062
+ },
+ {
+  "Word": "světlomet",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "floodlight",
+  "Index": 1063
+ },
+ {
+  "Word": "toastovač",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "toaster",
+  "Index": 1064
+ },
+ {
+  "Word": "těstoviny",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "pasta",
+  "Index": 1065
+ },
+ {
+  "Word": "vyhazovač",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "bouncer",
+  "Index": 1066
+ },
+ {
+  "Word": "zavazadla",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "luggage",
+  "Index": 1067
+ },
+ {
+  "Word": "říše divů",
+  "Hint": "____ ____",
+  "Length": 9,
+  "Translation": "wonderland",
+  "Index": 1068
+ },
+ {
+  "Word": "žonglovat",
+  "Hint": "_________",
+  "Length": 9,
+  "Translation": "juggle",
+  "Index": 1069
+ },
+ {
+  "Word": "apokalypsa",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "apocalypse",
+  "Index": 1070
+ },
+ {
+  "Word": "brokovnice",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "shotgun",
+  "Index": 1071
+ },
+ {
+  "Word": "chamtivost",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "greed",
+  "Index": 1072
+ },
+ {
+  "Word": "chemikálie",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "chemical",
+  "Index": 1073
+ },
+ {
+  "Word": "chobotnice",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "octopus",
+  "Index": 1074
+ },
+ {
+  "Word": "dalekohled",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "telescope",
+  "Index": 1075
+ },
+ {
+  "Word": "domácí krb",
+  "Hint": "______ ___",
+  "Length": 10,
+  "Translation": "fireside",
+  "Index": 1076
+ },
+ {
+  "Word": "fotoaparát",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "camera",
+  "Index": 1077
+ },
+ {
+  "Word": "fotografie",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "photo",
+  "Index": 1078
+ },
+ {
+  "Word": "instalatér",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "plumber",
+  "Index": 1079
+ },
+ {
+  "Word": "jednorožec",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "unicorn",
+  "Index": 1080
+ },
+ {
+  "Word": "katastrofa",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "disaster",
+  "Index": 1081
+ },
+ {
+  "Word": "klávesnice",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "keypad",
+  "Index": 1082
+ },
+ {
+  "Word": "konverzace",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "talk",
+  "Index": 1083
+ },
+ {
+  "Word": "maloobchod",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "retail",
+  "Index": 1084
+ },
+ {
+  "Word": "mandarinka",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "tangerine",
+  "Index": 1085
+ },
+ {
+  "Word": "mraveniště",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "anthill",
+  "Index": 1086
+ },
+ {
+  "Word": "narozeniny",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "birthday",
+  "Index": 1087
+ },
+ {
+  "Word": "noční klub",
+  "Hint": "_____ ____",
+  "Length": 10,
+  "Translation": "Night club",
+  "Index": 1088
+ },
+ {
+  "Word": "noční můra",
+  "Hint": "_____ ____",
+  "Length": 10,
+  "Translation": "nightmare",
+  "Index": 1089
+ },
+ {
+  "Word": "observatoř",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "observatory",
+  "Index": 1090
+ },
+ {
+  "Word": "pampeliška",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "dandelion",
+  "Index": 1091
+ },
+ {
+  "Word": "plamenomet",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "flamethrower",
+  "Index": 1092
+ },
+ {
+  "Word": "pneumatika",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "tire",
+  "Index": 1093
+ },
+ {
+  "Word": "pohlednice",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "card",
+  "Index": 1094
+ },
+ {
+  "Word": "poloostrov",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "peninsula",
+  "Index": 1095
+ },
+ {
+  "Word": "poustevník",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "hermit",
+  "Index": 1096
+ },
+ {
+  "Word": "pracoviště",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "workplace",
+  "Index": 1097
+ },
+ {
+  "Word": "pískoviště",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "sandbox",
+  "Index": 1098
+ },
+ {
+  "Word": "restaurace",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "restaurant",
+  "Index": 1099
+ },
+ {
+  "Word": "skateboard",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "skateboard",
+  "Index": 1100
+ },
+ {
+  "Word": "slaná voda",
+  "Hint": "_____ ____",
+  "Length": 10,
+  "Translation": "saltwater",
+  "Index": 1101
+ },
+ {
+  "Word": "sochařství",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "sculpture",
+  "Index": 1102
+ },
+ {
+  "Word": "sousedství",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "neighborhood",
+  "Index": 1103
+ },
+ {
+  "Word": "stroj času",
+  "Hint": "_____ ____",
+  "Length": 10,
+  "Translation": "time machine",
+  "Index": 1104
+ },
+ {
+  "Word": "usmívat se",
+  "Hint": "_______ __",
+  "Length": 10,
+  "Translation": "smile",
+  "Index": 1105
+ },
+ {
+  "Word": "vegetarián",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "vegetarian",
+  "Index": 1106
+ },
+ {
+  "Word": "velikonoce",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "Easter",
+  "Index": 1107
+ },
+ {
+  "Word": "vzdálenost",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "journey",
+  "Index": 1108
+ },
+ {
+  "Word": "úhlopříčka",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "diagonal",
+  "Index": 1109
+ },
+ {
+  "Word": "čelní sklo",
+  "Hint": "_____ ____",
+  "Length": 10,
+  "Translation": "windshield",
+  "Index": 1110
+ },
+ {
+  "Word": "čtverzubec",
+  "Hint": "__________",
+  "Length": 10,
+  "Translation": "square",
+  "Index": 1111
+ },
+ {
+  "Word": "bežecký pás",
+  "Hint": "_______ ___",
+  "Length": 11,
+  "Translation": "Treadmill",
+  "Index": 1112
+ },
+ {
+  "Word": "běžecký pás",
+  "Hint": "_______ ___",
+  "Length": 11,
+  "Translation": "treadmill",
+  "Index": 1113
+ },
+ {
+  "Word": "demonstrace",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "march",
+  "Index": 1114
+ },
+ {
+  "Word": "deska stolu",
+  "Hint": "_____ _____",
+  "Length": 11,
+  "Translation": "tabletop",
+  "Index": 1115
+ },
+ {
+  "Word": "helikoptéra",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "helicopter",
+  "Index": 1116
+ },
+ {
+  "Word": "houpací síť",
+  "Hint": "_______ ___",
+  "Length": 11,
+  "Translation": "hammock",
+  "Index": 1117
+ },
+ {
+  "Word": "jízdní kolo",
+  "Hint": "______ ____",
+  "Length": 11,
+  "Translation": "bicycle",
+  "Index": 1118
+ },
+ {
+  "Word": "kozí bradka",
+  "Hint": "____ ______",
+  "Length": 11,
+  "Translation": "goatee",
+  "Index": 1119
+ },
+ {
+  "Word": "mimozemšťan",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "alien",
+  "Index": 1120
+ },
+ {
+  "Word": "plachetnice",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "sailboat",
+  "Index": 1121
+ },
+ {
+  "Word": "postřikovač",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "sprinkler",
+  "Index": 1122
+ },
+ {
+  "Word": "profesionál",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "pro",
+  "Index": 1123
+ },
+ {
+  "Word": "sedmikráska",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "daisy",
+  "Index": 1124
+ },
+ {
+  "Word": "supermarket",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "supermarket",
+  "Index": 1125
+ },
+ {
+  "Word": "trojúhelník",
+  "Hint": "___________",
+  "Length": 11,
+  "Translation": "triangle",
+  "Index": 1126
+ },
+ {
+  "Word": "větrný mlín",
+  "Hint": "______ ____",
+  "Length": 11,
+  "Translation": "windmill",
+  "Index": 1127
+ },
+ {
+  "Word": "zlatá rybka",
+  "Hint": "_____ _____",
+  "Length": 11,
+  "Translation": "goldfish",
+  "Index": 1128
+ },
+ {
+  "Word": "zubní pasta",
+  "Hint": "_____ _____",
+  "Length": 11,
+  "Translation": "toothpaste",
+  "Index": 1129
+ },
+ {
+  "Word": "cheeseburger",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "cheeseburger",
+  "Index": 1130
+ },
+ {
+  "Word": "deštný pales",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Translation": "rain pales",
+  "Index": 1131
+ },
+ {
+  "Word": "doba kamenná",
+  "Hint": "____ _______",
+  "Length": 12,
+  "Translation": "Stone Age",
+  "Index": 1132
+ },
+ {
+  "Word": "hrad z písku",
+  "Hint": "____ _ _____",
+  "Length": 12,
+  "Translation": "sand castle",
+  "Index": 1133
+ },
+ {
+  "Word": "kosmická loď",
+  "Hint": "________ ___",
+  "Length": 12,
+  "Translation": "spaceship",
+  "Index": 1134
+ },
+ {
+  "Word": "lak na vlasy",
+  "Hint": "___ __ _____",
+  "Length": 12,
+  "Translation": "hairspray",
+  "Index": 1135
+ },
+ {
+  "Word": "mořská panna",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Translation": "siren",
+  "Index": 1136
+ },
+ {
+  "Word": "mořský koník",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Translation": "seahorse",
+  "Index": 1137
+ },
+ {
+  "Word": "obežná dráha",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Translation": "orbit",
+  "Index": 1138
+ },
+ {
+  "Word": "stolní tenis",
+  "Hint": "______ _____",
+  "Length": 12,
+  "Translation": "table tennis",
+  "Index": 1139
+ },
+ {
+  "Word": "světelný meč",
+  "Hint": "________ ___",
+  "Length": 12,
+  "Translation": "lightsaber",
+  "Index": 1140
+ },
+ {
+  "Word": "tyranosaurus",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "tyrannosaurus",
+  "Index": 1141
+ },
+ {
+  "Word": "velociraptor",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "Velociraptor",
+  "Index": 1142
+ },
+ {
+  "Word": "ztroskotanec",
+  "Hint": "____________",
+  "Length": 12,
+  "Translation": "loser",
+  "Index": 1143
+ },
+ {
+  "Word": "čas ke spaní",
+  "Hint": "___ __ _____",
+  "Length": 12,
+  "Translation": "bedtime",
+  "Index": 1144
+ },
+ {
+  "Word": "červená řepa",
+  "Hint": "_______ ____",
+  "Length": 12,
+  "Translation": "beetroot",
+  "Index": 1145
+ },
+ {
+  "Word": "dešťová kapka",
+  "Hint": "_______ _____",
+  "Length": 13,
+  "Translation": "raindrop",
+  "Index": 1146
+ },
+ {
+  "Word": "kyselá okurka",
+  "Hint": "______ ______",
+  "Length": 13,
+  "Translation": "pickle",
+  "Index": 1147
+ },
+ {
+  "Word": "motorová pila",
+  "Hint": "________ ____",
+  "Length": 13,
+  "Translation": "chainsaw",
+  "Index": 1148
+ },
+ {
+  "Word": "papírový drak",
+  "Hint": "________ ____",
+  "Length": 13,
+  "Translation": "kite",
+  "Index": 1149
+ },
+ {
+  "Word": "sněhová koule",
+  "Hint": "_______ _____",
+  "Length": 13,
+  "Translation": "snowball",
+  "Index": 1150
+ },
+ {
+  "Word": "stonek fazole",
+  "Hint": "______ ______",
+  "Length": 13,
+  "Translation": "beanstalk",
+  "Index": 1151
+ },
+ {
+  "Word": "vlašský ořech",
+  "Hint": "_______ _____",
+  "Length": 13,
+  "Translation": "walnut",
+  "Index": 1152
+ },
+ {
+  "Word": "zaměstnavatel",
+  "Hint": "_____________",
+  "Length": 13,
+  "Translation": "employer",
+  "Index": 1153
+ },
+ {
+  "Word": "konvice na čaj",
+  "Hint": "_______ __ ___",
+  "Length": 14,
+  "Translation": "teapot",
+  "Index": 1154
+ },
+ {
+  "Word": "lískový oříšek",
+  "Hint": "_______ ______",
+  "Length": 14,
+  "Translation": "hazelnut",
+  "Index": 1155
+ },
+ {
+  "Word": "mateřská škola",
+  "Hint": "________ _____",
+  "Length": 14,
+  "Translation": "kindergarten",
+  "Index": 1156
+ },
+ {
+  "Word": "panel nástrojů",
+  "Hint": "_____ ________",
+  "Length": 14,
+  "Translation": "toolbar",
+  "Index": 1157
+ },
+ {
+  "Word": "pálivá paprika",
+  "Hint": "______ _______",
+  "Length": 14,
+  "Translation": "pepper",
+  "Index": 1158
+ },
+ {
+  "Word": "páska přes oči",
+  "Hint": "_____ ____ ___",
+  "Length": 14,
+  "Translation": "blindfold",
+  "Index": 1159
+ },
+ {
+  "Word": "roztleskávačka",
+  "Hint": "______________",
+  "Length": 14,
+  "Translation": "cheerleader",
+  "Index": 1160
+ },
+ {
+  "Word": "skateboardista",
+  "Hint": "______________",
+  "Length": 14,
+  "Translation": "skateboarder",
+  "Index": 1161
+ },
+ {
+  "Word": "sněhová vločka",
+  "Hint": "_______ ______",
+  "Length": 14,
+  "Translation": "snowflake",
+  "Index": 1162
+ },
+ {
+  "Word": "stropní větrák",
+  "Hint": "_______ ______",
+  "Length": 14,
+  "Translation": "ceiling fan",
+  "Index": 1163
+ },
+ {
+  "Word": "sušená švestka",
+  "Hint": "______ _______",
+  "Length": 14,
+  "Translation": "prune",
+  "Index": 1164
+ },
+ {
+  "Word": "zubní kartáček",
+  "Hint": "_____ ________",
+  "Length": 14,
+  "Translation": "toothbrush",
+  "Index": 1165
+ },
+ {
+  "Word": "dálkový ovladač",
+  "Hint": "_______ _______",
+  "Length": 15,
+  "Translation": "remote",
+  "Index": 1166
+ },
+ {
+  "Word": "kartáč na vlasy",
+  "Hint": "______ __ _____",
+  "Length": 15,
+  "Translation": "hairbrush",
+  "Index": 1167
+ },
+ {
+  "Word": "mobilní telefon",
+  "Hint": "_______ _______",
+  "Length": 15,
+  "Translation": "cell phone",
+  "Index": 1168
+ },
+ {
+  "Word": "mořská hvězdice",
+  "Hint": "______ ________",
+  "Length": 15,
+  "Translation": "starfish",
+  "Index": 1169
+ },
+ {
+  "Word": "muškátový ořech",
+  "Hint": "_________ _____",
+  "Length": 15,
+  "Translation": "nutmeg",
+  "Index": 1170
+ },
+ {
+  "Word": "nákupní centrum",
+  "Hint": "_______ _______",
+  "Length": 15,
+  "Translation": "mall",
+  "Index": 1171
+ },
+ {
+  "Word": "pohyblivý písek",
+  "Hint": "_________ _____",
+  "Length": 15,
+  "Translation": "quicksand",
+  "Index": 1172
+ },
+ {
+  "Word": "poznámkový blok",
+  "Hint": "__________ ____",
+  "Length": 15,
+  "Translation": "notepad",
+  "Index": 1173
+ },
+ {
+  "Word": "požární stanice",
+  "Hint": "_______ _______",
+  "Length": 15,
+  "Translation": "Fire Station",
+  "Index": 1174
+ },
+ {
+  "Word": "prasečí chlívek",
+  "Hint": "_______ _______",
+  "Length": 15,
+  "Translation": "pigsty",
+  "Index": 1175
+ },
+ {
+  "Word": "přístojová deska",
+  "Hint": "__________ _____",
+  "Length": 16,
+  "Translation": "dashboard",
+  "Index": 1176
+ },
+ {
+  "Word": "sekačka na trávu",
+  "Hint": "_______ __ _____",
+  "Length": 16,
+  "Translation": "lawn mower",
+  "Index": 1177
+ },
+ {
+  "Word": "slupka od banánu",
+  "Hint": "______ __ ______",
+  "Length": 16,
+  "Translation": "banana peel",
+  "Index": 1178
+ },
+ {
+  "Word": "stříbrné příbory",
+  "Hint": "________ _______",
+  "Length": 16,
+  "Translation": "silverware",
+  "Index": 1179
+ },
+ {
+  "Word": "zdravotní sestra",
+  "Hint": "_________ ______",
+  "Length": 16,
+  "Translation": "nurse",
+  "Index": 1180
+ },
+ {
+  "Word": "poštovní schránka",
+  "Hint": "________ ________",
+  "Length": 17,
+  "Translation": "mailbox",
+  "Index": 1181
+ },
+ {
+  "Word": "slunéčko sedmitečné",
+  "Hint": "________ __________",
+  "Length": 19,
+  "Translation": "ladybug",
+  "Index": 1182
+ }
+]
